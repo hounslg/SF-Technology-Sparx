@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<MDG.Technology version="1.0"><Documentation id="1" name="Salesforce" version="0.1" notes="Initial Version"/><UMLProfiles><UMLProfile profiletype="uml2">
+			<Documentation id="82D638DA-5" name="Salesforce Architecture" version="1.0" notes="Salesforce Architecture"/>
+			<Content>
+				<Stereotypes>
+					<Stereotype name="Direction Association" metatype="Direction Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFRKIlPFh66NAwIAAAILAAAHABEAc3RyLmRhdFVUDQAH0pYwYdKWMGHSljBh
+7VZNS8NAFJyrgv+h1EsLLWi1J1FQi3pQED/wKK2ptpi2kkRFxP/uzEvS3X5otRW8lJDNbt7s
+vH3vzS4bo4MmntBGAT32uuhjDatYwXv27WOA2FABe6/YRYIIz5yxkyEu2U9wzraPGzIEHHVQ
+Qg3lISY2TGj8bY4SvHHUJqqIBvbJccKew/fo68XmDIjZQIWvs+Y8qXWTtlHEh7V605Wn8SXs
+RXiwebLlEfptF/dkPCEyZkQR+TU3svVqrQEREf/c8U+X1j7/VchdZAQDZiWiRb6q2GPbyGLV
+apvejDKf3PvP8qcMputPuCJxCeHbv8/YZM5qRGzPRFS/xUx6UQzBFytM4zwiQ8jnkAwh34io
+Y7Ncm0oiHNjfwPo+SllzbPcZT9M8Kjuq1iNnTfOeKmLxKh9wXGVdx+1NrmRZ1/+qq6utG+v1
+d38Mtz9ly+v0kyrNr5fpJ0B+Pvhnxrh6lrpYXBeLVO43O31Zq8Vr5Xau5rWIDe1Ooh0ZQHeF
+FjkSi67nYTQjr8QT/SgHidXW3Sem3wfOPO4rU8ap5znn7OCW9xPl9sF27q6pQztWfpSH4jCS
+vzhLpLAedB5UshgKI1rzc6aahlYZt97ZaryATh1V5gKpskvU0pYpJv9uUlv17Kvxlo1krRtX
+Ycg2n6pq5BHj6Hd+DY3Xfn2Yx/VMB+OZU1vg6BNQSwECFwsUAAAACABUSiJTxYeujQMCAAAC
+CwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAH0pYwYVBLBQYAAAAAAQABAD4AAAA5
+AgAAAAA=</Image>
+						<AppliesTo>
+							<Apply type="Association">
+								<Property name="compositionKind" value="none"/>
+								<Property name="direction" value=""/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGxJIlP1p3mFdQIAAHIUAAAHABEAc3RyLmRhdFVUDQAHOpUwYTqVMGE6lTBh
+7VjBTttAEH1XkPoPVrhAZRCh0EvFoWqFqERFBZV6RJAEgpqEyHaKEOLf+2bWa683bhPcbIUl
+Duvdzc68nXlvsl45xRCXmGKACGOObjHBG6xjDY95P8EdUrXqc3SPQ2RIMKPHh9wi5TjDSH0H
+nGV44GyATXRwjlOc4As+c7xVeJyrxzc+J/hBvz5nQ9rvqc1abjXmfr/U8o5ru4jZSgy7n1nt
+cs23MDhP+pRmsjC5ZhwluFF/WbPZpuhxZcR2pTkcMu5r/UWy7BTYt/x1E8dcSZlHwhgEN9Hc
+JW8Xf4eZzIiQ0WuqcffYxLLDiCM+u8rOVhHFsgxJvGanjMiXuY3LQJVDYSnGNt5XbOaZjD0L
+iaL/hx1sf02UkTInthKXsPKTvnV+pSqr5nKXNjsvntGSWeFMcpH6kmgOcryYfu/m/EIpYb1D
+aPE2mBZNWfQ13Js7OaoKzuvXBMGvknZp2f1PWtYx6zPn/7/Epv7/VYe2SKf2KB1C5/AK+30T
+htujUamUNPcOktJ3RoQeZ7JmGV/VHcTFX6z7S39jhtInBJevd5AmSiz73mqiRfhT7bks+hou
+c2b9O4JfJe3S8vUOsjyCH28opUPoHF5hv2/CcHs0qt5BpJnbhZxZ8t1H+OxD7hpXxMo0wrFj
+Ix5Wiyn3kzwy1bX8qlP/neWrg/1dq+LE2dliDnGBj8rPDZEj3nikCqRWZB+po/LWY56L6m3C
+lTHkthTnUUaVenLZMWe3nNplRKuruDOtfNHqjFg95W2b7wOjv+m72K/09t0hvWBFBdrfKsRE
+fJTXxyfuO2JLNOYDRaz2ru/zqsqvgo2C7428IqoM2xZx/htQSwECFwsUAAAACABsSSJT9ad5
+hXUCAAByFAAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHOpUwYVBLBQYAAAAAAQAB
+AD4AAACrAgAAAAA=</Image>
+						<AppliesTo>
+							<Apply type="Association">
+								<Property name="compositionKind" value="none"/>
+								<Property name="direction" value=""/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Non Salesforce Landscape" metatype="Non Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="7631988" fontcolor="16777215" bordercolor="7631988" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMagIVN5GCqphwIAAMAKAAAHABEAc3RyLmRhdFVUDQAHK90vYSvdL2Er3S9h
+7VZNb9NAEJ1rkPgPlntJpEq0gZaqqIeqCDjRqlD1iJzYJQHHqWwXBFX/O+/Ner27jh1yB0Xe
+nV3Pm483sxtXspBE7iWTSFaQllLIc3kmjzqOmrGQtXxSzRTST+ie4amllAcg37R6OTR+QeMB
+72pItHsmscywVwKbYYyhb7TfYn0Hu0v5DWksh3IiR7KP8UAmrZYZX+BH76lUsD7DaOMew2KJ
+eS6fG48xbMSwG3tWhrEF5FWL+rgj6lwzLBH7rEHO8abAnsnR2bhWPgrYudYoa+APgOBziDGc
+mT9Hi/c5cBFEgf+orda2iBMPcYGYVnjDyKPWu5H2NQZXAWvZ995ny+q5WEZypTpk5RYS0cSn
+Gs+edhX5qiD7jI3kqZHsvJm/rZp543za+V574k6rQSkFNkMsXzHX6MlXyND5G2bN+gkZY4f6
+zL3UcRr0rYulj8Gu3T72FvIFWrlGXTRnLsaaedXizpHN1zBtuTX2u8yOcC4yaF0Ju/UWmBSr
+BVDTLXqMMtczPJb3un+DbMjtO+zSq68x6VhaYf+HotZN7x93mOLNweitzom87tHq64ruE7Ic
+3guO235mwxPs/P6tl46CXurOSyDH8gH+KkSSAMUKmbvA3Iru3pogDj6PHt6XKvhLgKmhzzO4
+gC759pnc5b5h95udbh3IQLrFOqteI6Ml2Ms1A1N1ak7BBO+OcA7xFpmoH+ZTAv8dVod9hvXl
+z3V7jrHLZ9Qyegp5D6tzdO1pL+eb58NKpsvMKoMfZh4NVHMOxpkLz/Iad8i3hvmhiv7bdTSr
+zRpeeCxGcunxGNZxiO1ttYx2rCS/bngPmf/w/7XbtXaXLW9hrRyfu1Rn8/Y0c/gd4MYn+QNQ
+SwECFwsUAAAACADGoCFTeRgqqYcCAADACgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVU
+BQAHK90vYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
+						<AppliesTo>
+							<Apply type="Class">
+								<Property name="_tagGroupings" value="Icon Circle=Salesforce Values;Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+								<Property name="_tagGroups" value="Salesforce Values"/>
+								<Property name="isActive" value=""/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Salesforce Landscape" metatype="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEZzIlN5GCqphwIAAMAKAAAHABEAc3RyLmRhdFVUDQAH+94wYfveMGH73jBh
+7VZNb9NAEJ1rkPgPlntJpEq0gZaqqIeqCDjRqlD1iJzYJQHHqWwXBFX/O+/Ner27jh1yB0Xe
+nV3Pm483sxtXspBE7iWTSFaQllLIc3kmjzqOmrGQtXxSzRTST+ie4amllAcg37R6OTR+QeMB
+72pItHsmscywVwKbYYyhb7TfYn0Hu0v5DWksh3IiR7KP8UAmrZYZX+BH76lUsD7DaOMew2KJ
+eS6fG48xbMSwG3tWhrEF5FWL+rgj6lwzLBH7rEHO8abAnsnR2bhWPgrYudYoa+APgOBziDGc
+mT9Hi/c5cBFEgf+orda2iBMPcYGYVnjDyKPWu5H2NQZXAWvZ995ny+q5WEZypTpk5RYS0cSn
+Gs+edhX5qiD7jI3kqZHsvJm/rZp543za+V574k6rQSkFNkMsXzHX6MlXyND5G2bN+gkZY4f6
+zL3UcRr0rYulj8Gu3T72FvIFWrlGXTRnLsaaedXizpHN1zBtuTX2u8yOcC4yaF0Ju/UWmBSr
+BVDTLXqMMtczPJb3un+DbMjtO+zSq68x6VhaYf+HotZN7x93mOLNweitzom87tHq64ruE7Ic
+3guO235mwxPs/P6tl46CXurOSyDH8gH+KkSSAMUKmbvA3Iru3pogDj6PHt6XKvhLgKmhzzO4
+gC759pnc5b5h95udbh3IQLrFOqteI6Ml2Ms1A1N1ak7BBO+OcA7xFpmoH+ZTAv8dVod9hvXl
+z3V7jrHLZ9Qyegp5D6tzdO1pL+eb58NKpsvMKoMfZh4NVHMOxpkLz/Iad8i3hvmhiv7bdTSr
+zRpeeCxGcunxGNZxiO1ttYx2rCS/bngPmf/w/7XbtXaXLW9hrRyfu1Rn8/Y0c/gd4MYn+QNQ
+SwECFwsUAAAACABGcyJTeRgqqYcCAADACgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVU
+BQAH+94wYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
+						<AppliesTo>
+							<Apply type="Class">
+								<Property name="_tagGroupings" value="Icon Circle=Salesforce Values;Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+								<Property name="_tagGroups" value="Salesforce Values"/>
+								<Property name="isActive" value=""/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Salesforce Object" metatype="Salesforce Objects" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAPSUIlO/vsgJ/wIAAFgNAAAHABEAc3RyLmRhdFVUDQAHbhoxYW4aMWFuGjFh
+7VZJb9NQEJ5rkPgPlntxJA6hUIiKcojKdqKoLeoRZY/BSSrHLUvV/843M35+i+3UnEGW3+I3
+6zfL857WNKEbWlBEG6xS2tJTekL3MvbKcUs7uhTKOVY/QDvCW1BOt+B8AwpDmYHmF2hucVpg
+xZJHFNMU33JwLzDG4FDqt9gvITml31gl9JyGdELPMA/w9Cs61junPaROMRqLE0jKMc/oqtQU
+gzeGvLgT7xbrTcX1qSPXWDzLYfO05JzhZItv6puVcSE4bCHnQqwswD8AB7/qoTur3yedbJhB
+e44xw/5csM4kctaXa8+SttFKjQ7IjKpsMHw98DDyS/GZV3NoTDEWkDiCF4NKdxPtR4wprUBb
+1KgvcVbQe5z/FFrGboXdDrZY/JhHR+uly5vhOQNPJnmX0DFoGWF/rvN+Jo7l33IWQDEX7okg
+kHjn78SaFDjsSbPcRN74EeY783DeNMsz/o2FhrXnsPU7ZDfT82zWD0Ek63ng5ndT5NuzknUb
+TkZwgxPOx6jKcrs6Lr03dhrpriVN8gydtatHd/QVtIzwCohwtylAzbotBj1gw5K4Tq+xYh2s
+ZS6WH0mH4wreY+1WjkXMzPXRtdn0FD2po1evhTW5tfDSq4V2rI0eH+dhgPKLCuswH9y5yf5D
+eK89vPUuiKVvLOGDjzr7q6gbnFV+iLJff7aXcP2107l1+kG+f5Eay1Ej3C8Kj6IfSNrg+51w
+7crO8ipAiu8z7YFKM6TXDVRNGRK+Psr+rWWxbUbWv1+s3sdyye+r4ZyCM0EnnsCyK4wriZDe
+VHpX21u1Dzv4vXf43dWeTAe8Ie1AUdCDut2GnP36JYwDIzA/IJ2jXsAj7YzsgUadKR/v4L2K
+cyJ62B/TU9t1+vHlx2Z7Rnxb+XhGFaKnWB9hN0bWnjZiXq8Ps9Is090CetjzqCWaMyDOvnAt
+79BDvpXIt0X0346j7uoxPHNQjPBvZHH049iG9qFYRh0jyX/d3If0D/N/7LrG7rzCzY+VxbNL
+dOrdU+e2f4IH+gNQSwECFwsUAAAACAD0lCJTv77ICf8CAABYDQAABwAJAAAAAAAAAAAAAIAA
+AAAAc3RyLmRhdFVUBQAHbhoxYVBLBQYAAAAAAQABAD4AAAA1AwAAAAA=</Image>
+						<AppliesTo>
+							<Apply type="Class">
+								<Property name="_tagGroupings" value="Icon Circle=Salesforce Values;Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+								<Property name="_tagGroups" value="Salesforce Values"/>
+								<Property name="isActive" value=""/>
+							</Apply>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Icon Circle" type="enumeration" description="" unit="" values="True,False" default="False"/>
+							<Tag name="Owner" type="" description="" unit="" values="" default=""/>
+							<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
+						</TaggedValues>
+					</Stereotype>
+				</Stereotypes>
+				<TaggedValueTypes/>
+				<ViewDefinitions/>
+				<Metamodel/>
+			</Content>
+		</UMLProfile>
+	</UMLProfiles><Images><RefData version="1.0" exporter="EA.25">
+		</RefData></Images><DiagramProfile><UMLProfile profiletype="uml2">
+			<Documentation id="AEC7F448-5" name="Salesforce Architecture Diagram" version="1.0" notes="Salesforce Architecture Diagram"/>
+			<Content>
+				<Stereotypes>
+					<Stereotype name="Salesforce Landscape (Level 1)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="Diagram_Logical">
+								<Property name="styleex" value="TConnectorNotation=Information Engineering;"/>
+								<Property name="alias" value="Salesforce Diagram"/>
+								<Property name="diagramID" value="SFD"/>
+								<Property name="toolbox" value="Salesforce Toolbox"/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
+				</Stereotypes>
+				<TaggedValueTypes/>
+				<ViewDefinitions/>
+				<Metamodel/>
+			</Content>
+		</UMLProfile>
+	</DiagramProfile><UIToolboxes><UMLProfile profiletype="uml2">
+			<Documentation id="AD6D0A4C-5" name="Salesforce Toolbox" version="1.0" notes="Salesforce Toolbox"/>
+			<Content>
+				<Stereotypes>
+					<Stereotype name="Connectors" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::Direction Association(UML::Association)" type="" description="" unit="" values="" default="Direction"/>
+							<Tag name="Salesforce Architecture::ERD Association(UML::Association)" type="" description="" unit="" values="" default="ERD"/>
+						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default=""/>
+						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="Level 1 (Landscape)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::Non Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce (Landscape)"/>
+							<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default="Salesforce (Landscape)"/>
+						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="Level 2 (Integration Layer)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::Salesforce Object(UML::Class)" type="" description="" unit="" values="" default="Technology"/>
+						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="Level 3 (Prov/DeProv Process)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Level 4 (Data &amp; Objects)" notes="The things that can be added to a diagram." cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::Salesforce Object(UML::Class)" type="" description="" unit="" values="" default="Object"/>
+						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="Salesforce Architecture::Salesforce Landscape(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk2KAwAAAAAAAIoAAAB8AAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
+AActGDFhLRgxYS0YMWHtVktv00AQnmuQ+A+We3GkHkKhEBXlEJXXiaK2qEeUdwxOUjluEVT9
+73wz4/Xu2uvUnEGWZ8f2PL+ZnfWe1jShW1pQRBtwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDA9PT05eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl6Ojo9/f3
+4ODg2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ7u7u4uLi2dnZ
+2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ8PDw4uLi2dnZ2dnZ2dnZ
+2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ8PDw4uLi2dnZ2dnZ2dnZ09PTubm5
+ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm56urq4uLi2dnZ2dnZ2dnZ2dnZ0NHR09PT1NPS
+0NHR0dHQ0dDRzM7O1tbW2dnZ2dnZ8PDw4uLi2dnZ2dnZ2dnZ2dnZqa+0raytura2vru7uras
+qq6zqq+zz83N2dnZ2dnZ8PDw6urq3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d
+3d3d3d3d3d3d8/PzwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA</Icon>
+						<AppliesTo>
+							<Apply type="ToolboxItemImage"/>
+						</AppliesTo>
+					</Stereotype>
+				</Stereotypes>
+				<TaggedValueTypes/>
+				<ViewDefinitions/>
+				<Metamodel/>
+			</Content>
+		</UMLProfile>
+	</UIToolboxes></MDG.Technology>

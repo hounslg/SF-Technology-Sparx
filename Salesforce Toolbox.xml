@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="AD6D0A4C-5" name="Salesforce Toolbox" version="1.0" notes="Salesforce Toolbox"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Connectors" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Direction Association(UML::Association)" type="" description="" unit="" values="" default="Direction"/>
+					<Tag name="Salesforce Architecture::ERD Association(UML::Association)" type="" description="" unit="" values="" default="ERD"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Level 1 (Landscape)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Non Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce (Landscape)"/>
+					<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default="Salesforce (Landscape)"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Level 2 (Integration Layer)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Salesforce Object(UML::Class)" type="" description="" unit="" values="" default="Technology"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Level 3 (Prov/DeProv Process)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Level 4 (Data &amp; Objects)" notes="The things that can be added to a diagram." cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Salesforce Object(UML::Class)" type="" description="" unit="" values="" default="Object"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Salesforce Landscape(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk2KAwAAAAAAAIoAAAB8AAAAEAAAABAAAAABABgAAAAAAAADAAAjLgAAIy4AAAAAAAAAAAAA
+AActGDFhLRgxYS0YMWHtVktv00AQnmuQ+A+We3GkHkKhEBXlEJXXiaK2qEeUdwxOUjluEVT9
+73wz4/Xu2uvUnEGWZ8f2PL+ZnfWe1jShW1pQRBtwwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDA9PT05eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl6Ojo9/f3
+4ODg2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ7u7u4uLi2dnZ
+2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ8PDw4uLi2dnZ2dnZ2dnZ
+2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ8PDw4uLi2dnZ2dnZ2dnZ09PTubm5
+ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm5ubm56urq4uLi2dnZ2dnZ2dnZ2dnZ0NHR09PT1NPS
+0NHR0dHQ0dDRzM7O1tbW2dnZ2dnZ8PDw4uLi2dnZ2dnZ2dnZ2dnZqa+0raytura2vru7uras
+qq6zqq+zz83N2dnZ2dnZ8PDw6urq3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d
+3d3d3d3d3d3d8/PzwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA
+wMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="AEC7F448-5" name="Salesforce Architecture Diagram" version="1.0" notes="Salesforce Architecture Diagram"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Salesforce Landscape (Level 1)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Logical">
+						<Property name="styleex" value="TConnectorNotation=Information Engineering;"/>
+						<Property name="alias" value="Salesforce Diagram"/>
+						<Property name="diagramID" value="SFD"/>
+						<Property name="toolbox" value="Salesforce Toolbox"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>
