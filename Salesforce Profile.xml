@@ -65,7 +65,7 @@ SwECFwsUAAAACADGoCFTeRgqqYcCAADACgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVU
 BQAHK90vYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Icon Circle=Salesforce Values;Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;RecordType=Salesforce Values;"/>
 						<Property name="_tagGroups" value="Salesforce Values"/>
 						<Property name="isActive" value=""/>
 					</Apply>
@@ -89,39 +89,36 @@ SwECFwsUAAAACABGcyJTeRgqqYcCAADACgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVU
 BQAH+94wYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Icon Circle=Salesforce Values;Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;RecordType=Salesforce Values;"/>
 						<Property name="_tagGroups" value="Salesforce Values"/>
 						<Property name="isActive" value=""/>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="Salesforce Object" metatype="Salesforce Objects" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAPSUIlO/vsgJ/wIAAFgNAAAHABEAc3RyLmRhdFVUDQAHbhoxYW4aMWFuGjFh
-7VZJb9NQEJ5rkPgPlntxJA6hUIiKcojKdqKoLeoRZY/BSSrHLUvV/843M35+i+3UnEGW3+I3
-6zfL857WNKEbWlBEG6xS2tJTekL3MvbKcUs7uhTKOVY/QDvCW1BOt+B8AwpDmYHmF2hucVpg
-xZJHFNMU33JwLzDG4FDqt9gvITml31gl9JyGdELPMA/w9Cs61junPaROMRqLE0jKMc/oqtQU
-gzeGvLgT7xbrTcX1qSPXWDzLYfO05JzhZItv6puVcSE4bCHnQqwswD8AB7/qoTur3yedbJhB
-e44xw/5csM4kctaXa8+SttFKjQ7IjKpsMHw98DDyS/GZV3NoTDEWkDiCF4NKdxPtR4wprUBb
-1KgvcVbQe5z/FFrGboXdDrZY/JhHR+uly5vhOQNPJnmX0DFoGWF/rvN+Jo7l33IWQDEX7okg
-kHjn78SaFDjsSbPcRN74EeY783DeNMsz/o2FhrXnsPU7ZDfT82zWD0Ek63ng5ndT5NuzknUb
-TkZwgxPOx6jKcrs6Lr03dhrpriVN8gydtatHd/QVtIzwCohwtylAzbotBj1gw5K4Tq+xYh2s
-ZS6WH0mH4wreY+1WjkXMzPXRtdn0FD2po1evhTW5tfDSq4V2rI0eH+dhgPKLCuswH9y5yf5D
-eK89vPUuiKVvLOGDjzr7q6gbnFV+iLJff7aXcP2107l1+kG+f5Eay1Ej3C8Kj6IfSNrg+51w
-7crO8ipAiu8z7YFKM6TXDVRNGRK+Psr+rWWxbUbWv1+s3sdyye+r4ZyCM0EnnsCyK4wriZDe
-VHpX21u1Dzv4vXf43dWeTAe8Ie1AUdCDut2GnP36JYwDIzA/IJ2jXsAj7YzsgUadKR/v4L2K
-cyJ62B/TU9t1+vHlx2Z7Rnxb+XhGFaKnWB9hN0bWnjZiXq8Ps9Is090CetjzqCWaMyDOvnAt
-79BDvpXIt0X0346j7uoxPHNQjPBvZHH049iG9qFYRh0jyX/d3If0D/N/7LrG7rzCzY+VxbNL
-dOrdU+e2f4IH+gNQSwECFwsUAAAACAD0lCJTv77ICf8CAABYDQAABwAJAAAAAAAAAAAAAIAA
-AAAAc3RyLmRhdFVUBQAHbhoxYVBLBQYAAAAAAQABAD4AAAA1AwAAAAA=</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIANqYI1OobDqXjAIAAPwKAAAHABEAc3RyLmRhdFVUDQAHRXIyYUVyMmFFcjJh
+7VZNT9tAEJ1rKvEfLHNJpB5o2kBElQOiAk4F0VYckRObOq3jINuAWsR/75sdr/fDdvCdyvLu
+7HrefLyZXbmklCK6p4QC2kBaU0579I6e1Tiqx5y29E1pxpCeoLvAW1FBD0B+hobWzKDzBzoP
++FpBYssLCmmJvQLoBGMIhGh/wfoOltf0F9KYPtCcZvQe8wGeSaPHfmMqYXWJUUc8hqUC84q+
+155CYEPYCwdhc8ibBvV1IOpEZVYg5mWNXOFLjj3Jzdi4VjzksHOtoqyAPwCCX8nQniXvmYWX
+Uc8misCJIWhqZRD90UcW8hTxbfCFswiaSIw0VaOJSFu3I+myp/VMXCN6pFvoZtD7CUa4Iypo
+s2+dLT9XyhJzeQOJfbCXWEW+r7qQWS4h2zyP6KWW9Nwe7Zh13eVLm7171VV3qp4sxcAmKvIU
+/hf0CbwY3/1caz8uz3OP5Y8N13ZG/twV/y6+U4dvOa8h1pxX5bHO+Qrrmmex77M8wslKoHVF
+3O83wMRYpUBNd+hxlJk6/WM6V/s/kA1ze4Zd9mprTDxLG+w/KtS2Pj2HHlN853D0WmdORx1a
+XR3ivy7L7s1iuO1m1r0DjN/Xemnm9JI/r4Ec0wX8lYgkAoorJLeJ3Kfm5psgDn6fLbwtlfAX
+AVNBn09tCl3m22ZyyI3F3S87fh2YgXiHda56hYzWYC9TGUjVWXMKJvgGdGcXr5GR8sP5FMD/
+htV+n259+THdnmH0+QwaRo8h72N1gq497uS8fT60JF0mqwR+OPOgp5orMM658Fne4g75VTPf
+V9G3XUdZtWt4arEY0KXFo1vHPrZ31TIYWEn+M+J7SP4C/tduaO0uG97cWhk+h1SnfXvK3PdP
+8EL/AFBLAQIXCxQAAAAIANqYI1OobDqXjAIAAPwKAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
+ZGF0VVQFAAdFcjJhUEsFBgAAAAABAAEAPgAAAMICAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Icon Circle=Salesforce Values;Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;RecordType=Salesforce Values;"/>
 						<Property name="_tagGroups" value="Salesforce Values"/>
 						<Property name="isActive" value=""/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="Icon Circle" type="enumeration" description="" unit="" values="True,False" default="False"/>
 					<Tag name="Owner" type="" description="" unit="" values="" default=""/>
 					<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
 				</TaggedValues>
