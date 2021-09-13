@@ -47,7 +47,11 @@ AD4AAACrAgAAAAA=</Image>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
-			<Stereotype name="Non Salesforce Landscape" metatype="Non Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="7631988" fontcolor="16777215" bordercolor="7631988" borderwidth="1" hideicon="0">
+			<Stereotype name="Non Salesforce Small Card" metatype="Non Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="7631988" fontcolor="16777215" bordercolor="7631988" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Small Card"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Small Card"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMagIVN5GCqphwIAAMAKAAAHABEAc3RyLmRhdFVUDQAHK90vYSvdL2Er3S9h
 7VZNb9NAEJ1rkPgPlntJpEq0gZaqqIeqCDjRqlD1iJzYJQHHqWwXBFX/O+/Ner27jh1yB0Xe
 nV3Pm483sxtXspBE7iWTSFaQllLIc3kmjzqOmrGQtXxSzRTST+ie4amllAcg37R6OTR+QeMB
@@ -65,13 +69,52 @@ SwECFwsUAAAACADGoCFTeRgqqYcCAADACgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVU
 BQAHK90vYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;"/>
 						<Property name="_tagGroups" value="Salesforce Values"/>
 						<Property name="isActive" value=""/>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
-			<Stereotype name="Salesforce Landscape" metatype="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+			<Stereotype name="Salesforce Detailed Card" metatype="Salesforce Objects" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce Small Card"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce Small Card"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAJCZLFOckSzFpAIAAJ4MAAAHABEAc3RyLmRhdFVUDQAHOFE+YThRPmE4UT5h
+7VZLb9NAEJ5rkPgPlntJJA4lEIiKcqiKgBOtCqhH5MQODjhOZbvlUfW/95sdr/fhBz5wo4q8
+O7uebx7f7E5cUkoRXVNCAe0h7Sinp/SE7tQ4qcecDvRJacaQfkJ3haeigm6AfAMNrZlB5zd0
+bvC2gsSWVxTSGnsF0AnGEAjRfov1FpZ39AfSlJ7Tkhb0DPMxfrNGj/3GVMLqGqOOeApLBeYN
+fa49hcCGsBeOwuaQ9w3q40jUqcqsQMzrGrnBmxx7kpuxcal4yGHnUkVZAX8MBD+SoT1L3osG
+LzYMszKaWAInkqCpmNYcyiGykGeIco83nEvQxGOkuRrbcdmRdNnTeiauCd3SV+hm0PsGXvhc
+VNBm35oz/l0oS8zoFST2wV5iFfmROovMdQnZZntC97Wk5/Zox6yrL2/a7F2rs7VVVWUpBjZR
+kafwv6KX4MX47uda+3F5Xnosv2i4tjPy5674h/hOHb7l1oZYc16VxzrnK6xrnsW+z/IE9yuB
+1gXxqb8CJsYqBWo+oMdRZqoHTOm92v+CbJjbd9hlr7bGzLO0x/6tQh3qO/TKY4o7D0evdZb0
+ukOr64T4j8uy218Mt93Mup3A+P3bWVo4Z8mfd0BO6QP8lYgkAoorJD1FuqrpfzPEwc+dhbel
+Ev4iYCro861Noct820yO6Vt8+mXHrwMzEA9Y56pXyGgH9jKVgVSdNedggvugO7t4jYyUH86n
+AP4HrPb7dOvLP3PaM4w+n0HD6AnkI6xOcWpPOjlv3w8tySmTVQI/nHnQU80NGOdc+C4f0EO+
+18z3VfT/rqOs2jU8s1gM6Nzi0a1jH9tDtQxGVpK/j7gPybfAY+3G1u684c2tleHzX1RnS9x/
+OfuEftHj/WrzOVQjUxWfxzG1af+zydz3vXZPD1BLAQIXCxQAAAAIAJCZLFOckSzFpAIAAJ4M
+AAAHAAkAAAAAAAAAAAAAgAAAAABzdHIuZGF0VVQFAAc4UT5hUEsFBgAAAAABAAEAPgAAANoC
+AAAAAA==</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;"/>
+						<Property name="_tagGroups" value="Salesforce Values"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="CustomObject" type="" description="" unit="" values="" default=""/>
+					<Tag name="FreeText" type="" description="" unit="" values="" default=""/>
+					<Tag name="Owner" type="" description="" unit="" values="" default=""/>
+					<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Salesforce Small Card" metatype="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce Small Card"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce Small Card"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEZzIlN5GCqphwIAAMAKAAAHABEAc3RyLmRhdFVUDQAH+94wYfveMGH73jBh
 7VZNb9NAEJ1rkPgPlntJpEq0gZaqqIeqCDjRqlD1iJzYJQHHqWwXBFX/O+/Ner27jh1yB0Xe
 nV3Pm483sxtXspBE7iWTSFaQllLIc3kmjzqOmrGQtXxSzRTST+ie4amllAcg37R6OTR+QeMB
@@ -89,39 +132,11 @@ SwECFwsUAAAACABGcyJTeRgqqYcCAADACgAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVU
 BQAH+94wYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;RecordType=Salesforce Values;"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;"/>
 						<Property name="_tagGroups" value="Salesforce Values"/>
 						<Property name="isActive" value=""/>
 					</Apply>
 				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Salesforce Object" metatype="Salesforce Objects" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAPaZI1OXBanKjQIAAAILAAAHABEAc3RyLmRhdFVUDQAHX3QyYV90MmFfdDJh
-7VZLb9NAEJ5rkPgPlntJJA4lkBIV5VAVASdalVY9Vk7s4rSOU9luEVT973yz4/U+/MB3kOXd
-2fV88/hmd+SSUorogRIKaAdpSzm9plf0rMZJPea0p+9KM4b0E7orvBUV9AjkR2hozQw6v6Dz
-iK8VJLa8opDW2CuATjCGQIj2J6xvYXlLvyFN6S0taUFvMB/imTV67DemElbXGHXEU1gqMG/o
-svYUAhvCXjgKm0PeNahvI1EnKrMCMa9r5AZfcuxJbsbGheIhh50LFWUF/CEQ/EqG9ix5Lxq8
-2DDMymhiCZxIgqZiWnMoh8hCniLKHb5wLkETj5HmamzHZUfSZU/rmbgm9EQ30M2g9wO88Lmo
-oM2+NWf8nCtLzOg1JPbBXmIV+YE6i8x1Cdlme0IvtaTn9mjHrKsvX9rsPaizdauqylIMbKIi
-T+F/Re/Bi/Hdz7X24/K89Fh+13BtZ+TPXfEP8Z06fMutDbHmvCqPdc5XWNc8i32f5QnuVwKt
-c+JTfw1MjFUK1HxAj6PMVA+Y0he1f4VsmNvP2GWvtsbMs7TD/pNC7es7dOQxxZ2Ho9c6S/rQ
-odV1QvzXZdntL4bbbmbdTmD8/u0sLZyz5M9bIKf0Ff5KRBIBxRWSniJd1fS/GeLg99nC21IJ
-fxEwFfT51qbQZb5tJsf0LT79suPXgRmIB6xz1StktAV7mcpAqs6aczDBfdCdXbxGRsoP51MA
-fw+r/T7d+vJjTnuG0eczaBg9hnyA1QlO7XEn5+37oSU5ZbJK4IczD3qquQHjnAvf5T16yF3N
-fF9F/+06yqpdw1OLxYDOLB7dOvaxPVTLYGQl+f+I+5D8C/yv3djanTW8ubUyfI6pTrt7ytz3
-T/BCfwBQSwECFwsUAAAACAD2mSNTlwWpyo0CAAACCwAABwAJAAAAAAAAAAAAAIAAAAAAc3Ry
-LmRhdFVUBQAHX3QyYVBLBQYAAAAAAQABAD4AAADDAgAAAAA=</Image>
-				<AppliesTo>
-					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;RecordType=Salesforce Values;"/>
-						<Property name="_tagGroups" value="Salesforce Values"/>
-						<Property name="isActive" value=""/>
-					</Apply>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Owner" type="" description="" unit="" values="" default=""/>
-					<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
-				</TaggedValues>
 			</Stereotype>
 		</Stereotypes>
 		<TaggedValueTypes/>
