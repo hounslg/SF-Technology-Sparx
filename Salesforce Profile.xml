@@ -3,7 +3,7 @@
 	<Documentation id="82D638DA-5" name="Salesforce Architecture" version="1.0" notes="Salesforce Architecture"/>
 	<Content>
 		<Stereotypes>
-			<Stereotype name="Direction Association" metatype="Direction Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+			<Stereotype name="Direction Association" metatype="Direction Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAIyTLVMwldLfWwIAAFYNAAAHABEAc3RyLmRhdFVUDQAHRpg/YUaYP2FGmD9h
 7VZdaxNBFD2vEfwPS/oSwUCb2iepYBXtQ8XSRHyUtJs2wSRbkq1Si//dc+7MZGe3SU03FV/C
 Mh9379eZ+zHMHEP0cY0BEky4G2GK53iGBu78OkWGuUml3P3EIXLMcEON116iy32OU85TfKWF
@@ -29,7 +29,7 @@ AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 					<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Dashed"/>
 				</TaggedValues>
 			</Stereotype>
-			<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+			<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAJaTLVPEJCs+zQIAANIWAAAHABEAc3RyLmRhdFVUDQAHW5g/YVuYP2FbmD9h
 7VjBTttAEJ0rlfoPVri0VUAJLb0gDqio7YGqiARxrCBOCGoSR7bTiqL+O29md+P12mkS462w
 hKz1er0zb8bvje3VJjSma5rTkAKa4uqOZvSaXtEOPeh+RhElYhXi6jcdU0oxLeBxpC12nP6O
