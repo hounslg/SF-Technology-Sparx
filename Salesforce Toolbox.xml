@@ -3,6 +3,32 @@
 	<Documentation id="AD6D0A4C-5" name="Salesforce Toolbox" version="1.0" notes="Salesforce Toolbox"/>
 	<Content>
 		<Stereotypes>
+			<Stereotype name="Collapsed (Icons)" notes="Collapsed Cards" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="Non SF Small Card"/>
+					<Tag name="Salesforce Architecture::Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="SF Small Card"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Collapsed (No Icons)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce No Icon"/>
+					<Tag name="Salesforce Architecture::Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Salesforce No Icon"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Detailed" notes="Detailed SF Card" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Salesforce Detailed Card(UML::Class)" type="" description="" unit="" values="" default="Salesforce Detailed Card"/>
+				</TaggedValues>
+			</Stereotype>
 			<Stereotype name="Connectors" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
 					<Apply type="ToolboxPage"/>
@@ -17,21 +43,7 @@
 					<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default=""/>
 				</TaggedValues>
 			</Stereotype>
-			<Stereotype name="Salesforce Architecture::Salesforce Landscape(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<AppliesTo>
-					<Apply type="ToolboxItemImage"/>
-				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Salesforce Components" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<AppliesTo>
-					<Apply type="ToolboxPage"/>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce Small Card"/>
-					<Tag name="Salesforce Architecture::Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="Salesforce Small Card"/>
-					<Tag name="Salesforce Architecture::Salesforce Detailed Card(UML::Class)" type="" description="" unit="" values="" default="Salesforce Detailed Card"/>
-				</TaggedValues>
-			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Salesforce Landscape(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0"/>
 		</Stereotypes>
 		<TaggedValueTypes/>
 		<ViewDefinitions/>
