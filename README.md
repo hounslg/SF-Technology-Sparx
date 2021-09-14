@@ -3,7 +3,7 @@ This is a Sparx Enterprise Architecture custom technology package that provides 
 
 No Salesforce assets are actually included in this package, you can download icons and other resources from the various Salesforce links below.  
 
-I will be including a BIMP file (GIMP batch automation) that allows you to take the icons you down load from Salesforce and generate ones that look like the ones in https://www.lightningdesignsystem.com/icons/ The downloaded icons are white with a transparent background by default.
+I will be including a BIMP file (GIMP batch automation) that allows you to take the icons you download from Salesforce and generate ones that look like the ones in https://www.lightningdesignsystem.com/icons/ The downloaded icons are white with a transparent background by default.
 
 ## Elements
  ![Toolbox Items](/md-images/toolbox.png)
