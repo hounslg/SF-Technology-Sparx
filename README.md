@@ -54,7 +54,7 @@ By default the icons from Salesforce are white with a transparent background.  T
 ![Toolbox Items](/md-images/icons.png)
 The package does't contain the Salesforce icons, these can be downloaded using the links below.  You can then convert them using the BIMP file to a coloured rectangle, image in the top left corner.
 Some icons though are used with a white circlar background.  I've not found a way to create this yet using BIMP.
-To create this the MDG file contains three images, a white circle and two versions with boarders.  These can be used to create the diagram above.
+To create this the MDG file contains three images, a white circle and two versions with borders.  These can be used to create the diagram above.
 
 ## Salesforce Links
 * https://medium.com/salesforce-architects/introducing-salesforce-diagrams-a8fa7bc4a3e
