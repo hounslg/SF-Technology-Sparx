@@ -38,7 +38,7 @@ Selected one of the following
 + Free Text
 
 ### Connectors
-There are two types of connectors, an integraiton style which can show direction, and an ERD style one showing multiplicity. Both line types can have their style (solid,dotted,dashed...) configured by the tag value.
+There are two types of connectors, an integraiton style which can show direction, and an ERD style one showing multiplicity. Both line types can have their style (solid,dotted,dashed...) configured by the tag value.  Both connectors also support the quick linker option in Enterprise Architect.
 
 #### Integration
 This shows a simple link between two objects.  You can specificy the direction and based on what you've selected appropriate solid arrows are show.  This connector also supports the UML style of multiplicity (e.g. 0..\*) and displays this as expected.
@@ -52,13 +52,13 @@ This is more for the data objects of the underlying design (level 4 diagrams).  
 ## Icons 
 By default the icons from Salesforce are white with a transparent background.  The BIMP file will convert the images to PNG with a coloured background and with rounded corners.  The same as they appear on the Salesforce page.
 ![Toolbox Items](/md-images/icons.png)
-The package does't contain the Salesforce icons, these can be downloaded using the links below.  You can then convert them using the BIMP file to a coloured rectangle.
+The package does't contain the Salesforce icons, these can be downloaded using the links below.  You can then convert them using the BIMP file to a coloured rectangle, image in the top left corner.
 Some icons though are used with a white circlar background.  I've not found a way to create this yet using BIMP.
-To create this the MDG file contains three images, white circle and two with boarders.  These can be used to create the diagram above.
+To create this the MDG file contains three images, a white circle and two versions with boarders.  These can be used to create the diagram above.
 
 ## Salesforce Links
-https://medium.com/salesforce-architects/introducing-salesforce-diagrams-a8fa7bc4a3e
-
+* https://medium.com/salesforce-architects/introducing-salesforce-diagrams-a8fa7bc4a3e
+* https://www.lightningdesignsystem.com/icons/
 * https://architect.salesforce.com/design/diagram-templates/how-to-diagram/
 * https://architect.salesforce.com/design/diagram-templates/doc-implementation-templates/
 * https://architect.salesforce.com/design/diagram-templates/kit-of-parts/

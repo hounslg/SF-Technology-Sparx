@@ -58,8 +58,8 @@ MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="Non SF Small Card"/>
 					<Tag name="Salesforce Architecture::Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="SF Small Card"/>
+					<Tag name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="Non SF Small Card"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Collapsed (No Icons)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
@@ -67,8 +67,8 @@ MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce No Icon"/>
 					<Tag name="Salesforce Architecture::Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Salesforce No Icon"/>
+					<Tag name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce No Icon"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Detailed" notes="Detailed SF Card" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
@@ -84,8 +84,8 @@ MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="Salesforce Architecture::Direction Association(UML::Association)" type="" description="" unit="" values="" default="Direction"/>
 					<Tag name="Salesforce Architecture::ERD Association(UML::Association)" type="" description="" unit="" values="" default="ERD"/>
+					<Tag name="Salesforce Architecture::Integration Association(UML::Association)" type="" description="" unit="" values="" default="Integration"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
