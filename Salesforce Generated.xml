@@ -30,22 +30,23 @@ AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 						</TaggedValues>
 					</Stereotype>
 					<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
-						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAJaTLVPEJCs+zQIAANIWAAAHABEAc3RyLmRhdFVUDQAHW5g/YVuYP2FbmD9h
-7VjBTttAEJ0rlfoPVri0VUAJLb0gDqio7YGqiARxrCBOCGoSR7bTiqL+O29md+P12mkS462w
-hKz1er0zb8bvje3VJjSma5rTkAKa4uqOZvSaXtEOPeh+RhElYhXi6jcdU0oxLeBxpC12nP6O
-RkB7Q1/hk1Af51uMWnQm6BypT/cSs0VttFOxG2McYvQWx4OFmeB+ShPtm+D6HqOhIJ7SCfUQ
-h71MNn91P4QV+wYV8okQJc3ls1k234FUdy6Km0BntU0+ofZl3ZSnv7yent/qLO2z6XuCe47z
-jK6AHmI0BuoXuX8pcWM938P8H4nJuR0tMaaI+EvsI8x18FwdK7rJWc12MedaKByVJTf1lqh3
-KcVVDA7Zn+cMIwkNMDNBuxEejvHEI7nDGbeW2KyHUeMcSJHgxsIfc2fj7+NJFkBI4TWXvAdo
-bMlaBTh3C7qs4u8gxxDnqyKlQL7WNjYDeQ6ZpTbt0cecTZHJtmPBWYQrIph+BJSJMMe2nBez
-8hO+ZX6ZKnVz2YHN/rNnNGOWOeNn4fribA41Xht+7wt+vpSw/w11a/HOmxZVWXQ1PCh8OfIK
-FvWrguBWSbO07P4nLcuYdZlz3y+2KX+/ytDW6dQcpX3o7F9ht6/CcHM0ypTiZq9BEvgugDDA
-iOcM43WtQWz89bo/9z+mL318cPmyBqmixKb/rSpa+P+qbcuiq+Em36ynI7hV0iwtX9YgmyO4
-+fpS2ofO/hV2+yoMN0ej/BqEm1pd8DeL9xWZz5B4rXFDam8twt3Mhj2MFnPE4+dIRddsP6h8
-n+Wbhd2XqjizIhvMMf2gE+HnFsgBVjxcBVwrHIfrKFv1qPO6epthZkpmN4yzDHL1ZLNj77PV
-X3EXUvms1QWwBsLbHv4HSn/Vd+lDrjf/Du4ZK1ii/atCVMafdX18QtwJWiw5Hwpivrd9t6sq
-twp2l3zv6orIM2xagPEjUEsBAhcLFAAAAAgAlpMtU8QkKz7NAgAA0hYAAAcACQAAAAAAAAAA
-AACAAAAAAHN0ci5kYXRVVAUAB1uYP2FQSwUGAAAAAAEAAQA+AAAAAwMAAAAA</Image>
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAI56LlMJm8en9AIAAEwWAAAHABEAc3RyLmRhdFVUDQAHx71AYce9QGHHvUBh
+7Vhdb9owFL2vnbT/ENGXbaIVYWMvVR+qdR8PnYYK0x4nSqBUA4JI2NRV/e8799omjhNGSJMp
+DxOyHePrc2/OubEtRzSjEa1oQh4t8HRHS3pOz+iIHnS7pJAisQrw9IvOKaY1bTDjTFuo+o6m
+wHhBn2AZ0RD1LXotuhJMxh/SvXhqURvlUuxm6AfovcTvYYt1hJEJ/Mz13AjP9+hNBPGSLmgA
+PzzLxPCo2wmseK5XIp4QXuJUPMWi+QKkqmNR3Hg6qkPiCfRcVkvNrC+up8e3O0pVDwSpj3pJ
+34AXoDcDzkf5/6t4WuvxAcZ/ixeO5myLsYCPn2IfYqyDN+lY/kyUatTHmGuhcFRcXNTXoL6Z
+GE9rsMbzecxwENEYI3OUG3nzc7zjVP7hiFtbbFbA8N8HUii4a2GM2bLxT/EmGyDEmLWSuMco
+bMnqeKj9jBK7+OumGOJ4lacYyCNtYzOQ5pBZatMJvU3ZZJlsOxYcRZDrIYmXV5eQfsC2n2OX
+qFA1dx3YnOYw6LbNYtS072HL1ivJL7b1Ba+HuivPvYJKFNXC1sPeA6pW5FVGkaoUKMudq1w3
+s16kdcuqVgbBzY2nK1ivev4/Ui+PS5cr9ztim/zvKA9tnzJN1rYOZevX1G3LcNpkVRJtuNjn
+iQhzN0AYo8djhuOqzhM2/n6ls7thVUq7euTx7X61WVWrU6QO9nadKJrFoWkP3QWr477o/lOG
+/frXqkN5c1UrshI1eS2rR73/p4fiCG681Wlbh7L1a+q2ZThtsirp0wMXdS7gex2+xWMGA+JT
+wg2pO60Q/yY2PMOwv4I/jjwWJZN7mPzbjs8W9lDy4MrybDBn9J0uhJFbIHs4q7DunB3shzMn
+Oa+oel+GLTGyIHMLxVF6qQyy2bHvt6rPsWvJdVbyGlhj4e0EKLzam9an15IBPr2R1h5lLG+L
+9recUBF/QKy8v7yD3znKWmLu6d3Fbu25Uz1rJPj8Tiar8n2ls+B4y/exzog0w6Z4uq/ex6M/
+UEsBAhcLFAAAAAgAjnouUwmbx6f0AgAATBYAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRV
+VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 						<AppliesTo>
 							<Apply type="Association">
 								<Property name="compositionKind" value="none"/>
@@ -114,7 +115,7 @@ BQAHK90vYVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Salesforce Detailed Card" metatype="SF Detail" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+					<Stereotype name="Salesforce Detailed Card" metatype="SF Detail" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 							<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
@@ -150,7 +151,7 @@ AAAAAA==</Image>
 							<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Salesforce No Icon" metatype="SF No Icon" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+					<Stereotype name="Salesforce No Icon" metatype="SF No Icon" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 							<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
@@ -179,7 +180,7 @@ P2FQSwUGAAAAAAEAAQA+AAAAuAIAAAAA</Image>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
-					<Stereotype name="Salesforce Small Card" metatype="SF" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="13684944" borderwidth="1" hideicon="0">
+					<Stereotype name="Salesforce Small Card" metatype="SF" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 							<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
@@ -240,6 +241,56 @@ BQAHipo/YVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 			<Documentation id="AD6D0A4C-5" name="Salesforce Toolbox" version="1.0" notes="Salesforce Toolbox"/>
 			<Content>
 				<Stereotypes>
+					<Stereotype name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39ADMzMwBmZmYA////AMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
+IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiMzMzMzESIiIiIiIiIRIi
+IiMjQiMhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+						<AppliesTo>
+							<Apply type="ToolboxItemImage"/>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39ADMzMwBmZmYAAAD/AP///wDMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
+IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
+MiQkUiQhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+						<AppliesTo>
+							<Apply type="ToolboxItemImage"/>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Salesforce Architecture::Salesforce Detailed Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39AJmZmQDMzMwAMzMzAE1NTQD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhFVVVVVVVVVEVVVVV
+VVVVURIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiREREREESIiIiIiIiIRIi
+IiMkMjIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+						<AppliesTo>
+							<Apply type="ToolboxItemImage"/>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Salesforce Architecture::Salesforce No Icon(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39AJmZmQDMzMwAMzMzAE1NTQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
+IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiMzMzMzESIiIiIiIiIRIi
+IiMkMjIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+						<AppliesTo>
+							<Apply type="ToolboxItemImage"/>
+						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="Salesforce Architecture::Salesforce Small Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39AJmZmQDMzMwA/wAAADMzMwBNTU0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
+IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
+MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+						<AppliesTo>
+							<Apply type="ToolboxItemImage"/>
+						</AppliesTo>
+					</Stereotype>
 					<Stereotype name="Collapsed (Icons)" notes="Collapsed Cards" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<AppliesTo>
 							<Apply type="ToolboxPage"/>
@@ -280,7 +331,6 @@ BQAHipo/YVBLBQYAAAAAAQABAD4AAAC9AgAAAAA=</Image>
 							<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default=""/>
 						</TaggedValues>
 					</Stereotype>
-					<Stereotype name="Salesforce Architecture::Salesforce Landscape(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0"/>
 				</Stereotypes>
 				<TaggedValueTypes/>
 				<ViewDefinitions/>

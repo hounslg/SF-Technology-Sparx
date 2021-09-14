@@ -20,12 +20,20 @@ These are standard collapsed cards with space in the top left corner for a icon.
 The non Salesforce collapsed cards are the same apart from their default colour settings.  These can also be changed in the same way as the salesforce cards.
 
 These cards have space for an icon, though these are just images that are added to the model separately. 
+&nbsp;
+&nbsp;
 
 ### Collapsed Cards (No Icons)
 This is similar to the cards with icons, but with out the space for an icon.  These are also useful for items within a container.
 
 ### Detailed Card
-Card with extras
+This provides some extra features over the collapsed versions.
+![Toolbox Items](/md-images/SFDetailedCard.jpg)
+Selected one of the following
++ RecordType
++ Owner
++ Custom Object
++ Free Text
 
 ### Connectors
 There are two types of connectors, an integraiton style which can show direction, and an ERD style one showing multiplicity. Both line types can have their style (solid,dotted,dashed...) configured by the tag value.
