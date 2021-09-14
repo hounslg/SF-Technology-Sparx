@@ -22,13 +22,17 @@ The non Salesforce collapsed cards are the same apart from their default colour 
 These cards have space for an icon, though these are just images that are added to the model separately. 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ### Collapsed Cards (No Icons)
 This is similar to the cards with icons, but with out the space for an icon.  These are also useful for items within a container.
 
 ### Detailed Card
-This provides some extra features over the collapsed versions.
+This provides some extra features over the collapsed versions.  This has the space for an icon in the top left, and icons along the bottom.
 ![Toolbox Items](/md-images/SFDetailedCard.jpg)
+&nbsp;
+&nbsp;
 Selected one of the following
 + RecordType
 + Owner
