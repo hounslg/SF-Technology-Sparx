@@ -48,7 +48,17 @@ This shows a simple link between two objects.  You can specificy the direction a
 This is more for the data objects of the underlying design (level 4 diagrams).  This uses the ERD or crows foot notation for each end.
 ![Toolbox Items](/md-images/ERDAssocation.png)
 
+
+## Icons 
+By default the icons from Salesforce are white with a transparent background.  The BIMP file will convert the images to PNG with a coloured background and with rounded corners.  The same as they appear on the Salesforce page.
+![Toolbox Items](/md-images/icons.png)
+The package does't contain the Salesforce icons, these can be downloaded using the links below.  You can then convert them using the BIMP file to a coloured rectangle.
+Some icons though are used with a white circlar background.  I've not found a way to create this yet using BIMP.
+To create this the MDG file contains three images, white circle and two with boarders.  These can be used to create the diagram above.
+
 ## Salesforce Links
+https://medium.com/salesforce-architects/introducing-salesforce-diagrams-a8fa7bc4a3e
+
 * https://architect.salesforce.com/design/diagram-templates/how-to-diagram/
 * https://architect.salesforce.com/design/diagram-templates/doc-implementation-templates/
 * https://architect.salesforce.com/design/diagram-templates/kit-of-parts/
