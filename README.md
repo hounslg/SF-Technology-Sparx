@@ -13,7 +13,7 @@ The collapsed cards are fairly simple items and are used for the collapsed and t
 All items support both the handdrawn style and the custom style in Sparx, though the custom style removes most of the custom style.
 
 ### Collapsed Cards (Icons)
-<img src="/md-images/CollapsedCardSF.png" width="200" align="left"/>
+<img src="/md-images/CollapsedCardSF.png" width="300" align="left"/>
 
 These are standard collapsed cards with space in the top left corner for a icon.  Text value is held in the notes field of the object, it is also possible to change the colour.
 
