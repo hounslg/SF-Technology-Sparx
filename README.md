@@ -10,7 +10,7 @@ I will be including a BIMP file (GIMP batch automation) that allows you to take 
 
 The collapsed cards are fairly simple items and are used for the collapsed and the container elements.
 
-All items support both the handdrawn style and the custom style in Sparx, though the custom style removes most of the custom style.
+All items support both the handdrawn style and the custom style in Sparx, though the custom style removes the shapescript style.
 
 ### Collapsed Cards (Icons)
 <img src="/md-images/CollapsedCardSF.png" width="300" align="left"/>
