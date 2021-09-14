@@ -5,9 +5,9 @@ This is a Sparx Enterprise Architecture custom technology package that provides 
  ![Toolbox Items](/md-images/toolbox.png)
 
 ### Collapsed Card
-![Toolbox Items](/md-images/CollapsedCardSF.png)
-<img src="/md-images/CollapsedCardSF.png" width="140" />
+<img src="/md-images/CollapsedCardSF.png" width="140" align="left"/>
 
+These are standard collapsed cards with space in the top left corner for a icon.  Text value is held in the notes field of the object, it is also possible to change the colour.
 
 
 ## Salesforce Links
