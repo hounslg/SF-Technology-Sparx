@@ -40,10 +40,11 @@ There are two types of connectors, an integraiton style which can show direction
 
 #### Integration
 This shows a simple link between two objects.  You can specificy the direction and based on what you've selected appropriate solid arrows are show.  This connector also supports the UML style of multiplicity (e.g. 0..\*) and displays this as expected.
+![Toolbox Items](/md-images/IntegrationAssocation.png)
 
 #### ERD Style
 This is more for the data objects of the underlying design (level 4 diagrams).  This uses the ERD or crows foot notation for each end.
-
+![Toolbox Items](/md-images/ERDAssocation.png)
 
 ## Salesforce Links
 * https://architect.salesforce.com/design/diagram-templates/how-to-diagram/
