@@ -4,12 +4,13 @@ This is a Sparx Enterprise Architecture custom technology package that provides 
 ## Elements
  ![Toolbox Items](/md-images/toolbox.png)
 
-### Collapsed Card
-<img src="/md-images/CollapsedCardSF.png" width="140" align="left"/>
+### Collapsed Cards
+<img src="/md-images/CollapsedCardSF.png" width="200" align="left"/>
 
 These are standard collapsed cards with space in the top left corner for a icon.  Text value is held in the notes field of the object, it is also possible to change the colour.
+The non Salesforce collapsed cards are the same apart from their default colour settings.  These can be changes in the same way as the salesforce cards.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Salesforce Links
 * https://architect.salesforce.com/design/diagram-templates/how-to-diagram/
 * https://architect.salesforce.com/design/diagram-templates/doc-implementation-templates/
