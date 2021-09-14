@@ -9,7 +9,7 @@ This is a Sparx Enterprise Architecture custom technology package that provides 
 
 These are standard collapsed cards with space in the top left corner for a icon.  Text value is held in the notes field of the object, it is also possible to change the colour.
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## Salesforce Links
 * https://architect.salesforce.com/design/diagram-templates/how-to-diagram/
 * https://architect.salesforce.com/design/diagram-templates/doc-implementation-templates/
