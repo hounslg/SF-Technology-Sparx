@@ -5,7 +5,8 @@ This is a Sparx Enterprise Architecture custom technology package that provides 
  ![Toolbox Items](/md-images/toolbox.png)
 
 ### Collapsed Card
- ![Toolbox Items](/md-images/CollapsedCardSF.png=140x)
+![Toolbox Items](/md-images/CollapsedCardSF.png)
+<img src="/md-images/CollapsedCardSF.png" width="140" />
 
 
 
