@@ -28,7 +28,7 @@ These cards have space for an icon, though these are just images that are added 
 
 ### Collapsed Cards (No Icons)
 This is similar to the cards with icons, but with out the space for an icon.  These are also useful for items within a container.
-
+<br><br>
 ### Detailed Card
 This provides some extra features over the collapsed versions.  This has the space for an icon in the top left, and icons along the bottom.
 ![Toolbox Items](/md-images/SFDetailedCard.jpg)
@@ -38,6 +38,8 @@ Selected one of the following
 + Owner
 + Custom Object
 + Free Text
+
+These cards also support both multiple text lines.
 
 ### Connectors
 There are two types of connectors, an integraiton style which can show direction, and an ERD style one showing multiplicity. Both line types can have their style (solid,dotted,dashed...) configured by the tag value.  Both connectors also support the quick linker option in Enterprise Architect.
