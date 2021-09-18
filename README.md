@@ -15,7 +15,7 @@ All items support both the handdrawn style and the custom style in Sparx, though
 The default font on Windows is Calibri and should be set to 10pt to replicate the style.  Salesforce San font is available though I'm not sure of the licencing. On Windows, again, Microsoft Sans Serif is a close match.
 
 ### Collapsed Cards (Icons)
-<img src="/md-images/CollapsedCardSF.png"  align="left"/>
+<img src="/md-images/CollapsedCardSF.png" >
 
 These are standard collapsed cards with space in the top left corner for a icon.  Text value is held in the notes field of the object, it is also possible to change the colour.
 
