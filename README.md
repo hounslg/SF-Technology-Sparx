@@ -60,10 +60,8 @@ By default the icons from Salesforce are white with a transparent background.  T
 
 The BIMP [BIMP Details](/bimp-readme.md) page contains details about how to use the BIMP file, or how to create your own.
 
-<br><br>
-
-Some icons though are used with a white circlar background.  I've not found a way to create this yet using BIMP.
-To create this style, the MDG file contains three images, a white circle and two versions with borders.  These can be used to create the diagram style above.
+Some icons though are used with a white circlar background.  I've found a fairly simple way to replicated this, though it doesn't support the borders.
+To create circle style, whilst using the standard images, the MDG file contains three images, a white circle and two versions with borders.  These can be used to create the diagram style above.
 
 
 
