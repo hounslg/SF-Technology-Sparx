@@ -56,7 +56,8 @@ This is more for the data objects of the underlying design (level 4 diagrams).  
 
 ## Icons 
 By default the icons from Salesforce are white with a transparent background.  The BIMP file will convert the images to PNG with a coloured background and with rounded corners.  The same as they appear on the Salesforce page.
-![Toolbox Items](/md-images/icons.png)
+<img src="/md-images/icons.png" >
+
 The BIMP [BIMP Details](/bimp-readme.md) page contains details about how to use the BIMP file, or how to create your own.
 
 <br><br>
