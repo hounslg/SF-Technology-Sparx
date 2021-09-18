@@ -21,8 +21,10 @@ These are standard collapsed cards with space in the top left corner for a icon.
 
 The non Salesforce collapsed cards are the same apart from their default colour settings.  These can also be changed in the same way as the salesforce cards.
 
+The cards also support multiline text, though this is largely manual.  Under the SF properties the text lines supports single or double lines.
+
 These cards have space for an icon, though these are just images that are added to the model separately. 
-<br><br>
+<br><br><br><br>
 
 ### Collapsed Cards (No Icons)
 This is similar to the cards with icons, but with out the space for an icon.  These are also useful for items within a container.
