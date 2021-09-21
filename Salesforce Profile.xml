@@ -5,35 +5,38 @@
 		<Stereotypes>
 			<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event;Salesforce Architecture::Start or End"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::" constraint="Salesforce Architecture::Start or End"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event"/>
 				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAISDNVNmOCQyDgMAAMYMAAAHABEAc3RyLmRhdFVUDQAHMghKYTIISmEyCEph
-xVbbbtpAEJ1XKvUfLOcFJCIFKAltlQdE1SRSG0VAxWPV1BBQjYmw06iJ+PeemfV6d33hUiFV
-iNn1+uxczszsOqY5/aBHmpJHS8wWFNFbekOvImupjGhFI0EGmD0De4l/Qmt6ws6PQGhkCMwf
-YJ7wNsGMNV+ST/dYW2P3FNLHDoX+hOcZNC/oBbM6tfA7oyZkG2Mjw7HdgGJovYfUHtehaY3x
-Z6r7Bn7OZM6RJNC6wooPfT5s+HvpizBfYq523Tq7lBxKdBH2D8V2gn3ss/L7rDAqqbUoHcam
-l1lUb14tLmtAcHwzYY1nAfZNEdcDxgS8voNm7d0+UQ3g+xKrHN176kJ6ma/81Ek9NR7oscxj
-rU1jdM3wb07fgQrF1yitFx9sTfGUSDymCpT+KdY/S8YS0RxKJut0JW++CWJdimhYOdKscR1z
-Znw6yfw9cbJZo00W38bJsB3r7voyUR9W+2XZvSY7ux3qbUVPgA2AnAOrsmjQeuxLTYykJlQH
-q7iYmWc8r9CDK6zEiC5Jq557xuZplw7moqglzmmpGm22JwWPPKeqihxsY6wMv42zfNVy7qor
-tmy2gC3m5RpaYhpDPghLQ3A4QDynmCl2xqTOTuao4cRYozvS9TvBjLlhdoJUE/eR26Omfvfz
-oX+QD7y3fwSrg4OtDo5g9eZgqzc7rZbNRlR1fnVx0vIdcE4XGHt4dk8rYz2EVCfWGP5f0Ye0
-H7ysIzzpifw5VvTjTqrWeMEcnaM7mrgx2nL2X+Q0fAXuN3aNMer7zEV8ES81Qt8aVfeF4Ss/
-2v1ednrYHV/sX7ff+SvB+FhEH6/bq/PbhmbObAcMc547B+aX49+d4f+T113ZVOtqztI8859v
-PHV3mttSfTUusBKB9ZC4ClS+PfkxepFmwd6lvh9uwZjJy7acdOV7xh3tiIpZaeU4j8WDNeSj
-eDIXtm3Ev+XEzcgp7LKHfD64nHNd2nnh980UX43rlWLcHGubvT0wLUTh6uJog0pO1HfcDLpC
-/Dj7+7Gid3Bd8DcsV8mKfkFbuSVVMUpu6C9QSwECFwsUAAAACACEgzVTZjgkMg4DAADGDAAA
-BwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHMghKYVBLBQYAAAAAAQABAD4AAABEAwAA
-AAA=</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADyoNVO38IoxVwMAAGYOAAAHABEAc3RyLmRhdFVUDQAHOkhKYTpISmE6SEph
+xVbfb9owEL5XJu1/iNIXkKjUwmjZpj4wprVIG6qAicdpXUKJBqQi6aqu4n/fd+cYx/kBREWa
+otiOc3e+++472xHN6Sc9kE8OLTEKaEVv6Q29SFtL2hWFNBZJD6MnyF7hjWlNj9D8CAktuYDM
+M2Qe8TfGiC1fkUt3mFtD20frQkNJf8b3DJYD+otRnc7xnFETbQt9YyvH63oUweodWu1xHZbW
+6H8ltgfwcyZjjiSG1RAzLuy5WMM9yN4K4yXGSmtoaal2JNGtoD+StWPosc/K77Ncr1ptRdkw
+azrbFdWflxSWNUhwfDNBjUce9HzEdY8+Bq7vYFl7d0hUffi+xCxH9546aJ2tr/zVTjw1Hui+
+yGNtTctozvAzpx+QWoivq4QvLtDy8RVLPIYFyr6P+S+SsVgsLySTdbqWP99FYl0o0UjlSKPG
+PObMuHSy9ffEymaNNtv4NlaG07Hu55eJuhr3i7J7Q+nstqm7U3oKWQ+Sc8iqLBpp3feEE2Ph
+hKpgFRcj84TvEDUYYiZCdHHCeq6ZNE77bDAWeStRxkpZn0Z7mvPIsViVx2AXYkXyuzDLspZz
+V87YolGAtRiXG1iJaIL2XlAaAcM+4jnFSKEzIbV3MkYNK8Ya3ZLm7xQjxobR8RJLXEd2jRr+
+HuZDr5IPrNs7wqr9yqv2j7DqoPKqg72rFo3GVLZ/dbDT8hlwQZfou/i2dyuz+gKt2rEm8P+a
+PiT14GwrwpGayO5jeT9uhbXGC8boAtXRxInRkr3/MmPhG+T+QGuCXp9ntsRX8VJL6FOj7Lww
+eGX7dL0X7R7pis/Xr13vfEswPualj1ft5fltwTJntg2EOc/tivnl+Pdn+P/kdV821bwac2u+
++eUTT52d5rRUt8YAMyugviBmgcq3Iw9LB0kW0lrq/jAEYiYvu3LSkfuM3ZuIXquvLej9J0Dm
+OFK+DYUYB8IhdTMxbN7FhJ7cJAPkinWfYXWI/WqJE5e5mOVDJOis0T4ISnPxIi1Rzhf7PvVJ
+5tXdpPxOZbPoFCxhVHhPs3nCtZTmEv9vJvLlct1CGZuXes3uATLnqAbbFqPglWKl7p4z2Frg
+4Ty+Di1tiTnO93FmfEi/oVXsga4uHzq8jmFMOUOr3oqPxz37rryrdZJ2Q/8AUEsBAhcLFAAA
+AAgAPKg1U7fwijFXAwAAZg4AAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUABzpISmFQ
+SwUGAAAAAAEAAQA+AAAAjQMAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;"/>
-						<Property name="_tagGroups" value="RACI,Who And What"/>
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
+						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
+					<Tag name="Activity Number" type="" description="" unit="" values="" default="1"/>
 					<Tag name="What Does It" type="" description="" unit="" values="" default=""/>
 					<Tag name="Who Does It" type="" description="" unit="" values="" default=""/>
 					<Tag name="RACI-R" type="enumeration" description="" unit="" values="False,True" default="False"/>
@@ -72,7 +75,7 @@ VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 					<Tag name="_HideUmlLink" type="boolean" description="" unit="" values="true,false" default="true"/>
 				</TaggedValues>
 			</Stereotype>
-			<Stereotype name="Event" metatype="Event" notes="" cx="0" cy="0" bgcolor="10025880" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+			<Stereotype name="Event" metatype="Event" notes="" cx="0" cy="0" bgcolor="10025880" fontcolor="-1" bordercolor="6908265" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
 					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
 				</stereotypedrelationships>
@@ -87,8 +90,8 @@ aWfeupfv7rDSPyLmPC647fbDijdKefLljjvBA+f7HjNqUUdu8QNQSwECFwsUAAAACADmjDVT
 AQABAD4AAABqAQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;"/>
-						<Property name="_tagGroups" value="RACI,Who And What"/>
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
+						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
@@ -317,8 +320,8 @@ I72hAk8WugJQSwECFwsUAAAACAA2jjVTu2YXVOAAAADuAQAABwAJAAAAAAAAAAAAAIAAAAAA
 c3RyLmRhdFVUBQAHFxtKYVBLBQYAAAAAAQABAD4AAAAWAQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;"/>
-						<Property name="_tagGroups" value="RACI,Who And What"/>
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
+						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
