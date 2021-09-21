@@ -5,41 +5,41 @@
 		<Stereotypes>
 			<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event;Salesforce Architecture::Start or End"/>
 				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEJlNVMViMRNDwMAAKIMAAAHABEAc3RyLmRhdFVUDQAHSdNJYUnTSWFJ00lh
-xVZdb9owFL2vTNp/QOkLlahUYLRsUx8Q01qkraqAicdpLFCihVCRdNVa8d937nWM7XxAOiFN
-CNtxju/HOdd2YlrSD3qgOdVphVFAEb2lN/QibS1tI1rTWJA+Rk/AXuGf0IYesfIjEBoZAvMH
-mEe8TTBiy1fk0QxzG6yeo/WwQqE/4XkBywE9Y9SgFn7n1ETbRn+6w7Ffn2JYnaHVETdgaYP+
-Z2p7iDgXMuZMElhdY8aDPQ8+vEr2IoxXGKtVt84q1Y4kuwjrR+I7wTqOWcV9nutVq60oG8Zn
-fedRvXmxuKwBwfkthDUe+Vg3R1736BPw+g6WdXRVshog9hVmObv31EVb38XKT500UhOB7osi
-1tY0RtcM/5b0HahQYo3SevHA1hxPieRjqkDZn2P+syiWiOVQlGzQtbz5JohNIeLU0kizxnXM
-ynh0sov3xFGzRttdfltHYTvXw/Vlsn5d7Repe0O2uh3q7UVPgfWBXAKrVDRo3felJsZSE2oH
-q7yYmSc8r7EH15iJkV2SVj3vGZunQzaYi7yVOGOlrLfZnuYiqjtVledgH2NF+H2cZauWtSuv
-2KJRAF/Myw2sxDRBey8sjcDhAPmcYaTY4bMjRnxcQTHWzeCVTx2uZTvjGt2RruYpRswUc+Wn
-dnlXuTvWVHO1iPoHvDK6fwQ/gwp+BkfwM6zgZ3jQT9FoTGVnVBenKZ/zF3SJvodn90Qy3kO0
-6lSaIOJr+lBQ89lzKh/DnVSliYAZuUD1N3EjtOVsv8xY+Arcb6yaoNf3lYv4IhFqhL4Vyu4D
-w1W2t/dz0elg7+j8/nT3M38FmBjz6OPt5nJt27DMqnbAMGvceaW22fzz6v4fTQ8pqebVmFvz
-zH++zdS9aG5C9UUYYCYC43yeaa3r8mN0kCpgr1LfBrdgy2iyT4+ufKu4vZ1RXpFWhvNYItig
-fZBIlsK2jfg3TVxFzuCXI+RzweWca9LWhd83U3w5rleIcTXWPnsVMC1k4dribP1STtQ32gK2
-QvxY/Wqs6BVcF/x9ylWypl+wVuxJVYxqt/QXUEsBAhcLFAAAAAgAQmU1UxWIxE0PAwAAogwA
-AAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB0nTSWFQSwUGAAAAAAEAAQA+AAAARQMA
-AAAA</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAISDNVNmOCQyDgMAAMYMAAAHABEAc3RyLmRhdFVUDQAHMghKYTIISmEyCEph
+xVbbbtpAEJ1XKvUfLOcFJCIFKAltlQdE1SRSG0VAxWPV1BBQjYmw06iJ+PeemfV6d33hUiFV
+iNn1+uxczszsOqY5/aBHmpJHS8wWFNFbekOvImupjGhFI0EGmD0De4l/Qmt6ws6PQGhkCMwf
+YJ7wNsGMNV+ST/dYW2P3FNLHDoX+hOcZNC/oBbM6tfA7oyZkG2Mjw7HdgGJovYfUHtehaY3x
+Z6r7Bn7OZM6RJNC6wooPfT5s+HvpizBfYq523Tq7lBxKdBH2D8V2gn3ss/L7rDAqqbUoHcam
+l1lUb14tLmtAcHwzYY1nAfZNEdcDxgS8voNm7d0+UQ3g+xKrHN176kJ6ma/81Ek9NR7oscxj
+rU1jdM3wb07fgQrF1yitFx9sTfGUSDymCpT+KdY/S8YS0RxKJut0JW++CWJdimhYOdKscR1z
+Znw6yfw9cbJZo00W38bJsB3r7voyUR9W+2XZvSY7ux3qbUVPgA2AnAOrsmjQeuxLTYykJlQH
+q7iYmWc8r9CDK6zEiC5Jq557xuZplw7moqglzmmpGm22JwWPPKeqihxsY6wMv42zfNVy7qor
+tmy2gC3m5RpaYhpDPghLQ3A4QDynmCl2xqTOTuao4cRYozvS9TvBjLlhdoJUE/eR26Omfvfz
+oX+QD7y3fwSrg4OtDo5g9eZgqzc7rZbNRlR1fnVx0vIdcE4XGHt4dk8rYz2EVCfWGP5f0Ye0
+H7ysIzzpifw5VvTjTqrWeMEcnaM7mrgx2nL2X+Q0fAXuN3aNMer7zEV8ES81Qt8aVfeF4Ss/
+2v1ednrYHV/sX7ff+SvB+FhEH6/bq/PbhmbObAcMc547B+aX49+d4f+T113ZVOtqztI8859v
+PHV3mttSfTUusBKB9ZC4ClS+PfkxepFmwd6lvh9uwZjJy7acdOV7xh3tiIpZaeU4j8WDNeSj
+eDIXtm3Ev+XEzcgp7LKHfD64nHNd2nnh980UX43rlWLcHGubvT0wLUTh6uJog0pO1HfcDLpC
+/Dj7+7Gid3Bd8DcsV8mKfkFbuSVVMUpu6C9QSwECFwsUAAAACACEgzVTZjgkMg4DAADGDAAA
+BwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHMghKYVBLBQYAAAAAAQABAD4AAABEAwAA
+AAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="RACI-R=RACI;RACI-A=RACI;RACI-C=RACI;RACI-I=RACI;WhoDoesIt=Who And What;WhatDoesIt=Who And What;"/>
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;"/>
 						<Property name="_tagGroups" value="RACI,Who And What"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="RACI-A" type="" description="" unit="" values="" default="Accountable"/>
-					<Tag name="RACI-C" type="" description="" unit="" values="" default="Consulted"/>
-					<Tag name="RACI-I" type="" description="" unit="" values="" default="Informed"/>
-					<Tag name="RACI-R" type="" description="" unit="" values="" default="Responsible"/>
-					<Tag name="WhatDoesIt" type="" description="" unit="" values="" default=""/>
-					<Tag name="WhoDoesIt" type="" description="" unit="" values="" default=""/>
+					<Tag name="What Does It" type="" description="" unit="" values="" default=""/>
+					<Tag name="Who Does It" type="" description="" unit="" values="" default=""/>
+					<Tag name="RACI-R" type="enumeration" description="" unit="" values="False,True" default="False"/>
+					<Tag name="RACI-A" type="enumeration" description="" unit="" values="False,True" default="False"/>
+					<Tag name="RACI-C" type="enumeration" description="" unit="" values="False,True" default="False"/>
+					<Tag name="RACI-I" type="enumeration" description="" unit="" values="False,True" default="False"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
@@ -71,6 +71,28 @@ VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 					<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Solid"/>
 					<Tag name="_HideUmlLink" type="boolean" description="" unit="" values="true,false" default="true"/>
 				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Event" metatype="Event" notes="" cx="0" cy="0" bgcolor="10025880" fontcolor="-1" bordercolor="6908265" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOaMNVPWqdxeNAEAAGoDAAAHABEAc3RyLmRhdFVUDQAH1xhKYdcYSmHXGEph
+rZPbSsNAEIb/WwXfQeJNCoJaEITiRZXWK0UsPkCaQ12M25JEFKXv7j8zTbKFXIjIspPJzjen
+zaTGCxJskOMYb9QcPI5wiG+VBzjjqpHSUnIvKXNco9D3mvqEfkZ6rHki0TJqH6QaVHhXxoiC
+0T/5nmFKUnKmZJ7o0dCypkfU+USdl2Rp1LfkSsmV3BVi3KnlWYkK8x1xGxAjrjbOQulHSr/H
+7Ee50dNM9eFIYVXSg2evjh4Ne48xDjJKlIKkwxc1sV3iVGXP1PRLmEFiyT1IjN6aa0eONskX
+45z+si8o+2fIe2YditTeX6KEZK3Y2Ss9hujfdPeX+sdatcmrTv5//b00bRuc2IzaxNtMS5Vi
+aWfeupfv7rDSPyLmPC647fbDijdKefLljjvBA+f7HjNqUUdu8QNQSwECFwsUAAAACADmjDVT
+1qncXjQBAABqAwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAH1xhKYVBLBQYAAAAA
+AQABAD4AAABqAQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;"/>
+						<Property name="_tagGroups" value="RACI,Who And What"/>
+						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+					</Apply>
+				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="Integration Association" metatype="Integration Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAIyTLVMwldLfWwIAAFYNAAAHABEAc3RyLmRhdFVUDQAHRpg/YUaYP2FGmD9h
@@ -282,7 +304,40 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 				</TaggedValues>
 			</Stereotype>
+			<Stereotype name="Start or End" metatype="Start or End" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="3937500" borderwidth="5" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADaONVO7ZhdU4AAAAO4BAAAHABEAc3RyLmRhdFVUDQAHFxtKYRcbSmEXG0ph
+fZHBasJAFEXvVqH/UOImQhfVrXTRRelGSzGKa21MFWIUTaso+XfPvMQhKcVF3tyZd+4d5uWg
+lebaaalHbVBrZXpQWxerrapm2upgZIw66kW59vrBNaiIBOeJfaxXSJf3BTPGkdPZ4gi8J/Cu
+mF0Cv9YZFaqvZz1Z7XomopPrk5ppBhmzW8G+2/kU95Lcsh/5pG4tYcT9v5xOWEO7oZ4/tDff
+uj16jijXexl/if9z6oSrhdVyluXUU9QClTbm7l6Vk7Qn9duSQ+YW8bnMZu7OqAw+rbiOPvgP
+I72hAk8WugJQSwECFwsUAAAACAA2jjVTu2YXVOAAAADuAQAABwAJAAAAAAAAAAAAAIAAAAAA
+c3RyLmRhdFVUBQAHFxtKYVBLBQYAAAAAAQABAD4AAAAWAQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;"/>
+						<Property name="_tagGroups" value="RACI,Who And What"/>
+						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
 			<Stereotype name="When and Why" metatype="When and Why" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="10263708" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADqANVOUcPl0HAIAAPALAAAHABEAc3RyLmRhdFVUDQAH6QFKYekBSmHpAUph
+7VZNS8NAEH1XBf9DqBcFCyreioJV1IOi0IpHqU1qi20jSVRq8b/7Zna32fRDbat4KWE3u5mZ
+N2/nI2yKNhp4RoQAPa466GMD61jD0L77iJGqVsjVGw6RIcELLSpWw8wdtIixhQtqpqhzfuSu
+hEvFFPw6BuqphB2OU9Vrcx9yt81nOMJaoySin661TbkecBcp4imOUaMfsXIcPuw7opbYBgvw
+ieklK/D5GZtrIv02FxObwLKah09obSVbxvLveC3PbzZLM9cU6YZzH3fEC7lrE+dcv9+qp8TK
+a5S/qxdhUxlh9OjjVfVjynZ5kl3Pn2NppHuUjWsYHMNLhukG0zMZVwmjJvYiczHwZ4myi/EN
+tWO1TTQqJiId7iI0+aVDaV+jHXCucfdCWVN9lXGkETcRFdYNz6KYgVlx2y+cS3CEf0ZGgiUa
+vvzryE3Gbp8aB99qlL/UmfQiZwhnMDTnPCNCl88JEbocyUSFVPVrqGtfy1SKQ2tZnIZ6lOhI
+tp5oNc17sVIXz3KV+zLzOi5vkMkqr/+V1zy3+V6G3/0p8v4UmcvTT7K0eL1M/wO4/4P/zxiv
+nlVdLF8Xy2Runk5f5Wr5XBU71w3BeIDcguTOK90ZQm4nDzA3wJhfcx2xcFl5pk+JR6Z5zm8t
+0+8GVx52Xavk0vPsMNu4531W4vyoXXyolSLdK34kJqXRqYr+N7VyetTZtFzM/8ofgeUW2PkT
+UEsBAhcLFAAAAAgAOoA1U5Rw+XQcAgAA8AsAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRV
+VAUAB+kBSmFQSwUGAAAAAAEAAQA+AAAAUgIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Association">
 						<Property name="compositionKind" value="none"/>
