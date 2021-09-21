@@ -7,7 +7,7 @@
 				<AppliesTo>
 					<Apply type="Diagram_Logical">
 						<Property name="pdata" value="HideEStereo=1;"/>
-						<Property name="styleex" value="TConnectorNotation=Information Engineering;"/>
+						<Property name="styleex" value="TConnectorNotation=Information Engineering;HideConnStereotype=1;"/>
 						<Property name="alias" value="Salesforce Diagram"/>
 						<Property name="diagramID" value="SFD"/>
 						<Property name="toolbox" value="Salesforce Toolbox"/>

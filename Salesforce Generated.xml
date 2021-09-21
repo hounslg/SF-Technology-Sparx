@@ -3,6 +3,45 @@
 			<Documentation id="82D638DA-5" name="Salesforce Architecture" version="1.0" notes="Salesforce Architecture"/>
 			<Content>
 				<Stereotypes>
+					<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
+						<stereotypedrelationships>
+							<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
+						</stereotypedrelationships>
+						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEJlNVMViMRNDwMAAKIMAAAHABEAc3RyLmRhdFVUDQAHSdNJYUnTSWFJ00lh
+xVZdb9owFL2vTNp/QOkLlahUYLRsUx8Q01qkraqAicdpLFCihVCRdNVa8d937nWM7XxAOiFN
+CNtxju/HOdd2YlrSD3qgOdVphVFAEb2lN/QibS1tI1rTWJA+Rk/AXuGf0IYesfIjEBoZAvMH
+mEe8TTBiy1fk0QxzG6yeo/WwQqE/4XkBywE9Y9SgFn7n1ETbRn+6w7Ffn2JYnaHVETdgaYP+
+Z2p7iDgXMuZMElhdY8aDPQ8+vEr2IoxXGKtVt84q1Y4kuwjrR+I7wTqOWcV9nutVq60oG8Zn
+fedRvXmxuKwBwfkthDUe+Vg3R1736BPw+g6WdXRVshog9hVmObv31EVb38XKT500UhOB7osi
+1tY0RtcM/5b0HahQYo3SevHA1hxPieRjqkDZn2P+syiWiOVQlGzQtbz5JohNIeLU0kizxnXM
+ynh0sov3xFGzRttdfltHYTvXw/Vlsn5d7Repe0O2uh3q7UVPgfWBXAKrVDRo3felJsZSE2oH
+q7yYmSc8r7EH15iJkV2SVj3vGZunQzaYi7yVOGOlrLfZnuYiqjtVledgH2NF+H2cZauWtSuv
+2KJRAF/Myw2sxDRBey8sjcDhAPmcYaTY4bMjRnxcQTHWzeCVTx2uZTvjGt2RruYpRswUc+Wn
+dnlXuTvWVHO1iPoHvDK6fwQ/gwp+BkfwM6zgZ3jQT9FoTGVnVBenKZ/zF3SJvodn90Qy3kO0
+6lSaIOJr+lBQ89lzKh/DnVSliYAZuUD1N3EjtOVsv8xY+Arcb6yaoNf3lYv4IhFqhL4Vyu4D
+w1W2t/dz0elg7+j8/nT3M38FmBjz6OPt5nJt27DMqnbAMGvceaW22fzz6v4fTQ8pqebVmFvz
+zH++zdS9aG5C9UUYYCYC43yeaa3r8mN0kCpgr1LfBrdgy2iyT4+ufKu4vZ1RXpFWhvNYItig
+fZBIlsK2jfg3TVxFzuCXI+RzweWca9LWhd83U3w5rleIcTXWPnsVMC1k4dribP1STtQ32gK2
+QvxY/Wqs6BVcF/x9ylWypl+wVuxJVYxqt/QXUEsBAhcLFAAAAAgAQmU1UxWIxE0PAwAAogwA
+AAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB0nTSWFQSwUGAAAAAAEAAQA+AAAARQMA
+AAAA</Image>
+						<AppliesTo>
+							<Apply type="Class">
+								<Property name="_tagGroupings" value="RACI-R=RACI;RACI-A=RACI;RACI-C=RACI;RACI-I=RACI;WhoDoesIt=Who And What;WhatDoesIt=Who And What;"/>
+								<Property name="_tagGroups" value="RACI,Who And What"/>
+								<Property name="isActive" value=""/>
+								<Property name="_HideUmlLinks" value="True"/>
+							</Apply>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="RACI-A" type="" description="" unit="" values="" default="Accountable"/>
+							<Tag name="RACI-C" type="" description="" unit="" values="" default="Consulted"/>
+							<Tag name="RACI-I" type="" description="" unit="" values="" default="Informed"/>
+							<Tag name="RACI-R" type="" description="" unit="" values="" default="Responsible"/>
+							<Tag name="WhatDoesIt" type="" description="" unit="" values="" default=""/>
+							<Tag name="WhoDoesIt" type="" description="" unit="" values="" default=""/>
+						</TaggedValues>
+					</Stereotype>
 					<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAI56LlMJm8en9AIAAEwWAAAHABEAc3RyLmRhdFVUDQAHx71AYce9QGHHvUBh
 7Vhdb9owFL2vnbT/ENGXbaIVYWMvVR+qdR8PnYYK0x4nSqBUA4JI2NRV/e8799omjhNGSJMp
@@ -24,12 +63,13 @@ VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 						<AppliesTo>
 							<Apply type="Association">
 								<Property name="compositionKind" value="none"/>
-								<Property name="direction" value=""/>
+								<Property name="direction" value="Source -&gt; Destination"/>
 								<Property name="_lineStyle" value="orthogonalR"/>
 							</Apply>
 						</AppliesTo>
 						<TaggedValues>
 							<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Solid"/>
+							<Tag name="_HideUmlLink" type="boolean" description="" unit="" values="true,false" default="true"/>
 						</TaggedValues>
 					</Stereotype>
 					<Stereotype name="Integration Association" metatype="Integration Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
@@ -50,7 +90,7 @@ AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 						<AppliesTo>
 							<Apply type="Association">
 								<Property name="compositionKind" value="none"/>
-								<Property name="direction" value=""/>
+								<Property name="direction" value="Source -&gt; Destination"/>
 								<Property name="_lineStyle" value="orthogonalR"/>
 							</Apply>
 						</AppliesTo>
@@ -80,7 +120,7 @@ Zn2kX1BLAQIXCxQAAAAIAARuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
 ZGF0VVQFAAci7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
-								<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+								<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 								<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 								<Property name="isActive" value=""/>
 								<Property name="_HideUmlLinks" value="True"/>
@@ -117,7 +157,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAPBtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
-								<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+								<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 								<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 								<Property name="isActive" value=""/>
 								<Property name="_HideUmlLinks" value="True"/>
@@ -155,7 +195,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOZtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
-								<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+								<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 								<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 								<Property name="isActive" value=""/>
 								<Property name="_HideUmlLinks" value="True"/>
@@ -193,7 +233,7 @@ Zn2kX1BLAQIXCxQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
 ZGF0VVQFAAcW7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
-								<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+								<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 								<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 								<Property name="isActive" value=""/>
 								<Property name="_HideUmlLinks" value="True"/>
@@ -231,7 +271,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 						<AppliesTo>
 							<Apply type="Class">
-								<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+								<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 								<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 								<Property name="isActive" value=""/>
 								<Property name="_HideUmlLinks" value="True"/>
@@ -241,6 +281,16 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 							<Tag name="Box Width" type="enumeration" description="" unit="" values="Single,Double,Triple,Quad" default="Single"/>
 							<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="When and Why" metatype="When and Why" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="10263708" borderwidth="2" hideicon="0">
+						<AppliesTo>
+							<Apply type="Association">
+								<Property name="compositionKind" value="none"/>
+								<Property name="direction" value="Source -&gt; Destination"/>
+								<Property name="_lineStyle" value="orthogonalR"/>
+								<Property name="_HideUmlLink" value="True"/>
+							</Apply>
+						</AppliesTo>
 					</Stereotype>
 				</Stereotypes>
 				<TaggedValueTypes/>
@@ -334,7 +384,7 @@ wSIMTU56mSoAAAAASUVORK5CYII=</Column></DataRow></DataSet></RefData></Images><Dia
 						<AppliesTo>
 							<Apply type="Diagram_Logical">
 								<Property name="pdata" value="HideEStereo=1;"/>
-								<Property name="styleex" value="TConnectorNotation=Information Engineering;"/>
+								<Property name="styleex" value="TConnectorNotation=Information Engineering;HideConnStereotype=1;"/>
 								<Property name="alias" value="Salesforce Diagram"/>
 								<Property name="diagramID" value="SFD"/>
 								<Property name="toolbox" value="Salesforce Toolbox"/>
@@ -400,6 +450,22 @@ MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 						<AppliesTo>
 							<Apply type="ToolboxItemImage"/>
 						</AppliesTo>
+					</Stereotype>
+					<Stereotype name="UPN Connectorsr" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::When and Why(UML::Association)" type="" description="" unit="" values="" default="Why &amp; When"/>
+						</TaggedValues>
+					</Stereotype>
+					<Stereotype name="UPN Items" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="ToolboxPage"/>
+						</AppliesTo>
+						<TaggedValues>
+							<Tag name="Salesforce Architecture::Activity(UML::Class)" type="" description="" unit="" values="" default="Activity"/>
+						</TaggedValues>
 					</Stereotype>
 					<Stereotype name="Collapsed (Icons)" notes="Collapsed Cards" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<AppliesTo>
