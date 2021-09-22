@@ -5,8 +5,7 @@
 		<Stereotypes>
 			<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::" constraint="Salesforce Architecture::Start or End"/>
-					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event;Salesforce Architecture::Start or End"/>
 				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADyoNVO38IoxVwMAAGYOAAAHABEAc3RyLmRhdFVUDQAHOkhKYTpISmE6SEph
 xVbfb9owEL5XJu1/iNIXkKjUwmjZpj4wprVIG6qAicdpXUKJBqQi6aqu4n/fd+cYx/kBREWa
