@@ -6,10 +6,10 @@
 			<Stereotype name="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
 					<Apply type="Diagram_Logical">
-						<Property name="alias" value="Salesforce Diagram"/>
-						<Property name="diagramID" value="SFD"/>
 						<Property name="pdata" value="HideEStereo=1;"/>
 						<Property name="styleex" value="TConnectorNotation=Information Engineering;HideConnStereotype=1;"/>
+						<Property name="alias" value="Salesforce Diagram"/>
+						<Property name="diagramID" value="SFD"/>
 						<Property name="toolbox" value="Salesforce Toolbox"/>
 					</Apply>
 				</AppliesTo>
@@ -17,11 +17,11 @@
 			<Stereotype name="Salesforce UPN" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
 					<Apply type="Diagram_Activity">
-						<Property name="_DefaultDiagramType" value=""/>
 						<Property name="alias" value="Salesforce UPN"/>
 						<Property name="diagramID" value="S-UPN"/>
 						<Property name="styleex" value="HideConnStereotype=1;"/>
 						<Property name="toolbox" value="Salesforce Architecture UPN"/>
+						<Property name="_DefaultDiagramType" value=""/>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>

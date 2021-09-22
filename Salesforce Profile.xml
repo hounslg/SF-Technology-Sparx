@@ -29,22 +29,21 @@ AAgAPKg1U7fwijFXAwAAZg4AAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUABzpISmFQ
 SwUGAAAAAAEAAQA+AAAAjQMAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_defaultDiagramType" value="Salesforce Architecture::Diagram_"/>
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_makeComposite" value="True"/>
 						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
 						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce UPN"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
 					<Tag name="Activity Number" type="" description="" unit="" values="" default="1"/>
+					<Tag name="What Does It" type="" description="" unit="" values="" default=""/>
+					<Tag name="Who Does It" type="" description="" unit="" values="" default=""/>
+					<Tag name="RACI-R" type="enumeration" description="" unit="" values="False,True" default="False"/>
 					<Tag name="RACI-A" type="enumeration" description="" unit="" values="False,True" default="False"/>
 					<Tag name="RACI-C" type="enumeration" description="" unit="" values="False,True" default="False"/>
 					<Tag name="RACI-I" type="enumeration" description="" unit="" values="False,True" default="False"/>
-					<Tag name="RACI-R" type="enumeration" description="" unit="" values="False,True" default="False"/>
-					<Tag name="What Does It" type="" description="" unit="" values="" default=""/>
-					<Tag name="Who Does It" type="" description="" unit="" values="" default=""/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
@@ -67,14 +66,14 @@ UEsBAhcLFAAAAAgAjnouUwmbx6f0AgAATBYAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRV
 VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Association">
-						<Property name="_lineStyle" value="orthogonalR"/>
 						<Property name="compositionKind" value="none"/>
 						<Property name="direction" value="Source -&gt; Destination"/>
+						<Property name="_lineStyle" value="orthogonalR"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="_HideUmlLink" type="boolean" description="" unit="" values="true,false" default="true"/>
 					<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Solid"/>
+					<Tag name="_HideUmlLink" type="boolean" description="" unit="" values="true,false" default="true"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Event" metatype="Event" notes="" cx="0" cy="0" bgcolor="10025880" fontcolor="-1" bordercolor="6908265" borderwidth="2" hideicon="0">
@@ -92,12 +91,11 @@ aWfeupfv7rDSPyLmPC647fbDijdKefLljjvBA+f7HjNqUUdu8QNQSwECFwsUAAAACADmjDVT
 AQABAD4AAABqAQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_defaultDiagramType" value="Salesforce Architecture::Diagram_"/>
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_makeComposite" value="True"/>
 						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
 						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce UPN"/>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
@@ -118,9 +116,9 @@ XwfVyGlOSP0BUEsBAhcLFAAAAAgAjJMtUzCV0t9bAgAAVg0AAAcACQAAAAAAAAAAAACAAAAA
 AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Association">
-						<Property name="_lineStyle" value="orthogonalR"/>
 						<Property name="compositionKind" value="none"/>
 						<Property name="direction" value="Source -&gt; Destination"/>
+						<Property name="_lineStyle" value="orthogonalR"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -149,10 +147,11 @@ Zn2kX1BLAQIXCxQAAAAIAARuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
 ZGF0VVQFAAci7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
 						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce Landscape"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -186,10 +185,11 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAPBtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
 						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce Landscape"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -224,10 +224,11 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOZtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
 						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce Landscape"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -262,10 +263,11 @@ Zn2kX1BLAQIXCxQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
 ZGF0VVQFAAcW7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
 						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce Landscape"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -300,10 +302,11 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
 						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce Landscape"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -324,12 +327,11 @@ I72hAk8WugJQSwECFwsUAAAACAA2jjVTu2YXVOAAAADuAQAABwAJAAAAAAAAAAAAAIAAAAAA
 c3RyLmRhdFVUBQAHFxtKYVBLBQYAAAAAAQABAD4AAAAWAQAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_defaultDiagramType" value="Salesforce Architecture::Diagram_"/>
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_makeComposite" value="True"/>
 						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
 						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_defaultDiagramType" value="Salesforce Architecture Diagram::Salesforce UPN"/>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
@@ -349,10 +351,10 @@ UEsBAhcLFAAAAAgAOoA1U5Rw+XQcAgAA8AsAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRV
 VAUAB+kBSmFQSwUGAAAAAAEAAQA+AAAAUgIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Association">
-						<Property name="_HideUmlLink" value="True"/>
-						<Property name="_lineStyle" value="orthogonalR"/>
 						<Property name="compositionKind" value="none"/>
 						<Property name="direction" value="Source -&gt; Destination"/>
+						<Property name="_lineStyle" value="orthogonalR"/>
+						<Property name="_HideUmlLink" value="True"/>
 					</Apply>
 				</AppliesTo>
 			</Stereotype>
