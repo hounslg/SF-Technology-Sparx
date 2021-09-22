@@ -86,8 +86,8 @@ AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="Salesforce Architecture::Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="SF Small Card"/>
 					<Tag name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="Non SF Small Card"/>
+					<Tag name="Salesforce Architecture::Salesforce Small Card(UML::Class)" type="" description="" unit="" values="" default="SF Small Card"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Collapsed (No Icons)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
@@ -95,8 +95,8 @@ AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
-					<Tag name="Salesforce Architecture::Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Salesforce No Icon"/>
 					<Tag name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Non Salesforce No Icon"/>
+					<Tag name="Salesforce Architecture::Salesforce No Icon(UML::Class)" type="" description="" unit="" values="" default="Salesforce No Icon"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Detailed" notes="Detailed SF Card" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
@@ -114,24 +114,6 @@ AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
 				<TaggedValues>
 					<Tag name="Salesforce Architecture::ERD Association(UML::Association)" type="" description="" unit="" values="" default="ERD"/>
 					<Tag name="Salesforce Architecture::Integration Association(UML::Association)" type="" description="" unit="" values="" default="Integration"/>
-				</TaggedValues>
-			</Stereotype>
-			<Stereotype name="UPN Items" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<AppliesTo>
-					<Apply type="ToolboxPage"/>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Salesforce Architecture::Activity(UML::Class)" type="" description="" unit="" values="" default="Activity"/>
-					<Tag name="Salesforce Architecture::Event(UML::Class)" type="" description="" unit="" values="" default="Event"/>
-					<Tag name="Salesforce Architecture::Start or End(UML::Class)" type="" description="" unit="" values="" default="Start/End"/>
-				</TaggedValues>
-			</Stereotype>
-			<Stereotype name="UPN Connectorsr" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<AppliesTo>
-					<Apply type="ToolboxPage"/>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Salesforce Architecture::When and Why(UML::Association)" type="" description="" unit="" values="" default="Why &amp; When"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">

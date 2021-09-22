@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="9A4BED84-5" name="Salesforce Architecture UPN" version="1.0" notes="Salesforce Architecture UPN"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Salesforce Architecture::Activity(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39AIAAAADMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAERERERERAAESIiIiIiEQASIiIiIiIhABEREREREREAEiIiIiIiIQARERER
+ERERABIiIiIiIiEAEiIiIiIiIQASIiIiIiIhABIiIiIiIiEAEiIhIiEhIQARIiESISERABES
+ISISISEAEREiIiIiIQARERIiIiIRAAERERERERAA</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Event(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39ADMzMwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAREQAAAAAAESIiEQAAAAEiEREiEAAAASEi
+IhIQAAASEiIiISEAABISIiIhIQAAEhIiIiEhAAASEiIiISEAAAEhIiISEAAAASIRESIQAAAA
+ESIiEQAAAAAAEREAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Start or End(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+/f39AAAA/wAAAAAAAAAAAAAAAAAYGAAAHDgAAA5wAAAH4AAAAYAAAAGAAAAH4AAADnAAABw4
+AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="UPN Toolbox Items" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Activity(UML::Class)" type="" description="" unit="" values="" default="Activity"/>
+					<Tag name="Salesforce Architecture::Event(UML::Class)" type="" description="" unit="" values="" default="Event"/>
+					<Tag name="Salesforce Architecture::Start or End(UML::Class)" type="" description="" unit="" values="" default="Start/End"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="UPN Connector" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::When and Why(UML::Association)" type="" description="" unit="" values="" default="When/Why"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>
