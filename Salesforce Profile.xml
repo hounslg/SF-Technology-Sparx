@@ -146,7 +146,7 @@ AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
 MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHABEAc3RyLmRhdFVUDQAH+u1FYfrtRWH67UVh
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGinNlOeSsV6qQMAAEYbAAAHABEAc3RyLmRhdFVUDQAHSJlLYUiZS2FImUth
 7VjdbxMxDPdrkfgfTt1LJ02oHWxsQ3sYm4AHxMZWtEfU9q5roV9qOzaY9r/zc9w0yV2uvX6c
 YFCdmvhytvOL7ThOR9SiGg0oooC6oNrUo+f0jB5UW5i0PerTleIMQd2B9xi/MQ3pFpJvpnwd
 cPwExy2+jUGx3mMqUh1jQ8hGaIvgF+4zvDeht02/QJWoQge0Rztoy7Q95bJbnj+kEfTX0Wrk
@@ -164,11 +164,11 @@ Irp3VbOKeVUk31AMd7z3+19urnKLN3ddrmekprHtYagR5qtBZgx+rr5bxJWTa/Est2Oue2Uk
 7i+2QDhDO0fCGCtqw3odtQI5n5mTKxmpZezeldeSNTUPr2cI+e/Qmj6n619+2CNSpXTQxu0Z
 TC16BHoLbyeoL468Nk9WMpqSKJO3ebu5AYvzWrgG62P3fptYPs2j/7cf5S3pw1PLigGdW3Z0
 /Zhm7Vm+DDJ6kv+N41wl/1ZtfJfVd+dTu7m+MvbM4p1k9pTezvib/P6vxpYZScbXJr8/HT/K
-W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
-AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
+W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAGinNlOeSsV6qQMAAEYbAAAHAAkAAAAA
+AAAAAAAAgAAAAABzdHIuZGF0VVQFAAdImUthUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -190,25 +190,25 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiERERERERESIiIiIiIiIRIh
 ISEhEhIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHABEAc3RyLmRhdFVUDQAHFu5FYRbuRWEW7kVh
-7VZLb9NAEJ6rkfgPlntJpEg0EYVS1EPVCjggWpWiHpETO00gcSrb5dGq/51vZr3eXXttfIAT
-yPLurD3Pbx52QSuK6ZZSCmkLak0ZPaUn9CBrUK0Z7eijcCagvoP3GHdJOd1B8nXNtwHHT3Dc
-4V0JivUeU0RzPMshm2KNwK+4z3BeQu+a7kGNaEqHdEATrPs0rrnU+gwXW0+ogPY5Vu33CBpz
-7Au6qixG0BFBb2Rp6ZbNQG9rqQ8DpU4kwhy+zyvJBd5keKZiNDouBY8Mei7FyxLy+5Dge4rV
-3Tl+XrW8jYHxIHTsh3W2ApyX0P8OfAXwiOlGvL2CzA/wh/ReMpzirfL6TLybI3OMwBiX0dUX
-f2zZP4WOLd6wxrCORVETaJnSrIrRoBLQY02lsF5IVH/Lts+yPtmo+jRrPtu3C+HhbF+DYmmW
-T8S7PekWroMCtF0JJma9t/Oqq1G9MTb1fiu1vpQqYyqBbApfbrCX6LXniNXY68ZQ2+nDT1fm
-BBi6CDZ3XwR9+K3oM7g24ndWTZNIanCJKMyEGIK1stZEOkD/p5C5IO7Ka2hIcFpBatbDxz5v
-ZFaN6K08/ySVmdMbPGUfbA7uFlvTn+29AHHt6Jt4satmxqtGHvhiFFmr4jqkl14+021d/eaz
-96Klx2+vzWfs+Wq+ebsV5E5z46O/aty5a3z4XaccOJ3S3P25VBNcfcvM12YMP/h+sORtqoC9
-GDIl+HnCrMDL1WPjNeQrwb2tnjTRZgSSHu2c7RIRrYHeRiJQNcycMyDBXx13d+W1ZCx2OJ4c
-8l+htdumm1++OCOqkzdYm3iGNaJHoPdwOkEPHnkxb3e7puzZburcn80FEOdYeE7t0IdfKuS7
-Mvpv51Gd2jk8tVAM6dzC0c1jF9p9uQwHZpL/SXkmqT+v/7kbmrvzGjc3VwbPIdlpT0+1u385
-Zn2kX1BLAQIXCxQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
-ZGF0VVQFAAcW7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAI6lNlMLEtLewQIAAHYMAAAHABEAc3RyLmRhdFVUDQAHt5VLYbeVS2G3lUth
+7VZLb5tAEJ6rK/U/IHKxJUuNraZqUuUQJWp7qJooTZVjhA2O3WIcAekryn/PN7MsuwsL5dCe
+WiF2Z2Ge3zygoDVFdEcJBbQFtaGMntMzepB1VK0Z7eiTcMagvoP3GHdJOd1D8k3Nl4LjJzju
+8a4ExXqPKaQFnuWQTbCG4FfcZzivoHdDv0CNaUav6YCmWPdpUnOp9QUuth5TAe0LrNrvMTTm
+2Jd0VVkMoSOE3tDS0i2bgd7WUh8HSp1IhDl8X1SSS7zJ8EzFaHRcCh4Z9FyKlyXk9yHB9wyr
+u3P8vGp5GwPjQeDYD+psjXBeQf978BXAI6Jb8fYKMj/AH9AHyXCCt8rrM/FugcwxAhNcRldf
+/JFl/xQ6tnjDGoM6FkVNoWVG8ypGg8qIHmsqgfVCovpbtn2W9clG1adZ89m+XQgPZ/saFEuz
+fCze7Um3cB0UoO1KMDHrvZ1XXY3qjbGp9zup9ZVUGVMxZBP4cou9RK+9RKzGXjeG2k4ffroy
+p8DQRbC5+yLow29NN+BKxe+smiah1OAKUZgJMQRrZa2J9Aj9n0Dmgrgrr6EhxmkNqXkPH/uc
+yqwa0zt5/lkqM6e3eMo+2BzcLbamP9t7I8S1o2/ixa6aGYeNPPDFKLJWxcUcPj7TbV395rP3
+qqXHb6/NZ+z5ar55uxXkTnPjo79q3LlrfPhdpxw4ndLc/blUE1x9y8zXZgI/+H6w5G2qgL0I
+MiX4ecKswcvVY+M15CvBva2eNNFmBOIe7ZztEhFtgF4qEagaZs45kOCvjru78loyEjscTw75
+r9DabdPNL1+cEdXJKdYmnkGN6BHoPZxO0INHXszb3a4pe7abOvdncwnEORaeUzv04ZcK+a6M
+/tt5VKd2Dk8tFAM6t3B089iFdl8ug4GZ5H9Snknqz+t/7obm7rzGzc2VwXNIdtrTU+3uX45Z
+H+kJUEsBAhcLFAAAAAgAjqU2UwsS0t7BAgAAdgwAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
+YXRVVAUAB7eVS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -251,7 +251,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOZtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -276,25 +276,25 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiMzMzMzMzESIiIiIiIiIRIj
 MiMjQiMhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAARuMlNQfNY/wgIAAHYMAAAHABEAc3RyLmRhdFVUDQAHIu5FYSLuRWEi7kVh
-7VZLb9NAEJ6rkfgPlntJpEg0EYVS1EPVCjggWpWiHpETO00gcSrb5dGq/51vZr3eXXttfIAT
-yPLurD3Pbx52QSuK6ZZSCmkLak0ZPaUn9CBrUK0Z7eijcCagvoP3GHdJOd1B8nXNtwHHT3Dc
-4V0JivUeU0RzPMshm2KNwK+4z3BeQu+a7kGNaEqHdEATrPs0rrnU+gwXW0+ogPY5Vu33CBpz
-7Au6qixG0BFBb2Rp6ZbNQG9rqQ8DpU4kwhy+zyvJBd5keKZiNDouBY8Mei7FyxLy+5Dge4rV
-3Tl+XrW8jYHxIHTsh3W2ApyX0P8OfAXwiOlGvL2CzA/wh/ReMpzirfL6TLybI3OMwBiX0dUX
-f2zZP4WOLd6wxrCORVETaJnSrIrRoBLQY02lsF5IVH/Lts+yPtmo+jRrPtu3C+HhbF+DYmmW
-T8S7PekWroMCtF0JJma9t/Oqq1G9MTb1fiu1vpQqYyqBbApfbrCX6LXniNXY68ZQ2+nDT1fm
-BBi6CDZ3XwR9+K3oM7g24ndWTZNIanCJKMyEGIK1stZEOkD/p5C5IO7Ka2hIcFpBatbDxz5v
-ZFaN6K08/ySVmdMbPGUfbA7uFlvTn+29AHHt6Jt4satmxqtGHvhiFFmr4jqkl14+021d/eaz
-96Klx2+vzWfs+Wq+ebsV5E5z46O/aty5a3z4XaccOJ3S3P25VBNcfcvM12YMP/h+sORtqoC9
-GDIl+HnCrMDL1WPjNeQrwb2tnjTRZgSSHu2c7RIRrYHeRiJQNcycMyDBXx13d+W1ZCx2OJ4c
-8l+htdumm1++OCOqkzdYm3iGNaJHoPdwOkEPHnkxb3e7puzZburcn80FEOdYeE7t0IdfKuS7
-Mvpv51Gd2jk8tVAM6dzC0c1jF9p9uQwHZpL/SXkmqT+v/7kbmrvzGjc3VwbPIdlpT0+1u385
-Zn2kX1BLAQIXCxQAAAAIAARuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
-ZGF0VVQFAAci7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAK6kNlMLEtLewQIAAHYMAAAHABEAc3RyLmRhdFVUDQAHE5RLYROUS2ETlEth
+7VZLb5tAEJ6rK/U/IHKxJUuNraZqUuUQJWp7qJooTZVjhA2O3WIcAekryn/PN7MsuwsL5dCe
+WiF2Z2Ge3zygoDVFdEcJBbQFtaGMntMzepB1VK0Z7eiTcMagvoP3GHdJOd1D8k3Nl4LjJzju
+8a4ExXqPKaQFnuWQTbCG4FfcZzivoHdDv0CNaUav6YCmWPdpUnOp9QUuth5TAe0LrNrvMTTm
+2Jd0VVkMoSOE3tDS0i2bgd7WUh8HSp1IhDl8X1SSS7zJ8EzFaHRcCh4Z9FyKlyXk9yHB9wyr
+u3P8vGp5GwPjQeDYD+psjXBeQf978BXAI6Jb8fYKMj/AH9AHyXCCt8rrM/FugcwxAhNcRldf
+/JFl/xQ6tnjDGoM6FkVNoWVG8ypGg8qIHmsqgfVCovpbtn2W9clG1adZ89m+XQgPZ/saFEuz
+fCze7Um3cB0UoO1KMDHrvZ1XXY3qjbGp9zup9ZVUGVMxZBP4cou9RK+9RKzGXjeG2k4ffroy
+p8DQRbC5+yLow29NN+BKxe+smiah1OAKUZgJMQRrZa2J9Aj9n0Dmgrgrr6EhxmkNqXkPH/uc
+yqwa0zt5/lkqM6e3eMo+2BzcLbamP9t7I8S1o2/ixa6aGYeNPPDFKLJWxcUcPj7TbV395rP3
+qqXHb6/NZ+z5ar55uxXkTnPjo79q3LlrfPhdpxw4ndLc/blUE1x9y8zXZgI/+H6w5G2qgL0I
+MiX4ecKswcvVY+M15CvBva2eNNFmBOIe7ZztEhFtgF4qEagaZs45kOCvjru78loyEjscTw75
+r9DabdPNL1+cEdXJKdYmnkGN6BHoPZxO0INHXszb3a4pe7abOvdncwnEORaeUzv04ZcK+a6M
+/tt5VKd2Dk8tFAM6t3B089iFdl8ug4GZ5H9Snknqz+t/7obm7rzGzc2VwXNIdtrTU+3uX45Z
+H+kJUEsBAhcLFAAAAAgArqQ2UwsS0t7BAgAAdgwAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
+YXRVVAUABxOUS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -336,7 +336,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAPBtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
