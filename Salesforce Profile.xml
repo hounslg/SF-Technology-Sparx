@@ -3,68 +3,6 @@
 	<Documentation id="82D638DA-5" name="Salesforce Architecture" version="1.0" notes="Salesforce Architecture"/>
 	<Content>
 		<Stereotypes>
-			<Stereotype name="When and Why" metatype="When and Why" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="10263708" borderwidth="2" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADqANVOUcPl0HAIAAPALAAAHABEAc3RyLmRhdFVUDQAH6QFKYekBSmHpAUph
-7VZNS8NAEH1XBf9DqBcFCyreioJV1IOi0IpHqU1qi20jSVRq8b/7Zna32fRDbat4KWE3u5mZ
-N2/nI2yKNhp4RoQAPa466GMD61jD0L77iJGqVsjVGw6RIcELLSpWw8wdtIixhQtqpqhzfuSu
-hEvFFPw6BuqphB2OU9Vrcx9yt81nOMJaoySin661TbkecBcp4imOUaMfsXIcPuw7opbYBgvw
-ieklK/D5GZtrIv02FxObwLKah09obSVbxvLveC3PbzZLM9cU6YZzH3fEC7lrE+dcv9+qp8TK
-a5S/qxdhUxlh9OjjVfVjynZ5kl3Pn2NppHuUjWsYHMNLhukG0zMZVwmjJvYiczHwZ4myi/EN
-tWO1TTQqJiId7iI0+aVDaV+jHXCucfdCWVN9lXGkETcRFdYNz6KYgVlx2y+cS3CEf0ZGgiUa
-vvzryE3Gbp8aB99qlL/UmfQiZwhnMDTnPCNCl88JEbocyUSFVPVrqGtfy1SKQ2tZnIZ6lOhI
-tp5oNc17sVIXz3KV+zLzOi5vkMkqr/+V1zy3+V6G3/0p8v4UmcvTT7K0eL1M/wO4/4P/zxiv
-nlVdLF8Xy2Runk5f5Wr5XBU71w3BeIDcguTOK90ZQm4nDzA3wJhfcx2xcFl5pk+JR6Z5zm8t
-0+8GVx52Xavk0vPsMNu4531W4vyoXXyolSLdK34kJqXRqYr+N7VyetTZtFzM/8ofgeUW2PkT
-UEsBAhcLFAAAAAgAOoA1U5Rw+XQcAgAA8AsAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRV
-VAUAB+kBSmFQSwUGAAAAAAEAAQA+AAAAUgIAAAAA</Image>
-				<AppliesTo>
-					<Apply type="Association">
-						<Property name="_HideUmlLink" value="True"/>
-						<Property name="_lineStyle" value="orthogonalR"/>
-						<Property name="compositionKind" value="none"/>
-						<Property name="direction" value="Source -&gt; Destination"/>
-					</Apply>
-				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Salesforce Small Card" metatype="SF" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
-				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Salesforce Detailed Card"/>
-					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
-					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
-				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHABEAc3RyLmRhdFVUDQAH+u1FYfrtRWH67UVh
-7VjdbxMxDPdrkfgfTt1LJ02oHWxsQ3sYm4AHxMZWtEfU9q5roV9qOzaY9r/zc9w0yV2uvX6c
-YFCdmvhytvOL7ThOR9SiGg0oooC6oNrUo+f0jB5UW5i0PerTleIMQd2B9xi/MQ3pFpJvpnwd
-cPwExy2+jUGx3mMqUh1jQ8hGaIvgF+4zvDeht02/QJWoQge0Rztoy7Q95bJbnj+kEfTX0Wrk
-Jejsge6CLkK+SJ/wMxrSpU4UziEQ1CeSDXzpYUyQZtExRN+g6mS1ouXKkb1UFulB/lLxjiFX
-Bh//Kmjdni3ArZa3129mDhzswdRfmrOA8Sbm+QD+EdDV6EahrUL2HnIBfVS+jvBVMJ8plHX4
-kFexjcfoNFrT9L6F9D20XuN7CP2tTFpn2bVmre8UWrr4wjqDqa2E2oEWtlcAas+JHH4eLToC
-ipGyXR4YdmMYbJvZKDRlxvy4/mY7/3krpyMQSr/ZO8Y3j+azsV4oHs4C16BYmuVDhXVL5ULO
-DyPQ9i43GHQvrY1AZyn5ktyzA5VNmsTZh6kQshGw3KAfI5O+wrrNfLpfZ6Ske0ljdz3Eudr2
-VIVeot2N+ccX64w6WAB3VXllYOF2I2xV5Ac54f4MRIwtD8z7GTGvc07egWZWXz6L974dMGv/
-tegruDoq7nsktUZR+b0Ju5r6gZ95e1Vmi+/UAk7oCDIXxKe98VgJ60rnY8wd4kqmRO/V+Bdl
-3yG9wyhjsDnY27YmQ/n367Ins19btmh8cHDx04XcD7W2PkmVchiLL3nYO4xR+Cp4XtMLFRk+
-fvt8iO+l7NiTGcC2w2ro80U+24OrIC9jf2a1u38l60FyqPK+5jRcaWiyVAyL2XjxyN7PsC47
-sn3864mPZSLbh8aHPl/ky0S2D00SuYlsH/96ItunOY5EIltzGq40NIb21YPxn3s6undJg99/
-Irp3VbOKeVUk31AMd7z3+19urnKLN3ddrmekprHtYagR5qtBZgx+rr5bxJWTa/Est2Oue2Uk
-7i+2QDhDO0fCGCtqw3odtQI5n5mTKxmpZezeldeSNTUPr2cI+e/Qmj6n619+2CNSpXTQxu0Z
-TC16BHoLbyeoL468Nk9WMpqSKJO3ebu5AYvzWrgG62P3fptYPs2j/7cf5S3pw1PLigGdW3Z0
-/Zhm7Vm+DDJ6kv+N41wl/1ZtfJfVd+dTu7m+MvbM4p1k9pTezvib/P6vxpYZScbXJr8/HT/K
-W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
-AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
-				<AppliesTo>
-					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
-						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
-						<Property name="isActive" value=""/>
-					</Apply>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Box Width" type="enumeration" description="" unit="" values="Single,Double,Triple,Quad" default="Single"/>
-					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
-				</TaggedValues>
-			</Stereotype>
 			<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
 					<stereotypedrelationship stereotype="Salesforce Architecture::" constraint="Salesforce Architecture::Start or End"/>
@@ -91,7 +29,9 @@ AAgAPKg1U7fwijFXAwAAZg4AAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUABzpISmFQ
 SwUGAAAAAAEAAQA+AAAAjQMAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
+						<Property name="_defaultDiagramType" value="Salesforce Architecture::Diagram_"/>
 						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_makeComposite" value="True"/>
 						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
 						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
 						<Property name="isActive" value=""/>
@@ -105,38 +45,6 @@ SwUGAAAAAAEAAQA+AAAAjQMAAAAA</Image>
 					<Tag name="RACI-R" type="enumeration" description="" unit="" values="False,True" default="False"/>
 					<Tag name="What Does It" type="" description="" unit="" values="" default=""/>
 					<Tag name="Who Does It" type="" description="" unit="" values="" default=""/>
-				</TaggedValues>
-			</Stereotype>
-			<Stereotype name="Non-Salesforce No Icon" metatype="Non SF" notes="" cx="0" cy="0" bgcolor="7631988" fontcolor="16777215" bordercolor="7631988" borderwidth="1" hideicon="0">
-				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
-				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAARuMlNQfNY/wgIAAHYMAAAHABEAc3RyLmRhdFVUDQAHIu5FYSLuRWEi7kVh
-7VZLb9NAEJ6rkfgPlntJpEg0EYVS1EPVCjggWpWiHpETO00gcSrb5dGq/51vZr3eXXttfIAT
-yPLurD3Pbx52QSuK6ZZSCmkLak0ZPaUn9CBrUK0Z7eijcCagvoP3GHdJOd1B8nXNtwHHT3Dc
-4V0JivUeU0RzPMshm2KNwK+4z3BeQu+a7kGNaEqHdEATrPs0rrnU+gwXW0+ogPY5Vu33CBpz
-7Au6qixG0BFBb2Rp6ZbNQG9rqQ8DpU4kwhy+zyvJBd5keKZiNDouBY8Mei7FyxLy+5Dge4rV
-3Tl+XrW8jYHxIHTsh3W2ApyX0P8OfAXwiOlGvL2CzA/wh/ReMpzirfL6TLybI3OMwBiX0dUX
-f2zZP4WOLd6wxrCORVETaJnSrIrRoBLQY02lsF5IVH/Lts+yPtmo+jRrPtu3C+HhbF+DYmmW
-T8S7PekWroMCtF0JJma9t/Oqq1G9MTb1fiu1vpQqYyqBbApfbrCX6LXniNXY68ZQ2+nDT1fm
-BBi6CDZ3XwR9+K3oM7g24ndWTZNIanCJKMyEGIK1stZEOkD/p5C5IO7Ka2hIcFpBatbDxz5v
-ZFaN6K08/ySVmdMbPGUfbA7uFlvTn+29AHHt6Jt4satmxqtGHvhiFFmr4jqkl14+021d/eaz
-96Klx2+vzWfs+Wq+ebsV5E5z46O/aty5a3z4XaccOJ3S3P25VBNcfcvM12YMP/h+sORtqoC9
-GDIl+HnCrMDL1WPjNeQrwb2tnjTRZgSSHu2c7RIRrYHeRiJQNcycMyDBXx13d+W1ZCx2OJ4c
-8l+htdumm1++OCOqkzdYm3iGNaJHoPdwOkEPHnkxb3e7puzZburcn80FEOdYeE7t0IdfKuS7
-Mvpv51Gd2jk8tVAM6dzC0c1jF9p9uQwHZpL/SXkmqT+v/7kbmrvzGjc3VwbPIdlpT0+1u385
-Zn2kX1BLAQIXCxQAAAAIAARuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
-ZGF0VVQFAAci7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
-				<AppliesTo>
-					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
-						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
-						<Property name="isActive" value=""/>
-					</Apply>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="ERD Association" metatype="ERD Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
@@ -169,6 +77,30 @@ VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 					<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Solid"/>
 				</TaggedValues>
 			</Stereotype>
+			<Stereotype name="Event" metatype="Event" notes="" cx="0" cy="0" bgcolor="10025880" fontcolor="-1" bordercolor="6908265" borderwidth="2" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOaMNVPWqdxeNAEAAGoDAAAHABEAc3RyLmRhdFVUDQAH1xhKYdcYSmHXGEph
+rZPbSsNAEIb/WwXfQeJNCoJaEITiRZXWK0UsPkCaQ12M25JEFKXv7j8zTbKFXIjIspPJzjen
+zaTGCxJskOMYb9QcPI5wiG+VBzjjqpHSUnIvKXNco9D3mvqEfkZ6rHki0TJqH6QaVHhXxoiC
+0T/5nmFKUnKmZJ7o0dCypkfU+USdl2Rp1LfkSsmV3BVi3KnlWYkK8x1xGxAjrjbOQulHSr/H
+7Ee50dNM9eFIYVXSg2evjh4Ne48xDjJKlIKkwxc1sV3iVGXP1PRLmEFiyT1IjN6aa0eONskX
+45z+si8o+2fIe2YditTeX6KEZK3Y2Ss9hujfdPeX+sdatcmrTv5//b00bRuc2IzaxNtMS5Vi
+aWfeupfv7rDSPyLmPC647fbDijdKefLljjvBA+f7HjNqUUdu8QNQSwECFwsUAAAACADmjDVT
+1qncXjQBAABqAwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAH1xhKYVBLBQYAAAAA
+AQABAD4AAABqAQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_defaultDiagramType" value="Salesforce Architecture::Diagram_"/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_makeComposite" value="True"/>
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
+						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
 			<Stereotype name="Integration Association" metatype="Integration Association" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAIyTLVMwldLfWwIAAFYNAAAHABEAc3RyLmRhdFVUDQAHRpg/YUaYP2FGmD9h
 7VZdaxNBFD2vEfwPS/oSwUCb2iepYBXtQ8XSRHyUtJs2wSRbkq1Si//dc+7MZGe3SU03FV/C
@@ -193,6 +125,38 @@ AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 				</AppliesTo>
 				<TaggedValues>
 					<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Dashed"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Non-Salesforce No Icon" metatype="Non SF" notes="" cx="0" cy="0" bgcolor="7631988" fontcolor="16777215" bordercolor="7631988" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAARuMlNQfNY/wgIAAHYMAAAHABEAc3RyLmRhdFVUDQAHIu5FYSLuRWEi7kVh
+7VZLb9NAEJ6rkfgPlntJpEg0EYVS1EPVCjggWpWiHpETO00gcSrb5dGq/51vZr3eXXttfIAT
+yPLurD3Pbx52QSuK6ZZSCmkLak0ZPaUn9CBrUK0Z7eijcCagvoP3GHdJOd1B8nXNtwHHT3Dc
+4V0JivUeU0RzPMshm2KNwK+4z3BeQu+a7kGNaEqHdEATrPs0rrnU+gwXW0+ogPY5Vu33CBpz
+7Au6qixG0BFBb2Rp6ZbNQG9rqQ8DpU4kwhy+zyvJBd5keKZiNDouBY8Mei7FyxLy+5Dge4rV
+3Tl+XrW8jYHxIHTsh3W2ApyX0P8OfAXwiOlGvL2CzA/wh/ReMpzirfL6TLybI3OMwBiX0dUX
+f2zZP4WOLd6wxrCORVETaJnSrIrRoBLQY02lsF5IVH/Lts+yPtmo+jRrPtu3C+HhbF+DYmmW
+T8S7PekWroMCtF0JJma9t/Oqq1G9MTb1fiu1vpQqYyqBbApfbrCX6LXniNXY68ZQ2+nDT1fm
+BBi6CDZ3XwR9+K3oM7g24ndWTZNIanCJKMyEGIK1stZEOkD/p5C5IO7Ka2hIcFpBatbDxz5v
+ZFaN6K08/ySVmdMbPGUfbA7uFlvTn+29AHHt6Jt4satmxqtGHvhiFFmr4jqkl14+021d/eaz
+96Klx2+vzWfs+Wq+ebsV5E5z46O/aty5a3z4XaccOJ3S3P25VBNcfcvM12YMP/h+sORtqoC9
+GDIl+HnCrMDL1WPjNeQrwb2tnjTRZgSSHu2c7RIRrYHeRiJQNcycMyDBXx13d+W1ZCx2OJ4c
+8l+htdumm1++OCOqkzdYm3iGNaJHoPdwOkEPHnkxb3e7puzZburcn80FEOdYeE7t0IdfKuS7
+Mvpv51Gd2jk8tVAM6dzC0c1jF9p9uQwHZpL/SXkmqT+v/7kbmrvzGjc3VwbPIdlpT0+1u385
+Zn2kX1BLAQIXCxQAAAAIAARuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
+ZGF0VVQFAAci7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
+						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Non Salesforce Small Card" metatype="Non SF" notes="" cx="0" cy="0" bgcolor="7631988" fontcolor="16777215" bordercolor="7631988" borderwidth="1" hideicon="0">
@@ -232,81 +196,6 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 					<Tag name="Box Width" type="enumeration" description="" unit="" values="Single,Double,Triple,Quad" default="Single"/>
 					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 				</TaggedValues>
-			</Stereotype>
-			<Stereotype name="Salesforce No Icon" metatype="SF No Icon" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
-				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
-					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
-				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHABEAc3RyLmRhdFVUDQAHFu5FYRbuRWEW7kVh
-7VZLb9NAEJ6rkfgPlntJpEg0EYVS1EPVCjggWpWiHpETO00gcSrb5dGq/51vZr3eXXttfIAT
-yPLurD3Pbx52QSuK6ZZSCmkLak0ZPaUn9CBrUK0Z7eijcCagvoP3GHdJOd1B8nXNtwHHT3Dc
-4V0JivUeU0RzPMshm2KNwK+4z3BeQu+a7kGNaEqHdEATrPs0rrnU+gwXW0+ogPY5Vu33CBpz
-7Au6qixG0BFBb2Rp6ZbNQG9rqQ8DpU4kwhy+zyvJBd5keKZiNDouBY8Mei7FyxLy+5Dge4rV
-3Tl+XrW8jYHxIHTsh3W2ApyX0P8OfAXwiOlGvL2CzA/wh/ReMpzirfL6TLybI3OMwBiX0dUX
-f2zZP4WOLd6wxrCORVETaJnSrIrRoBLQY02lsF5IVH/Lts+yPtmo+jRrPtu3C+HhbF+DYmmW
-T8S7PekWroMCtF0JJma9t/Oqq1G9MTb1fiu1vpQqYyqBbApfbrCX6LXniNXY68ZQ2+nDT1fm
-BBi6CDZ3XwR9+K3oM7g24ndWTZNIanCJKMyEGIK1stZEOkD/p5C5IO7Ka2hIcFpBatbDxz5v
-ZFaN6K08/ySVmdMbPGUfbA7uFlvTn+29AHHt6Jt4satmxqtGHvhiFFmr4jqkl14+021d/eaz
-96Klx2+vzWfs+Wq+ebsV5E5z46O/aty5a3z4XaccOJ3S3P25VBNcfcvM12YMP/h+sORtqoC9
-GDIl+HnCrMDL1WPjNeQrwb2tnjTRZgSSHu2c7RIRrYHeRiJQNcycMyDBXx13d+W1ZCx2OJ4c
-8l+htdumm1++OCOqkzdYm3iGNaJHoPdwOkEPHnkxb3e7puzZburcn80FEOdYeE7t0IdfKuS7
-Mvpv51Gd2jk8tVAM6dzC0c1jF9p9uQwHZpL/SXkmqT+v/7kbmrvzGjc3VwbPIdlpT0+1u385
-Zn2kX1BLAQIXCxQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
-ZGF0VVQFAAcW7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
-				<AppliesTo>
-					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
-						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
-						<Property name="isActive" value=""/>
-					</Apply>
-				</AppliesTo>
-				<TaggedValues>
-					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
-				</TaggedValues>
-			</Stereotype>
-			<Stereotype name="Start or End" metatype="Start or End" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="3937500" borderwidth="5" hideicon="0">
-				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
-				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADaONVO7ZhdU4AAAAO4BAAAHABEAc3RyLmRhdFVUDQAHFxtKYRcbSmEXG0ph
-fZHBasJAFEXvVqH/UOImQhfVrXTRRelGSzGKa21MFWIUTaso+XfPvMQhKcVF3tyZd+4d5uWg
-lebaaalHbVBrZXpQWxerrapm2upgZIw66kW59vrBNaiIBOeJfaxXSJf3BTPGkdPZ4gi8J/Cu
-mF0Cv9YZFaqvZz1Z7XomopPrk5ppBhmzW8G+2/kU95Lcsh/5pG4tYcT9v5xOWEO7oZ4/tDff
-uj16jijXexl/if9z6oSrhdVyluXUU9QClTbm7l6Vk7Qn9duSQ+YW8bnMZu7OqAw+rbiOPvgP
-I72hAk8WugJQSwECFwsUAAAACAA2jjVTu2YXVOAAAADuAQAABwAJAAAAAAAAAAAAAIAAAAAA
-c3RyLmRhdFVUBQAHFxtKYVBLBQYAAAAAAQABAD4AAAAWAQAAAAA=</Image>
-				<AppliesTo>
-					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
-						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
-						<Property name="isActive" value=""/>
-					</Apply>
-				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Event" metatype="Event" notes="" cx="0" cy="0" bgcolor="10025880" fontcolor="-1" bordercolor="6908265" borderwidth="2" hideicon="0">
-				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
-				</stereotypedrelationships>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOaMNVPWqdxeNAEAAGoDAAAHABEAc3RyLmRhdFVUDQAH1xhKYdcYSmHXGEph
-rZPbSsNAEIb/WwXfQeJNCoJaEITiRZXWK0UsPkCaQ12M25JEFKXv7j8zTbKFXIjIspPJzjen
-zaTGCxJskOMYb9QcPI5wiG+VBzjjqpHSUnIvKXNco9D3mvqEfkZ6rHki0TJqH6QaVHhXxoiC
-0T/5nmFKUnKmZJ7o0dCypkfU+USdl2Rp1LfkSsmV3BVi3KnlWYkK8x1xGxAjrjbOQulHSr/H
-7Ee50dNM9eFIYVXSg2evjh4Ne48xDjJKlIKkwxc1sV3iVGXP1PRLmEFiyT1IjN6aa0eONskX
-45z+si8o+2fIe2YditTeX6KEZK3Y2Ss9hujfdPeX+sdatcmrTv5//b00bRuc2IzaxNtMS5Vi
-aWfeupfv7rDSPyLmPC647fbDijdKefLljjvBA+f7HjNqUUdu8QNQSwECFwsUAAAACADmjDVT
-1qncXjQBAABqAwAABwAJAAAAAAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAH1xhKYVBLBQYAAAAA
-AQABAD4AAABqAQAAAAA=</Image>
-				<AppliesTo>
-					<Apply type="Class">
-						<Property name="_HideUmlLinks" value="True"/>
-						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
-						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
-						<Property name="isActive" value=""/>
-					</Apply>
-				</AppliesTo>
 			</Stereotype>
 			<Stereotype name="Salesforce Detailed Card" metatype="SF Detail" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
 				<stereotypedrelationships>
@@ -349,6 +238,123 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 					<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
 					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Salesforce No Icon" metatype="SF No Icon" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHABEAc3RyLmRhdFVUDQAHFu5FYRbuRWEW7kVh
+7VZLb9NAEJ6rkfgPlntJpEg0EYVS1EPVCjggWpWiHpETO00gcSrb5dGq/51vZr3eXXttfIAT
+yPLurD3Pbx52QSuK6ZZSCmkLak0ZPaUn9CBrUK0Z7eijcCagvoP3GHdJOd1B8nXNtwHHT3Dc
+4V0JivUeU0RzPMshm2KNwK+4z3BeQu+a7kGNaEqHdEATrPs0rrnU+gwXW0+ogPY5Vu33CBpz
+7Au6qixG0BFBb2Rp6ZbNQG9rqQ8DpU4kwhy+zyvJBd5keKZiNDouBY8Mei7FyxLy+5Dge4rV
+3Tl+XrW8jYHxIHTsh3W2ApyX0P8OfAXwiOlGvL2CzA/wh/ReMpzirfL6TLybI3OMwBiX0dUX
+f2zZP4WOLd6wxrCORVETaJnSrIrRoBLQY02lsF5IVH/Lts+yPtmo+jRrPtu3C+HhbF+DYmmW
+T8S7PekWroMCtF0JJma9t/Oqq1G9MTb1fiu1vpQqYyqBbApfbrCX6LXniNXY68ZQ2+nDT1fm
+BBi6CDZ3XwR9+K3oM7g24ndWTZNIanCJKMyEGIK1stZEOkD/p5C5IO7Ka2hIcFpBatbDxz5v
+ZFaN6K08/ySVmdMbPGUfbA7uFlvTn+29AHHt6Jt4satmxqtGHvhiFFmr4jqkl14+021d/eaz
+96Klx2+vzWfs+Wq+ebsV5E5z46O/aty5a3z4XaccOJ3S3P25VBNcfcvM12YMP/h+sORtqoC9
+GDIl+HnCrMDL1WPjNeQrwb2tnjTRZgSSHu2c7RIRrYHeRiJQNcycMyDBXx13d+W1ZCx2OJ4c
+8l+htdumm1++OCOqkzdYm3iGNaJHoPdwOkEPHnkxb3e7puzZburcn80FEOdYeE7t0IdfKuS7
+Mvpv51Gd2jk8tVAM6dzC0c1jF9p9uQwHZpL/SXkmqT+v/7kbmrvzGjc3VwbPIdlpT0+1u385
+Zn2kX1BLAQIXCxQAAAAIAAxuMlNQfNY/wgIAAHYMAAAHAAkAAAAAAAAAAAAAgAAAAABzdHIu
+ZGF0VVQFAAcW7kVhUEsFBgAAAAABAAEAPgAAAPgCAAAAAA==</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
+						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Salesforce Small Card" metatype="SF" notes="" cx="0" cy="0" bgcolor="15987699" fontcolor="-1" bordercolor="11119017" borderwidth="1" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Direction Association" constraint="Salesforce Architecture::Salesforce Detailed Card"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::ERD Association" constraint="Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHABEAc3RyLmRhdFVUDQAH+u1FYfrtRWH67UVh
+7VjdbxMxDPdrkfgfTt1LJ02oHWxsQ3sYm4AHxMZWtEfU9q5roV9qOzaY9r/zc9w0yV2uvX6c
+YFCdmvhytvOL7ThOR9SiGg0oooC6oNrUo+f0jB5UW5i0PerTleIMQd2B9xi/MQ3pFpJvpnwd
+cPwExy2+jUGx3mMqUh1jQ8hGaIvgF+4zvDeht02/QJWoQge0Rztoy7Q95bJbnj+kEfTX0Wrk
+Jejsge6CLkK+SJ/wMxrSpU4UziEQ1CeSDXzpYUyQZtExRN+g6mS1ouXKkb1UFulB/lLxjiFX
+Bh//Kmjdni3ArZa3129mDhzswdRfmrOA8Sbm+QD+EdDV6EahrUL2HnIBfVS+jvBVMJ8plHX4
+kFexjcfoNFrT9L6F9D20XuN7CP2tTFpn2bVmre8UWrr4wjqDqa2E2oEWtlcAas+JHH4eLToC
+ipGyXR4YdmMYbJvZKDRlxvy4/mY7/3krpyMQSr/ZO8Y3j+azsV4oHs4C16BYmuVDhXVL5ULO
+DyPQ9i43GHQvrY1AZyn5ktyzA5VNmsTZh6kQshGw3KAfI5O+wrrNfLpfZ6Ske0ljdz3Eudr2
+VIVeot2N+ccX64w6WAB3VXllYOF2I2xV5Ac54f4MRIwtD8z7GTGvc07egWZWXz6L974dMGv/
+tegruDoq7nsktUZR+b0Ju5r6gZ95e1Vmi+/UAk7oCDIXxKe98VgJ60rnY8wd4kqmRO/V+Bdl
+3yG9wyhjsDnY27YmQ/n367Ins19btmh8cHDx04XcD7W2PkmVchiLL3nYO4xR+Cp4XtMLFRk+
+fvt8iO+l7NiTGcC2w2ro80U+24OrIC9jf2a1u38l60FyqPK+5jRcaWiyVAyL2XjxyN7PsC47
+sn3864mPZSLbh8aHPl/ky0S2D00SuYlsH/96ItunOY5EIltzGq40NIb21YPxn3s6undJg99/
+Irp3VbOKeVUk31AMd7z3+19urnKLN3ddrmekprHtYagR5qtBZgx+rr5bxJWTa/Est2Oue2Uk
+7i+2QDhDO0fCGCtqw3odtQI5n5mTKxmpZezeldeSNTUPr2cI+e/Qmj6n619+2CNSpXTQxu0Z
+TC16BHoLbyeoL468Nk9WMpqSKJO3ebu5AYvzWrgG62P3fptYPs2j/7cf5S3pw1PLigGdW3Z0
+/Zhm7Vm+DDJ6kv+N41wl/1ZtfJfVd+dTu7m+MvbM4p1k9pTezvib/P6vxpYZScbXJr8/HT/K
+W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOxtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
+AAAAAAAAgAAAAABzdHIuZGF0VVQFAAf67UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_tagGroupings" value="Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Text Lines=Box Layout;Box Width=Box Layout;"/>
+						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Box Width" type="enumeration" description="" unit="" values="Single,Double,Triple,Quad" default="Single"/>
+					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Start or End" metatype="Start or End" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="3937500" borderwidth="5" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADaONVO7ZhdU4AAAAO4BAAAHABEAc3RyLmRhdFVUDQAHFxtKYRcbSmEXG0ph
+fZHBasJAFEXvVqH/UOImQhfVrXTRRelGSzGKa21MFWIUTaso+XfPvMQhKcVF3tyZd+4d5uWg
+lebaaalHbVBrZXpQWxerrapm2upgZIw66kW59vrBNaiIBOeJfaxXSJf3BTPGkdPZ4gi8J/Cu
+mF0Cv9YZFaqvZz1Z7XomopPrk5ppBhmzW8G+2/kU95Lcsh/5pG4tYcT9v5xOWEO7oZ4/tDff
+uj16jijXexl/if9z6oSrhdVyluXUU9QClTbm7l6Vk7Qn9duSQ+YW8bnMZu7OqAw+rbiOPvgP
+I72hAk8WugJQSwECFwsUAAAACAA2jjVTu2YXVOAAAADuAQAABwAJAAAAAAAAAAAAAIAAAAAA
+c3RyLmRhdFVUBQAHFxtKYVBLBQYAAAAAAQABAD4AAAAWAQAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_defaultDiagramType" value="Salesforce Architecture::Diagram_"/>
+						<Property name="_HideUmlLinks" value="True"/>
+						<Property name="_makeComposite" value="True"/>
+						<Property name="_tagGroupings" value="RACI-I=RACI;RACI-C=RACI;RACI-A=RACI;RACI-R=RACI;What Does It=Who And What;Who Does It=Who And What;Activity Number=Activity;"/>
+						<Property name="_tagGroups" value="RACI,Who And What,Activity"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="When and Why" metatype="When and Why" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="10263708" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADqANVOUcPl0HAIAAPALAAAHABEAc3RyLmRhdFVUDQAH6QFKYekBSmHpAUph
+7VZNS8NAEH1XBf9DqBcFCyreioJV1IOi0IpHqU1qi20jSVRq8b/7Zna32fRDbat4KWE3u5mZ
+N2/nI2yKNhp4RoQAPa466GMD61jD0L77iJGqVsjVGw6RIcELLSpWw8wdtIixhQtqpqhzfuSu
+hEvFFPw6BuqphB2OU9Vrcx9yt81nOMJaoySin661TbkecBcp4imOUaMfsXIcPuw7opbYBgvw
+ieklK/D5GZtrIv02FxObwLKah09obSVbxvLveC3PbzZLM9cU6YZzH3fEC7lrE+dcv9+qp8TK
+a5S/qxdhUxlh9OjjVfVjynZ5kl3Pn2NppHuUjWsYHMNLhukG0zMZVwmjJvYiczHwZ4myi/EN
+tWO1TTQqJiId7iI0+aVDaV+jHXCucfdCWVN9lXGkETcRFdYNz6KYgVlx2y+cS3CEf0ZGgiUa
+vvzryE3Gbp8aB99qlL/UmfQiZwhnMDTnPCNCl88JEbocyUSFVPVrqGtfy1SKQ2tZnIZ6lOhI
+tp5oNc17sVIXz3KV+zLzOi5vkMkqr/+V1zy3+V6G3/0p8v4UmcvTT7K0eL1M/wO4/4P/zxiv
+nlVdLF8Xy2Runk5f5Wr5XBU71w3BeIDcguTOK90ZQm4nDzA3wJhfcx2xcFl5pk+JR6Z5zm8t
+0+8GVx52Xavk0vPsMNu4531W4vyoXXyolSLdK34kJqXRqYr+N7VyetTZtFzM/8ofgeUW2PkT
+UEsBAhcLFAAAAAgAOoA1U5Rw+XQcAgAA8AsAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRV
+VAUAB+kBSmFQSwUGAAAAAAEAAQA+AAAAUgIAAAAA</Image>
+				<AppliesTo>
+					<Apply type="Association">
+						<Property name="_HideUmlLink" value="True"/>
+						<Property name="_lineStyle" value="orthogonalR"/>
+						<Property name="compositionKind" value="none"/>
+						<Property name="direction" value="Source -&gt; Destination"/>
+					</Apply>
+				</AppliesTo>
 			</Stereotype>
 		</Stereotypes>
 		<TaggedValueTypes/>

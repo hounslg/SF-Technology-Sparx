@@ -17,6 +17,7 @@
 			<Stereotype name="Salesforce UPN" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
 					<Apply type="Diagram_Activity">
+						<Property name="_DefaultDiagramType" value=""/>
 						<Property name="alias" value="Salesforce UPN"/>
 						<Property name="diagramID" value="S-UPN"/>
 						<Property name="styleex" value="HideConnStereotype=1;"/>
