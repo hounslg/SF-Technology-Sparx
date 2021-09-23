@@ -5,10 +5,11 @@
 		<Stereotypes>
 			<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
-					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event;Salesforce Architecture::Start or End"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::" constraint="Salesforce Architecture::Start or End"/>
+					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AIAAAADm5uYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAAIAAAADm5uYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAERERERERAAESIiIiIiEQASIiIiIiIhABEREREREREAEiIiIiIiIQARERER
 ERERABIiIiIiIiEAEiIiIiIiIQASIiIiIiIhABIiIiIiIiEAEiIhIiEhIQARIiESISERABES
 ISISISEAEREiIiIiIQARERIiIiIRAAERERERERAA</Icon>
@@ -85,7 +86,7 @@ VAUAB8e9QGFQSwUGAAAAAAEAAQA+AAAAKgMAAAAA</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39ADMzMwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAADMzMwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAREQAAAAAAESIiEQAAAAEiEREiEAAAASEi
 IhIQAAASEiIiISEAABISIiIhIQAAEhIiIiEhAAASEiIiISEAAAEhIiISEAAAASIRESIQAAAA
 ESIiEQAAAAAAEREAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
@@ -141,7 +142,7 @@ AHN0ci5kYXRVVAUAB0aYP2FQSwUGAAAAAAEAAQA+AAAAkQIAAAAA</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AJmZmQDm5uYAgID/ADMzMwBNTU0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAAJmZmQDm5uYAgID/ADMzMwBNTU0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
 MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
@@ -167,7 +168,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAGinNlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAdImUthUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -185,7 +186,7 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAdImUthUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AJmZmQDm5uYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAAJmZmQDm5uYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiERERERERESIiIiIiIiIRIh
 ISEhEhIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
@@ -207,7 +208,7 @@ H+kJUEsBAhcLFAAAAAgAjqU2UwsS0t7BAgAAdgwAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
 YXRVVAUAB7eVS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -224,7 +225,7 @@ YXRVVAUAB7eVS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AJmZmQDMzMwAMzMzAE1NTQD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAAJmZmQDMzMwAMzMzAE1NTQD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhFVVVVVVVVVEVVVVV
 VVVVURIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiREREREESIiIiIiIiIRIi
 IiMkMjIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
@@ -250,7 +251,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOZtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -271,7 +272,7 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Small Card"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AE1NTQCzs7MA////AMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAAE1NTQCzs7MA////AMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiMzMzMzMzESIiIiIiIiIRIj
 MiMjQiMhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
@@ -293,7 +294,7 @@ H+kJUEsBAhcLFAAAAAgArqQ2UwsS0t7BAgAAdgwAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
 YXRVVAUABxOUS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -309,7 +310,7 @@ YXRVVAUABxOUS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::Integration Association" constraint="Salesforce Architecture::Non-Salesforce No Icon;Salesforce Architecture::Non Salesforce Small Card;Salesforce Architecture::Salesforce No Icon;Salesforce Architecture::Salesforce Detailed Card;Salesforce Architecture::Salesforce Small Card"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AE1NTQCzs7MAgID/AP///wDMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+wMDAAE1NTQCzs7MAgID/AP///wDMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
 MiQkUiQhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
@@ -335,7 +336,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAPBtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -352,7 +353,7 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity"/>
 				</stereotypedrelationships>
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
-/f39AAAA/wAAAAAAAAAAAAAAAAAYGAAAHDgAAA5wAAAH4AAAAYAAAAGAAAAH4AAADnAAABw4
+wMDAAAAA/wAAAAAAAAAAAAAAAAAYGAAAHDgAAA5wAAAH4AAAAYAAAAGAAAAH4AAADnAAABw4
 AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADaONVO7ZhdU4AAAAO4BAAAHABEAc3RyLmRhdFVUDQAHFxtKYRcbSmEXG0ph
 fZHBasJAFEXvVqH/UOImQhfVrXTRRelGSzGKa21MFWIUTaso+XfPvMQhKcVF3tyZd+4d5uWg
