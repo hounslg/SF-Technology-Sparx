@@ -168,7 +168,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAGinNlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAdImUthUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;Free Text=Salesforce Values;Custom Object=Salesforce Values;Record Type=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -208,7 +208,7 @@ H+kJUEsBAhcLFAAAAAgAjqU2UwsS0t7BAgAAdgwAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
 YXRVVAUAB7eVS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;Free Text=Salesforce Values;Custom Object=Salesforce Values;Record Type=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -229,29 +229,29 @@ wMDAAJmZmQDMzMwAMzMzAE1NTQD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhFVVVVVVVVVEVVVVV
 VVVVURIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiREREREESIiIiIiIiIRIi
 IiMkMjIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAOZtMlOeSsV6qQMAAEYbAAAHABEAc3RyLmRhdFVUDQAHB+5FYQfuRWEH7kVh
-7VjdbxMxDPdrkfgfTt1LJ02oHWxsQ3sYm4AHxMZWtEfU9q5roV9qOzaY9r/zc9w0yV2uvX6c
-YFCdmvhytvOL7ThOR9SiGg0oooC6oNrUo+f0jB5UW5i0PerTleIMQd2B9xi/MQ3pFpJvpnwd
-cPwExy2+jUGx3mMqUh1jQ8hGaIvgF+4zvDeht02/QJWoQge0Rztoy7Q95bJbnj+kEfTX0Wrk
-Jejsge6CLkK+SJ/wMxrSpU4UziEQ1CeSDXzpYUyQZtExRN+g6mS1ouXKkb1UFulB/lLxjiFX
-Bh//Kmjdni3ArZa3129mDhzswdRfmrOA8Sbm+QD+EdDV6EahrUL2HnIBfVS+jvBVMJ8plHX4
-kFexjcfoNFrT9L6F9D20XuN7CP2tTFpn2bVmre8UWrr4wjqDqa2E2oEWtlcAas+JHH4eLToC
-ipGyXR4YdmMYbJvZKDRlxvy4/mY7/3krpyMQSr/ZO8Y3j+azsV4oHs4C16BYmuVDhXVL5ULO
-DyPQ9i43GHQvrY1AZyn5ktyzA5VNmsTZh6kQshGw3KAfI5O+wrrNfLpfZ6Ske0ljdz3Eudr2
-VIVeot2N+ccX64w6WAB3VXllYOF2I2xV5Ac54f4MRIwtD8z7GTGvc07egWZWXz6L974dMGv/
-tegruDoq7nsktUZR+b0Ju5r6gZ95e1Vmi+/UAk7oCDIXxKe98VgJ60rnY8wd4kqmRO/V+Bdl
-3yG9wyhjsDnY27YmQ/n367Ins19btmh8cHDx04XcD7W2PkmVchiLL3nYO4xR+Cp4XtMLFRk+
-fvt8iO+l7NiTGcC2w2ro80U+24OrIC9jf2a1u38l60FyqPK+5jRcaWiyVAyL2XjxyN7PsC47
-sn3864mPZSLbh8aHPl/ky0S2D00SuYlsH/96ItunOY5EIltzGq40NIb21YPxn3s6undJg99/
-Irp3VbOKeVUk31AMd7z3+19urnKLN3ddrmekprHtYagR5qtBZgx+rr5bxJWTa/Est2Oue2Uk
-7i+2QDhDO0fCGCtqw3odtQI5n5mTKxmpZezeldeSNTUPr2cI+e/Qmj6n619+2CNSpXTQxu0Z
-TC16BHoLbyeoL468Nk9WMpqSKJO3ebu5AYvzWrgG62P3fptYPs2j/7cf5S3pw1PLigGdW3Z0
-/Zhm7Vm+DDJ6kv+N41wl/1ZtfJfVd+dTu7m+MvbM4p1k9pTezvib/P6vxpYZScbXJr8/HT/K
-W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAOZtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
-AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIABRpN1PavktBngMAACwXAAAHABEAc3RyLmRhdFVUDQAHOnxMYTp8TGE6fExh
+7VjbTttAEJ3XVOo/WOElSKhKaKFAxQOF0j5UhUIqHqtcHJI2McgOLS3i33tmNpvdddbJ5qZW
+KrK8O17PzJ6dM3uxM+pSg24ppogGkHqU0HN6Rg9SlkZlQjd0KZptSD+he4h7SCndwfLNWK8P
+jV/QuMO7IST2e0hlaqIthW2Msgx9pX2C5w789ug3pArVaI92aAtllTbHWnbJ/bcpg/8mSo28
+Ap8J5AHkMuzL9Am38VBsdSQ4UyBojixbeJOgTSEN8ZGiblF9NFrl5dKxvZCIJLC/EN0h7KrQ
+47uG0q05Alxqe3v8pufIwR6N+dKaJbR30M8H6GdA16BrQVuH7T3sIvooXMd4qzCfCMomOORR
+bOIyPo3XIr9vYX0Pr1d434b/bpDXaXFtWOM7hpcB3rDPaBwrJW3BC8crgrTjZA5fj5YcA0Um
+sVsHhu0cBjtmNgotmTY/rn85zn8/ysUIlKSf7Bnj60fr2VjPRYdXgStIbM32bcG6IWshrw8Z
+ZHuWGwy6VqWNQK9S6s3knL2V1aRDvPqw1IZtDCzXqIdYSV9h3KY/Xa8yU4pZ0thdhnittpmq
+0UuU2zl+fLnOqKM5cNeFlVsLt5thyyLfWxPuz0DE2NaBeTcQ8yr75BloevWtZ/naNwOmzb8u
+fYVWX/I+IXXWKAvvHcTVnB/4mjVXVW/5mVrCDh3D5px4tzeMVTCuYj3G3Cc+yVTovbR/kfim
+dIpWxmBrMNu2JyP55+uiO7PfW1g2Pji4+BrA7oeM7YbUKWU/l1/qYnYYo9Kr4XpNLyQzfPr2
+/pCfS+HYJ1cAOw7LoV8v8ukMLoO8ivkZGnf/SFaDZF/Wfa1ptIrQhJwY5ovx/Jm9GzAuO7N9
++qvJj0Uy24fGh369yBfJbB+aSeQms336q8lsn+c8EpXZWtNoFaExsu88mL/d3dH9ljT4/Tui
++61qRjHrFMlfKEpbWfgZPxVbRqV3JuY3ktudXUbKoNWA3RAY+LTdJT4puREO+Rrmc65qyfPD
+I25P8c7MDzGeHqLVh3e9H7Mmn1zU2cWuXXtt2ZB+eDwp7L/Da3GfLp+aAXUq6aP0R/MA8gae
+jnCWOPC8nzyzaEnn07sZc1bFV/15Yb/6D8UTi74+Q1j0R9Rl0q8zi031NGsVbiHmPBo+O0co
+m/RtFP0iVv9vLtXTJI/HThzPrDi6XBbHexqfUSCb/CeV9xn1p/GJvVD2zsZxc9ky8Qxhx7S5
+tb1b2+Uj/QFQSwECFwsUAAAACAAUaTdT2r5LQZ4DAAAsFwAABwAJAAAAAAAAAAAAAIAAAAAA
+c3RyLmRhdFVUBQAHOnxMYVBLBQYAAAAAAQABAD4AAADUAwAAAAA=</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;Free Text=Salesforce Values;Custom Object=Salesforce Values;Record Type=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -260,10 +260,10 @@ AAAAAAAAgAAAAABzdHIuZGF0VVQFAAcH7kVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				</AppliesTo>
 				<TaggedValues>
 					<Tag name="Box Width" type="enumeration" description="" unit="" values="Single,Double,Triple,Quad" default="Single"/>
-					<Tag name="CustomObject" type="" description="" unit="" values="" default=""/>
-					<Tag name="FreeText" type="" description="" unit="" values="" default=""/>
+					<Tag name="Custom Object" type="" description="" unit="" values="" default=""/>
+					<Tag name="Free Text" type="" description="" unit="" values="" default=""/>
 					<Tag name="Owner" type="" description="" unit="" values="" default=""/>
-					<Tag name="RecordType" type="" description="" unit="" values="" default=""/>
+					<Tag name="Record Type" type="" description="" unit="" values="" default=""/>
 					<Tag name="Text Lines" type="enumeration" description="" unit="" values="Single,Double" default="Single"/>
 				</TaggedValues>
 			</Stereotype>
@@ -294,7 +294,7 @@ H+kJUEsBAhcLFAAAAAgArqQ2UwsS0t7BAgAAdgwAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5k
 YXRVVAUABxOUS2FQSwUGAAAAAAEAAQA+AAAA9wIAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;Free Text=Salesforce Values;Custom Object=Salesforce Values;Record Type=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
@@ -336,7 +336,7 @@ W9KHm/wu0k/Rd3nnd01x+0i/AVBLAQIXCxQAAAAIAPBtMlOeSsV6qQMAAEYbAAAHAAkAAAAA
 AAAAAAAAgAAAAABzdHIuZGF0VVQFAAfs7UVhUEsFBgAAAAABAAEAPgAAAN8DAAAAAA==</Image>
 				<AppliesTo>
 					<Apply type="Class">
-						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;FreeText=Salesforce Values;CustomObject=Salesforce Values;RecordType=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
+						<Property name="_tagGroupings" value="icon=Salesforce Values;Owner=Salesforce Values;Free Text=Salesforce Values;Custom Object=Salesforce Values;Record Type=Salesforce Values;Box Width=Box Layout;Text Lines=Box Layout;"/>
 						<Property name="_tagGroups" value="Salesforce Values,Box Layout"/>
 						<Property name="isActive" value=""/>
 						<Property name="_HideUmlLinks" value="True"/>
