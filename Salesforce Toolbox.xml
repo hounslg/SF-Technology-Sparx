@@ -1,44 +1,24 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <UMLProfile profiletype="uml2">
-	<Documentation id="AD6D0A4C-5" name="Salesforce Toolbox" version="1.0" notes="Salesforce Toolbox"/>
+	<Documentation id="AD6D0A4C-5" name="Salesforce Toolbox" version="2" notes="Salesforce Toolbox"/>
 	<Content>
 		<Stereotypes>
-			<Stereotype name="Salesforce Architecture::Activity(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+			<Stereotype name="Salesforce Architecture::Salesforce Small Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AIAAAADMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAERERERERAAESIiIiIiEQASIiIiIiIhABEREREREREAEiIiIiIiIQARERER
-ERERABIiIiIiIiEAEiIiIiIiIQASIiIiIiIhABIiIiIiIiEAEiIhIiEhIQARIiESISERABES
-ISISISEAEREiIiIiIQARERIiIiIRAAERERERERAA</Icon>
-				<AppliesTo>
-					<Apply type="ToolboxItemImage"/>
-				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Salesforce Architecture::Event(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39ADMzMwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAREQAAAAAAESIiEQAAAAEiEREiEAAAASEi
-IhIQAAASEiIiISEAABISIiIhIQAAEhIiIiEhAAASEiIiISEAAAEhIiISEAAAASIRESIQAAAA
-ESIiEQAAAAAAEREAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
-				<AppliesTo>
-					<Apply type="ToolboxItemImage"/>
-				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39ADMzMwBmZmYA////AMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
-IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiMzMzMzESIiIiIiIiIRIi
-IiMjQiMhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
-				<AppliesTo>
-					<Apply type="ToolboxItemImage"/>
-				</AppliesTo>
-			</Stereotype>
-			<Stereotype name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39ADMzMwBmZmYAAAD/AP///wDMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+/f39AJmZmQDm5uYAgID/ADMzMwBNTU0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
-MiQkUiQhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Salesforce No Icon(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39AJmZmQDm5uYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
+IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiERERERERESIiIiIiIiIRIh
+ISEhEhIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 				<AppliesTo>
 					<Apply type="ToolboxItemImage"/>
 				</AppliesTo>
@@ -53,22 +33,42 @@ IiMkMjIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 					<Apply type="ToolboxItemImage"/>
 				</AppliesTo>
 			</Stereotype>
-			<Stereotype name="Salesforce Architecture::Salesforce No Icon(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+			<Stereotype name="Salesforce Architecture::Non-Salesforce No Icon(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AJmZmQDMzMwAMzMzAE1NTQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+/f39AE1NTQCzs7MA////AMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
-IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiIiMzMzMzESIiIiIiIiIRIi
-IiMkMjIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEiMzMzMzMzESIiIiIiIiIRIj
+MiMjQiMhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
 				<AppliesTo>
 					<Apply type="ToolboxItemImage"/>
 				</AppliesTo>
 			</Stereotype>
-			<Stereotype name="Salesforce Architecture::Salesforce Small Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+			<Stereotype name="Salesforce Architecture::Non Salesforce Small Card(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
-/f39AJmZmQDMzMwA/wAAADMzMwBNTU0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+/f39AE1NTQCzs7MAgID/AP///wDMzMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAEREREREREQESIiIiIiIhESIiIiIiIiIRIiIiIiIiIhEiIiIiIiIiESIiIi
 IiIiIRIiIiIiIiIhEiIiIiIiIiESIiIiIiIiIRIiIiIiIiIhEjMyREREREESMzIiIiIiIRIz
-MiQlQkIhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+MiQkUiQhEiIiIiIiIiERIiIiIiIiEQEREREREREQ</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Activity(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39AIAAAADm5uYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAERERERERAAESIiIiIiEQASIiIiIiIhABEREREREREAEiIiIiIiIQARERER
+ERERABIiIiIiIiEAEiIiIiIiIQASIiIiIiIhABIiIiIiIiEAEiIhIiEhIQARIiESISERABES
+ISISISEAEREiIiIiIQARERIiIiIRAAERERERERAA</Icon>
+				<AppliesTo>
+					<Apply type="ToolboxItemImage"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Salesforce Architecture::Event(UML::Class)" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk32AAAAAAAAAHYAAAAoAAAAEAAAABAAAAABAAQAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAA
+/f39ADMzMwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAREQAAAAAAESIiEQAAAAEiEREiEAAAASEi
+IhIQAAASEiIiISEAABISIiIhIQAAEhIiIiEhAAASEiIiISEAAAEhIiISEAAAASIRESIQAAAA
+ESIiEQAAAAAAEREAAAAAAAAAAAAAAAAAAAAAAAAA</Icon>
 				<AppliesTo>
 					<Apply type="ToolboxItemImage"/>
 				</AppliesTo>
@@ -114,11 +114,6 @@ AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
 				<TaggedValues>
 					<Tag name="Salesforce Architecture::ERD Association(UML::Association)" type="" description="" unit="" values="" default="ERD"/>
 					<Tag name="Salesforce Architecture::Integration Association(UML::Association)" type="" description="" unit="" values="" default="Integration"/>
-				</TaggedValues>
-			</Stereotype>
-			<Stereotype name="Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-				<TaggedValues>
-					<Tag name="Salesforce Architecture::Salesforce Landscape(UML::Class)" type="" description="" unit="" values="" default=""/>
 				</TaggedValues>
 			</Stereotype>
 		</Stereotypes>

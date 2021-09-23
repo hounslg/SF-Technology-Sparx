@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <UMLProfile profiletype="uml2">
-	<Documentation id="AEC7F448-5" name="Salesforce Architecture Diagram" version="1.0" notes="Salesforce Architecture Diagram"/>
+	<Documentation id="AEC7F448-5" name="Salesforce Architecture Diagram" version="2" notes="Salesforce Architecture Diagram"/>
 	<Content>
 		<Stereotypes>
 			<Stereotype name="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
