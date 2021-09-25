@@ -40,7 +40,7 @@ Select SVG files you want to use, this works best with the SVG as the start imag
 	1. Gimp Drawable Invert
 	2. Change Format and Compression
 2. Use Mogrify which is part of imagemagick
-	1. mogrify -extent 56x56 -gravity Center -fill white *.png
+	1. mogrify -extent 80x80 -gravity Center -background white *.png
 3. Use BIMP to create the final image
 	1. Gimp image convert RGB
 	2. plug-in colorify
