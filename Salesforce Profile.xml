@@ -3,6 +3,218 @@
 	<Documentation id="82D638DA-5" name="Salesforce Architecture" version="2" notes="Salesforce Architecture"/>
 	<Content>
 		<Stereotypes>
+			<Stereotype name="Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGB9O1NTo53PBgMAAHQNAAAHABEAc3RyLmRhdFVUDQAHpOZRYaTmUWGk5lFh
+rVfbahsxEJ1XF/oPy+bFARecxHZv5KEX0pZCCYlLH4vvMfWlrDctbsi/95yZlfcm2+vWLNHI
+0szRzJE0o6zkTnryU0YSyBy9qSzkqTyRB21r+LWUW9UZovcbWpf4iyWSe9i8hkYt0ZxBZw2d
+e8zG6BHzUkLpYyyC9QhtCAtqm8V7jI2BPpU/6NXlTNrSlAbkGeRpTpfrD2UF9D5a53MdiBHk
+IFnjE/wda5+xxEBeYiQEZoh1wg3mLrwF+nP0zepLxsosbzEXyzXahXzDCkP8uoPleQbd2il8
+qctH4K2ki3ai+O/AFFkagsduwpPzkBz9gt1Ax07xuX2oAYPrXmlEMVCWihMlvL0EwnP4QPaa
+OV+cx1fAneHLWp5LC7YNSHJOya9sa9FWX/MxkSPo0+9AuQgOZKOHuRG0qzPRwteAX4zpBWQ5
+Ej8LLvoWrExWY8G3ntv9Y3DA8zzEzEpv3PoAJhiR7U9H9+cic6P2sXEBK7JwodFR+pgss7Ft
+zWMyci3MM/HmlldnpKNRdTSmfIbZxwcZsLthsiof/hWPyQazXCQ/dH1m7skBfPDU07+2nvnq
+bLSTjEF7yxzV7opvve1cVIngg858VY3Iq0Euip75ojIkq0c9MD3boufDK0ea9+utjlr9K2MV
+Gci2Tt4Id5+Z4EZY62JYs05arWyWpLXOU8NIa1wgrsLZzENmpRo0WE/H6i17Q9iNwMQEMkY9
+Z4VOGdhfRRnxHKM8r5Yng42v/FW8Fbsw2Zt6EZlpDO8Z7lt1RGZWRvoZ7XovcusA5KXwVUDs
+N8L3UATP+/o28nOye52i9O2mQ3U66Q2qQfu7sJpyHxdib7hQWF3H8Mi9ykyX77WZ5hrT6oq9
+9fJaPCfMODyLoZxsvDjRDJRqPm7xOr+X/+vzFCOmO9houjfqbr9pN5FXiT8pm7vi8MXjP0nl
+uP41Pn9lcKsGWgPWymvxtFmlKNaFNOPwc3k3O1/miv5lOfHpOD6reFbkOOvTPr6r3K8y+4ex
+XoyN/wsRf1Xy3OdtXjqNAL2/UEsBAhcLFAAAAAgAYH07U1Ojnc8GAwAAdA0AAAcACQAAAAAA
+AAAAAACAAAAAAHN0ci5kYXRVVAUAB6TmUWFQSwUGAAAAAAEAAQA+AAAAPAMAAAAA</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="API Name" type="" description="" unit="" values="" default="API Name"/>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Conceptual Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFKEO1MG1Aq0FQMAAJYNAAAHABEAc3RyLmRhdFVUDQAHgfJRYYHyUWGB8lFh
+rVfbbtpAEJ1XV+o/WM4LkahEEqA35aEX9aJWVZRS9bECbIhVLpFxWtEo/95zZr0Y2wvYLbKy
+s6zPzM6cnZ1xVnIjQ7mVSHyZYxbLQh7LI7nX0cOvpXxVTIjZb6Au8ZdKInfQeQmElyFnwKyB
+ucPbFDPavJRARlhLoB1hDKBBtNF4i7UJrMfyB7OWnElPOtKGPIM8LWC5fygrWB9htD63YDGB
+HGd7fIS/E50zlhSWl1gJYDPAPsHG5j57C8znmButLwUtM8bYoyUfgFvJAONU9d6AAUYfgp9B
+Fr/dmbH/gt5Y107xWH492Ijg6Tv1NIWVpdpJMj6ew8JTOVdWOpC5L57apWYMjVlB81y60G1D
+kktKPlXdK4yLBns+ZDICnn77yoXfkI0h3kVA12eii6cNvxjTM8hqJG4WbPRdaBlZjwXXfvb0
+j8EB8zTEm5XepHUDJhiROZ++ns/F1k05xMYFtMjChUZH6WKyysauPY/JyJWwfqSb21ufkb5G
+1deYipXjEB9kwNwNI+vy4d7xmGyweiXyU/dnRZ424INZT/96mvP12ehlFYP6pnLUuyuu/XZz
+USeC9/rmmyISJ4JclD1zRWUsmT4zBNOzHTiXvWqkRb9e66rpa1VbZQZctr/DkxC/bpTF3AOD
++awnH+EXuykrJnOGXTjVbDBoo3EtzCPWlGthN0yBZSc13bRTkWYs2si7oC+2B5o39+q5jeBW
+2HEnGjdnIfQi+DqFTNHx2cNzLg/3WXI3xyoz31Rcf+Mrf5Xv1z6bnMVOi6xZxt4T3Nz6Flmj
+GeknjOuDlrsNLPMcyVwir4RfTAk8H+nXk5uT/fuUpes0rVWLye+iB/QPYV/mOS7EfOUFmnUT
+zbf8RD39optp1TKogZivwSKKecIMZi4GcrLx4mQre4l72OF18Sz/1+cYKwY73iDtV+x+v6k3
+lReZPzmb++JwxePOpGpc/xqfu8fYXX3tJmvltZxtpueUO0xeu/jYCr79vsoV/dvmxIWxfNbx
+rMzxtk+H+K5zv6rsN2O9HBv/W6L9VcVzl7dFaRE+Zn8BUEsBAhcLFAAAAAgAUoQ7UwbUCrQV
+AwAAlg0AAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAB4HyUWFQSwUGAAAAAAEAAQA+
+AAAASwMAAAAA</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Record Type Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFp/O1PjnCFrMAMAAGIOAAAHABEAc3RyLmRhdFVUDQAHJepRYSXqUWEl6lFh
+rVfbbtpAEJ1XKvUfLPNCpFTKBehNeehFaatWVUSo+lglGAgqgco4rUiUf+85M17wZQG7RVZ2
+FnvmzMzZ3ZnNQm7kSn7JUAK5xWwiM3kqT+RBxwZ+zeVSdSLM/kDrDH+JxHIHm9fQaKSaU+gs
+oXOHrwlmxDyTUK7xLob1EGMIC2qbxXu8GwF9IveYteRYOnIkh5DHkAc5XfqPZAH0a4wu5hYQ
+Y8hB6uMT4h3pnLkkQJ7jTQjMEH7CFeY2vBnmt5ib1deMlVle4lsiFxhn8h0eIvy6geVJBt10
+viibQ/wiH9MUPwI+PQ4xy0Zk4wTxt+Sj6vQxjtXmHazJbATu+ym3Livy+ht2A313gMetXQMY
+jONcWUiAMlecOOX6JRCeI24yfpSL32VwDtwpnqzlibRhewjJdaLkU7Y1hqr7fEzlEPqMO1Au
+gppsXCnPixpMtPEcIi7m9AKynImfBZd9G1Ymq7Hg8+dWfx8c8AxE+LLQU7qswQQzsvXp6vqc
+Zk7hLjZOYUUWTjU7Sh+TZTY2+dwnIxfC2pSsKkN1RrqaVVdzylelXXyQATsbJqvy4fe4TzZY
+GWP5qf5Zn8Y1+OCuZ3wd3fPV2eikFYP2VjmqnRWfv81cVMngg375phqxV4NcFCPzZWVI1sOu
+wPR0g54Pr5xpPq63+tZ6ZhmryEB2dLInXH1Wgp6wPyawZm+1/npUkja6SA1j3RcDcV3Rvjxk
+PDWgwR480mg5i7S7TbCzbuD3TLv6moHdnZcZ3+It96vVyWAVK38VT8U2TM4mXkRWGsN7hvNW
+HZGVlZl+xrjcidyugTwX3iSI/UZ4h4oR+bXep/ycbPdTlL7VdKhOZ32CGtD+IeymXMeZ2L0v
+FHbXESJyNznT5R1vqrXGtPpi98O8FvcJKw73YijNVRRNrUBrzccNUefX8n9jnuCN6Q5Wmu5e
+W9T019jszZN3Yquya3at3har6/rc8nHVK/u9yFQPPl9pfFmWynpNzWgM3V2RFRl3MflWwLcS
+/jNQXpF/XRk/385roN1rqTuieE72xXmzFt9VItvEuc22812lMpTZr8d6MTf+50f8RSlyX7R5
+6TQCzP4CUEsBAhcLFAAAAAgAWn87U+OcIWswAwAAYg4AAAcACQAAAAAAAAAAAACAAAAAAHN0
+ci5kYXRVVAUAByXqUWFQSwUGAAAAAAEAAQA+AAAAZgMAAAAA</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="Record Type Name" type="" description="" unit="" values="" default="Record Name"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="External Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGh+O1NNmWePCAMAAIgNAAAHABEAc3RyLmRhdFVUDQAHiOhRYYjoUWGI6FFh
+rVfbattAEJ1XF/oPQnlxwAUnsd0beeiFtKVQQpLSxxJHtmPqS5GVFjfk33vOjNa6rWy5DSI7
+a2nm7Jmj1cxmJbdyLT9lJIHMMZvKQp7KE7nXsYVfS7lUnwiz3/A6xV8isdwh5jU8WqnnDD5r
++NzhaYIZMU8llCHuxYgeYQwRQW+LeI97Y6BP5Q9mbTmSvnSlA3sEe1jw5fqRrIA+xOg4t4EY
+w96ka3wC37HOmUsC5CXuhMAMsU64wdyGt8B8jrlFfclFWeQlniVyjnEh37BChF+3iDzOods4
+BZe2fATeSq4wThT/HZSiShF0vEp1cgyp0S/E3ei9Q1zuPbSAwXXPNKMEKEvFiVPdXgLhOThQ
+vW6Bi2N8BtwZrnzksfQQ24Gl5rS8qrGW7T6RD6kdIYLMA1Uj2FOPazwbwbu5Fj1cHahBbi9g
+q7n4dXBZ9BBltqkOdZFuFzyGEtzXEZ6s9Mtb76EH2dneGOjeOMl9Wbs0OUEUMzpRTWl9evo0
+qYt8TE3OhRUn2XzvzTUZKLuBcivWml2KMBPb62abK1IX+ZiKsObF8kM5sI5P9tCE+5iq9HUX
+N1ekn1YBxls1aPrd1EXWK9Ikjw/65Kt6xF4PKlLm58vNkKxHXUPvWY2fD6+ab5HXW71rPbGK
+VVYgPzp7IdwDrAoXwv6XIJq90/pnt2JtdEwNI+t7gbiuZ0/ucyu14MEeO1a2nEWIG0GJCWyC
+Hs+unSmwu7My4znuctdapQ42XPnLMc0Y1GNyNvUistIZ3jN8680RWWWZ6WeM653IvT2Ql8KT
+ArHfCM9IMZgP9bzk12T7OmXre5sO1flkX1AL3t+F/ZXvcSF2rguF/XYMRu6kZr48w8204pjX
+ldj5r+jFfcK6w70YysGGxYHWoczzoYZ18V3+L+cp7pjvzcbTnVu382bcRF6lfDI1t+Xhy8e/
+k6p5/Wt+/v7gVg20E6xV1/Jus35R7g5ZxeHl6m7+eVUr8str4vNxejZhVtY4z2mX3k2+r6r6
++6lezo3/HxF/VWHuY1u0ziPA7C9QSwECFwsUAAAACABofjtTTZlnjwgDAACIDQAABwAJAAAA
+AAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHiOhRYVBLBQYAAAAAAQABAD4AAAA+AwAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="API Name" type="" description="" unit="" values="" default="API Name"/>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Related Entity" metatype="Related Entity" notes="" cx="0" cy="0" bgcolor="16777215" fontcolor="0" bordercolor="0" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAPaGO1O4VXL06wEAADoHAAAHABEAc3RyLmRhdFVUDQAHf/dRYX/3UWF/91Fh
+pVVNT8JAEH1XTPwPTblAggn4lajhYPSgMTEGTDwaoXw0QjFtiUHCf/fNbrdsaSmgIezM7r55
+82Z2FyKM8YEvDOBgSs9HgGMcYanGCmczdBXGo/dNVJvfGCHmjLkhopIgJ8QsiJlzN6YnnG24
+6HEtZPSAo8sIQeuIe64Nye7jh14NLVygiQZti7aewUp+DxHZexyN5hoZQ9p+kuOReofKl1pi
+Ms+44pLTZR435SzjC+hP6euoZytKR3a5F+OFY4A3ZvA4GzPy1GK3R2M7qjcB8R2lOGaMVKsr
+buasHrO510qdVKfeWVqZKkRIV4aq5+J5jBtQ64g25qlIn43WfXpxR+1TrkpPrhjdYH6jVWZG
+6VrBdk7x/ELGs5TvBJcHMM45l0qfOC52Mp8fwDxTZyvct+pWh1TeUze8uCfleTZt0WkaVoMx
+71A+Y7wTNVHnGCQv0eVcTjqGeVsaK69uwqoM6jV5sVmU3BN58XIXXVRTFVXr1gtutUV19iz/
+q9nnisb2U6T5pSnXLXEjXCd61t0sq6OonuKblK/rr/UNuVvDAyMinohotu+vg0+VV/q6edv0
+r5FUU8/0d2X5A+YVJns/3yvRZ/ekCGP6uY+yzR7bmnb1e5/3le/+YV3frE3+0YQ/yikvUpu1
+BuHQ+wVQSwECFwsUAAAACAD2hjtTuFVy9OsBAAA6BwAABwAJAAAAAAAAAAAAAIAAAAAAc3Ry
+LmRhdFVUBQAHf/dRYVBLBQYAAAAAAQABAD4AAAAhAgAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="API Name" type="" description="" unit="" values="" default="API Name"/>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Extened Related Entity" metatype="Extended Related Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="0" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAqHO1MoTM130gIAAFAMAAAHABEAc3RyLmRhdFVUDQAHtfdRYbX3UWG191Fh
+xVbbattAEJ1XF/IPQnlxwIUkvqQX8lBaQkuhhMTQxxJbsmPqS5GVFjfk33vOjFb32HIaWoR3
+1tqZs2fO7s5qLbdyIz8kFE8W6M1kKQfyQu61beHfSq7VJ0DvF7zO8YslkjvEvIVHK/Gcw2cD
+nzuMxugR81x8GeFdhOgQrY8IelvEB7ybAH0mv9Fry4n05Vg6sCewRwVfzh/IGugjtI5zG4gR
+7DiZ4xP4TrTPXGIgr/DGB6aPefwUcxveEv0F+hb1JRdlkdcYi+US7VK+YoYA/24ReZpDt3YG
+Lm35CLy1DNFOFf89lKJKAXQcJjo5htToJ+LG+u4Ij1uHFjA474VmFANlpThRottrIJyBA9U7
+LnBxjC+AO8eTjzyVHmI7sNSclk811rLNR3Kd7Jd5PyQ2hBfZeqqAt6cGNxgL4d08/x6eDhRg
+Jq9gq/zrc3c59xBl9im5u9V+juy5fwOMrPWEbfbQgLnYHhjoHugWVma7Dl1EMf+u6khbp+G/
+1OFSWE3i9Cw312GguQw0k2Id2aUC87YTYPb/q8AaFsl3nZd1ebqHDtzdVKKve7u5Cv2kHjDe
+6sJznIlq6+yV5s5dfyWs43EOi6tXttY6RoaR1W8vrd42cp+bqQUP3hUTYZVlL0BcCBWmsDHu
+Kt4+Waa7bwjmv8BbrpZVHy/lyn+OacbgcUz2ZrWIPMmG9xL7ujkiqwgz/Yx2sxO5twfySnjj
+Efud8K6PwHyk9369JtvnKdu61XSozic7AS14fxPeGVzHpdj3iS+8QyZg5L44zJffInM9aeY1
+FPuOKXpxn/C8cS/6cpiyONTzl3k+PMK6uJZ/y3mGN+Y7Tj3d99d23oybypuET6bmtjzq8qnf
+SdW8nppffV10s3paATeqa3m3WZ0sV8Ws7vBxFTg/XtWK/PKa1Pk4PZswK2uc57RL7ybnq6r+
+fqqXc+N3PvHXFeZ1bIvWeXjo/QFQSwECFwsUAAAACAAKhztTKEzNd9ICAABQDAAABwAJAAAA
+AAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHtfdRYVBLBQYAAAAAAQABAD4AAAAIAwAAAAA=</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="API Name" type="" description="" unit="" values="" default=""/>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Supertype/Subtype Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAHyEO1NTo53PBgMAAHQNAAAHABEAc3RyLmRhdFVUDQAHwvJRYcLyUWHC8lFh
+rVfbahsxEJ1XF/oPy+bFARecxHZv5KEX0pZCCYlLH4vvMfWlrDctbsi/95yZlfcm2+vWLNHI
+0szRzJE0o6zkTnryU0YSyBy9qSzkqTyRB21r+LWUW9UZovcbWpf4iyWSe9i8hkYt0ZxBZw2d
+e8zG6BHzUkLpYyyC9QhtCAtqm8V7jI2BPpU/6NXlTNrSlAbkGeRpTpfrD2UF9D5a53MdiBHk
+IFnjE/wda5+xxEBeYiQEZoh1wg3mLrwF+nP0zepLxsosbzEXyzXahXzDCkP8uoPleQbd2il8
+qctH4K2ki3ai+O/AFFkagsduwpPzkBz9gt1Ax07xuX2oAYPrXmlEMVCWihMlvL0EwnP4QPaa
+OV+cx1fAneHLWp5LC7YNSHJOya9sa9FWX/MxkSPo0+9AuQgOZKOHuRG0qzPRwteAX4zpBWQ5
+Ej8LLvoWrExWY8G3ntv9Y3DA8zzEzEpv3PoAJhiR7U9H9+cic6P2sXEBK7JwodFR+pgss7Ft
+zWMyci3MM/HmlldnpKNRdTSmfIbZxwcZsLthsiof/hWPyQazXCQ/dH1m7skBfPDU07+2nvnq
+bLSTjEF7yxzV7opvve1cVIngg858VY3Iq0Euip75ojIkq0c9MD3boufDK0ea9+utjlr9K2MV
+Gci2Tt4Id5+Z4EZY62JYs05arWyWpLXOU8NIa1wgrsLZzENmpRo0WE/H6i17Q9iNwMQEMkY9
+Z4VOGdhfRRnxHKM8r5Yng42v/FW8Fbsw2Zt6EZlpDO8Z7lt1RGZWRvoZ7XovcusA5KXwVUDs
+N8L3UATP+/o28nOye52i9O2mQ3U66Q2qQfu7sJpyHxdib7hQWF3H8Mi9ykyX77WZ5hrT6oq9
+9fJaPCfMODyLoZxsvDjRDJRqPm7xOr+X/+vzFCOmO9houjfqbr9pN5FXiT8pm7vi8MXjP0nl
+uP41Pn9lcKsGWgPWymvxtFmlKNaFNOPwc3k3O1/miv5lOfHpOD6reFbkOOvTPr6r3K8y+4ex
+XoyN/wsRf1Xy3OdtXjqNAL2/UEsBAhcLFAAAAAgAfIQ7U1Ojnc8GAwAAdA0AAAcACQAAAAAA
+AAAAAACAAAAAAHN0ci5kYXRVVAUAB8LyUWFQSwUGAAAAAAEAAQA+AAAAPAMAAAAA</Image>
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
+						<Property name="_tagGroups" value="Salesforce"/>
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="API Name" type="" description="" unit="" values="" default="API Name"/>
+					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
+					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
 			<Stereotype name="Activity" metatype="UPN Activity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="7752025" borderwidth="2" hideicon="0">
 				<stereotypedrelationships>
 					<stereotypedrelationship stereotype="Salesforce Architecture::When and Why" constraint="Salesforce Architecture::Activity;Salesforce Architecture::Event;Salesforce Architecture::Start or End"/>

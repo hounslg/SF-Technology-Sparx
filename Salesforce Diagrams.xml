@@ -3,6 +3,16 @@
 	<Documentation id="AEC7F448-5" name="Salesforce Architecture Diagram" version="2" notes="Salesforce Architecture Diagram"/>
 	<Content>
 		<Stereotypes>
+			<Stereotype name="Salesforce Entities" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Diagram_Activity">
+						<Property name="alias" value="Salesforce Entities"/>
+						<Property name="styleex" value="HideConnStereotype=1;"/>
+						<Property name="toolbox" value="Salesforce Architecture Entities"/>
+						<Property name="_DefaultDiagramType" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
 			<Stereotype name="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
 					<Apply type="Diagram_Logical">

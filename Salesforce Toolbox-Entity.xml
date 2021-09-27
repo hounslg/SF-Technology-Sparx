@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="EC1C19C8-7" name="Salesforce Architecture Entities" version="1.0" notes="Salesforce Architecture Entities"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Entity Items" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Conceptual Entity(UML::Class)" type="" description="" unit="" values="" default="Conceptual"/>
+					<Tag name="Salesforce Architecture::Entity(UML::Class)" type="" description="" unit="" values="" default="Entity"/>
+					<Tag name="Salesforce Architecture::Extened Related Entity(UML::Class)" type="" description="" unit="" values="" default="Extended Related"/>
+					<Tag name="Salesforce Architecture::External Entity(UML::Class)" type="" description="" unit="" values="" default="External Entity"/>
+					<Tag name="Salesforce Architecture::Record Type Entity(UML::Class)" type="" description="" unit="" values="" default="Record Type"/>
+					<Tag name="Salesforce Architecture::Related Entity(UML::Class)" type="" description="" unit="" values="" default="Related Entity"/>
+					<Tag name="Salesforce Architecture::Supertype/Subtype Entity(UML::Class)" type="" description="" unit="" values="" default="Super/Sub Type"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>
