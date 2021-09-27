@@ -5,9 +5,9 @@
 		<Stereotypes>
 			<Stereotype name="Salesforce Entities" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
-					<Apply type="Diagram_Activity">
+					<Apply type="Diagram_Logical">
 						<Property name="alias" value="Salesforce Entities"/>
-						<Property name="styleex" value="HideConnStereotype=1;"/>
+						<Property name="styleex" value="HideConnStereotype=1;TConnectorNotation=Information Engineering;"/>
 						<Property name="toolbox" value="Salesforce Architecture Entities"/>
 						<Property name="_DefaultDiagramType" value=""/>
 					</Apply>

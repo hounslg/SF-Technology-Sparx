@@ -3,6 +3,14 @@
 	<Documentation id="EC1C19C8-7" name="Salesforce Architecture Entities" version="1.0" notes="Salesforce Architecture Entities"/>
 	<Content>
 		<Stereotypes>
+			<Stereotype name="Connectors" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="Salesforce Architecture::Relationships(UML::Dependency)" type="" description="" unit="" values="" default="ERD Relationship"/>
+				</TaggedValues>
+			</Stereotype>
 			<Stereotype name="Entity Items" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 				<AppliesTo>
 					<Apply type="ToolboxPage"/>
