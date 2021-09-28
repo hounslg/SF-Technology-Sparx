@@ -3,33 +3,34 @@
 	<Documentation id="82D638DA-5" name="Salesforce Architecture" version="2" notes="Salesforce Architecture"/>
 	<Content>
 		<Stereotypes>
-			<Stereotype name="Relationships" metatype="Relationship" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="0" borderwidth="2" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFCtO1MoEbwE4QQAAIgyAAAHABEAc3RyLmRhdFVUDQAHsDpSYbA6UmGwOlJh
-7Vpdb9s2FL2vHtD/IKQv65B2cfOxDUMeumZbB2xokKTY4+BGjhOssQvb7dAV++8759IMKYqm
-JEdyGjgQbFLm/eK5RyR1k57M5FIG8l6Gksk1elcylkfylfRwfb7p9W56Y5ksdHL0/pFDmctU
-PkD/x4i0++VKLuDha3kFzZmc4XuEuy35XT3S+5l80ji2ZBufI5W7xH2Ouye4Phfs9TA6hO93
-C/0Z+p9wN1SrR/JCTuGLmi6u/256Q0hSP1shrgk8zQtxuajSMb2GrS4iMkhli9iaRZUvtJlN
-o9ttdG1EmY7Vtoy0HOdL2JyAr3kp0lP0pvIReuf6WzG+b3HZGH+BhTHal2hpbQrLfdmXH2Dn
-O3mO777soPXj66l96l5B511B97nsQXsbbR8XW14x7WN8jxv5bZLDFDYDzcWsMS57uLYRIef3
-PVo/NqObwsXisQdd09bFJebXcaMdVH6Dzxwj5OoUI02x4exM7g40d7vIXjN8dqFLXHZ1tmyL
-CC/HZ5nvtjE6xsgAEVyo3+vGGB3oDA90foy5KULExDxRpq2PUNxz2/hwz53K3xoDV75RY4T4
-lDDSfX1GmuKzv1h5aMWsQHWfsJjfNDr15/SrjrxRiWlUghjVn6exd4TvC+D9Ab/H5cpWnd0y
-AsUof9Jfc+2XbcaQCVvfz5+ILsfdZcmPGT/F+L/C3TG0fw2/H1VjgtGdEifsDmvGyeuyjLVm
-YjV9/6Q4V9aO1IoZdbm17Qz7KHeNgbwV7h2HYDbRN2zY8ry90rkOcYagLPliThTM1lxx5Ylr
-gpk5ieLuH7dwgl9HiLqejYfzAvViz23zVa2b80Iak80+K6Sx2fRzQhqdzT4jpLHp/nxQ1frr
-8jEsTxSZqfD9kLj5e9EzYGV29ytIcac7x4eSRDJTnoXYLd93zUxdJETYeJvDOtlKqSIaxd2X
-M3+K76JMcQeO7b5FCVpJ2+jr01ltpRwL55wvnU0dZvhtUdv1rIUX6u1UuAZOlNHHUc/V7GiX
-Ff21soLrBHNxkMyXkQplUvm622x1k5kdyDyL5ifW+zJz5no/K66cK9dqs7vSqj3NcbWsn29n
-+S4yb7XKz2oXDPgmwoA2s32bHIVM4ck6vRbHWLKalTIj6zHmbjhD+a750l8zX2J5K2clXCco
-FcqkbVZzIbS3mpVy7PeDUfauXTatj0ex3moZDPO3mpX7ygNnw3z77DDVKL6L8a+dzFwurFO8
-FVcfcjLUMXnPFtd7RECc5sokVz+ynv0a2Uz4NjfV6pAZdRyybf0amUMlXut6qJYt59xmVsuq
-auKbXjGrxmfTq2bVCG125awaH7vLra961u7p56FaVpRJn4DqMGEd555qFvhnk2oWxKov3bHg
-NpWWdH7C6O8qU91kaXml7MvMles1r7jcjzz7NrrI9freTZtnKORJvXfOkCOrWSnzcdP5sp6a
-WDxf5WyEq8NDLaxtJtm7dlnUNX9Wy1GYodWs3NdM+xm3H86vaZ3Lr04tq3IV2eXXuv7wfJwp
-y1zdyP+/v0v5C/Mj+iPYz+RQeUX20RuZGat5VbF4jJFrse98jDcLWBpi5r9VdsXmE322mMsT
-2DtXNJ8qB8g205rKANs9bf1RWss8e2k+3o6FFwu9gfowFRfDvWX+ihx5fJODxwu+hJjbTw9z
-slmws8vkf1BLAQIXCxQAAAAIAFCtO1MoEbwE4QQAAIgyAAAHAAkAAAAAAAAAAAAAgAAAAABz
-dHIuZGF0VVQFAAewOlJhUEsFBgAAAAABAAEAPgAAABcFAAAAAA==</Image>
+			<Stereotype name="Relationships" metatype="Relationships" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="0" borderwidth="2" hideicon="0">
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIADhGPFOqZboBBwUAAHQ2AAAHABEAc3RyLmRhdFVUDQAHKNdSYSjXUmEo11Jh
+7VrbbtNAEJ3XIPEPVnkBVKChF0CoD1wFUiuqthKPKDRtWkGTKgkghPh3zsxmu+v1eG2ndlKL
+yKp3Hc9tzxzv2AMdmtA59eiKTimhS8wuaEh36Q51cPy5nnWuZ0MazXT6mP2iXZrSmH5A/+VM
+xkpe0Bls3qcPkJ3QMc4DXK3Rnvhgf8f0Wzyv0Tr+3orcOa77uHqA449njY8J7k3p+0x/gvlv
+XJ2K1bf0io7gizVtJB36ez07hSTrJ3PENYKnaSouF1U8pk+w1UREBqlkFlu1qPozbc6f0W02
+ujqijMfqMy4b5xvYHIGh/UykR5iN6Sf0TuQ3Pb730B5ifIORLY1htUvb9AI2ntFTnLu0gdGP
+rSO2WfcCOt9Tuk9pC9rrGLs4eORD0z7AeVjJb5X8xXDpSR4mlTDZwrGO6HhtzzFqK9LxsDhs
+Qc+MZfHQfDo+1IPGR/js4w7zc4w7VTDhlZl87Ui+NpExbWU6LpvQYzw2ZZU86qhmccnzWzc2
+B7jTQwRn4veyEjY7srodWRvHWwUZxsI8OWYsj4zutW5c9iEzpm8SA+9ug0rI8BPBUW7L81AF
+l+3ZzsIWzA5T9knK8+k0szOHlfvtEvZ+io8RrG5k4re7vbnP+GdlrDVj38z995SpoDsQK+au
+w9WOE+zpvIv16CvxXraLDJzJL4z7muftAyLq47c9keWsm+p2CvkpvSZT/UdYmZNIVyLdwiF+
+HSDqcjbqrV1PcMQYVlRH4ixrb/0qwkWrJ+GqdEzaXcOKcMmrJ+HqdGzaX8eK8NGrSrg+HZ3b
+Xsv4qzBey4rQyastxdjUW880ZIpGf18+gOWRIDMm/lZh3Pxa9BhY/UAEjNMVcaU7wR9LMpKJ
+8CzELr2Cz8SVZIqqwStIx8wIG29TWGe2slQajXT15ZU/wjktk67AWvVNS7CVuI2uPJ3FVrKx
+8Jr7uaspwwx/TGu7mbXwSrwdEe+BI2H0geq5mB31sqK7UFbwPsG52Inmy0iFMrF8LTdbzWRm
+AzKP1fxos9uZMzd7J7jyWnmvNtWVrdq3Od4ty+fbWV5G5q1W9lltggEPFQbUme2b5ChkCr9Z
+x/dijSXzWckyshxjlsMZlm+aL90F80XLWzYr4T7BUqFM3GYxF0J781nJxt4ORtmretm0OB5p
+s/kyGOZvPitt5YGzYc4+O0w3ir/F+N/aOHN94j7FV3L9ISfDOibvyey4QgSM01SY5PpH1rPf
+I5sQf82NpTtk7joO2bF8j8yhove6Vt2yfM6tumVZTFbdsnxsVt2yGDqrblk+NraqLb5bVvTW
+41ej4reeVZcsLRN/8ynDiGbed3z9ZpigdV6aY8JNuizxHIXRLyNbPGsmS/ldstuZKzer3m1p
+R559G03kenHfpdUzFPKk3PdmyJH5rGT5+L/zZTH9MC1b2VyEe8OqC1Y3j+xVvRxaBnuKcxRm
+aD4rbc20n3H7Z61mz9U7X36/Kq/vlWadf/Y7Yfuev2NhousqJZ6Xc/oCDDhDA/hKaFe4xwxl
+z8xerSNWxPQh7lyS/Trk2JOAyXamfX9qcnV3v2LfokUdqDgL29v5imGidaDCFel4tLvrFcMk
+r/MUrkzHpf0drxg2et8pXJuOzG3vdv1//8/Zt3vT945DQZWfukPYOyGub49kdfxeYEbDaR63
+ZPTvsrXEsxd7c3BSZzNEeyJtnnZT73XNsP7eI1vT7km2s6xyeCbX2Nk4E/oHUEsBAhcLFAAA
+AAgAOEY8U6plugEHBQAAdDYAAAcACQAAAAAAAAAAAACAAAAAAHN0ci5kYXRVVAUAByjXUmFQ
+SwUGAAAAAAEAAQA+AAAAPQUAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Dependency">
 						<Property name="_lineStyle" value="orthogonalR"/>
@@ -38,11 +39,13 @@ dHIuZGF0VVQFAAewOlJhUEsFBgAAAAABAAEAPgAAABcFAAAAAA==</Image>
 						<Property name="_tagGroupings" value="Cloud Type=Salesforce;Line Type=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="direction" value="Source -&gt; Destination"/>
+						<Property name="_HideUmlLink" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
 					<Tag name="Cloud Type" type="enumeration" description="" unit="" values="Service,Sales,Industry,Platform,Marketing,Custom" default="Service"/>
 					<Tag name="Line Type" type="enumeration" description="" unit="" values="Dashed,Dotted,Solid,Dash Dot Dot,Dash Dot" default="Solid"/>
+					<Tag name="_HideUmlLink" type="" description="" unit="" values="" default="True"/>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Entity" metatype="Entity " notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
@@ -71,6 +74,7 @@ AAAAAACAAAAAAHN0ci5kYXRVVAUAB6TmUWFQSwUGAAAAAAEAAQA+AAAAPAMAAAAA</Image>
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -80,6 +84,9 @@ AAAAAACAAAAAAHN0ci5kYXRVVAUAB6TmUWFQSwUGAAAAAAEAAQA+AAAAPAMAAAAA</Image>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Conceptual Entity" metatype="Conceptual Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFKEO1MG1Aq0FQMAAJYNAAAHABEAc3RyLmRhdFVUDQAHgfJRYYHyUWGB8lFh
 rVfbbtpAEJ1XV+o/WM4LkahEEqA35aEX9aJWVZRS9bECbIhVLpFxWtEo/95zZr0Y2wvYLbKy
 s6zPzM6cnZ1xVnIjQ7mVSHyZYxbLQh7LI7nX0cOvpXxVTIjZb6Au8ZdKInfQeQmElyFnwKyB
@@ -103,6 +110,7 @@ AAAASwMAAAAA</Image>
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -111,29 +119,33 @@ AAAASwMAAAAA</Image>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Record Type Entity" metatype="Record Type Entity " notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
-				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFp/O1PjnCFrMAMAAGIOAAAHABEAc3RyLmRhdFVUDQAHJepRYSXqUWEl6lFh
-rVfbbtpAEJ1XKvUfLPNCpFTKBehNeehFaatWVUSo+lglGAgqgco4rUiUf+85M17wZQG7RVZ2
-FnvmzMzZ3ZnNQm7kSn7JUAK5xWwiM3kqT+RBxwZ+zeVSdSLM/kDrDH+JxHIHm9fQaKSaU+gs
-oXOHrwlmxDyTUK7xLob1EGMIC2qbxXu8GwF9IveYteRYOnIkh5DHkAc5XfqPZAH0a4wu5hYQ
-Y8hB6uMT4h3pnLkkQJ7jTQjMEH7CFeY2vBnmt5ib1deMlVle4lsiFxhn8h0eIvy6geVJBt10
-viibQ/wiH9MUPwI+PQ4xy0Zk4wTxt+Sj6vQxjtXmHazJbATu+ym3Livy+ht2A313gMetXQMY
-jONcWUiAMlecOOX6JRCeI24yfpSL32VwDtwpnqzlibRhewjJdaLkU7Y1hqr7fEzlEPqMO1Au
-gppsXCnPixpMtPEcIi7m9AKynImfBZd9G1Ymq7Hg8+dWfx8c8AxE+LLQU7qswQQzsvXp6vqc
-Zk7hLjZOYUUWTjU7Sh+TZTY2+dwnIxfC2pSsKkN1RrqaVVdzylelXXyQATsbJqvy4fe4TzZY
-GWP5qf5Zn8Y1+OCuZ3wd3fPV2eikFYP2VjmqnRWfv81cVMngg375phqxV4NcFCPzZWVI1sOu
-wPR0g54Pr5xpPq63+tZ6ZhmryEB2dLInXH1Wgp6wPyawZm+1/npUkja6SA1j3RcDcV3Rvjxk
-PDWgwR480mg5i7S7TbCzbuD3TLv6moHdnZcZ3+It96vVyWAVK38VT8U2TM4mXkRWGsN7hvNW
-HZGVlZl+xrjcidyugTwX3iSI/UZ4h4oR+bXep/ycbPdTlL7VdKhOZ32CGtD+IeymXMeZ2L0v
-FHbXESJyNznT5R1vqrXGtPpi98O8FvcJKw73YijNVRRNrUBrzccNUefX8n9jnuCN6Q5Wmu5e
-W9T019jszZN3Yquya3at3har6/rc8nHVK/u9yFQPPl9pfFmWynpNzWgM3V2RFRl3MflWwLcS
-/jNQXpF/XRk/385roN1rqTuieE72xXmzFt9VItvEuc22812lMpTZr8d6MTf+50f8RSlyX7R5
-6TQCzP4CUEsBAhcLFAAAAAgAWn87U+OcIWswAwAAYg4AAAcACQAAAAAAAAAAAACAAAAAAHN0
-ci5kYXRVVAUAByXqUWFQSwUGAAAAAAEAAQA+AAAAZgMAAAAA</Image>
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Record Type Entity"/>
+				</stereotypedrelationships>
+				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFBXPFOhJ4VfMAMAAF4OAAAHABEAc3RyLmRhdFVUDQAHQPVSYUD1UmFA9VJh
+rVfbbhMxEJ3XIPEPq81LKhUpbZNwUx8KVQGBUJUW8YjS5tKIXNBmC0qr/jvnzKyTvTjJLkSr
+ehx75njm2J5xF3InPfklAwlkit5YZvJcnsmjtjX8msuV6vTR+wOtU/zFEsk9bN5Co5ZoTqCz
+hM49ZmP0iHkqodxgLIL1AG0IC2qbxTnGhkAfywN6DTmStjTlEPII8iCjy/X7sgD6DVrncwOI
+EeRtssYn+DvUPmOJgTzHSAjMEOuEK8xteDP0p+ib1deUlVleYS6WS7Qz+Y4V+vh1B8vjFLrp
+fFE2B/hFPiYJ/rmcYeRjxhtrx/C9gZkePLpGO1L997Akq33wfp3w6iIip79hd6tjB/jcvtWA
+QR8ulIEYKHPFiRKeXwPhJXwm282M7877C+BO8KUtj6UF20NI7hElv6KtsVN+zadEDqBPvwPl
+IqjIRk85XlRgooXvEH4xpleQxUj8LLjoW7AyWY4F33pu9/fBAc9/HzMLvaHLCkwwItufju7P
+SeoG7mLjBFZk4USjo/QxWWRj05r7ZORSmJfiVVYoz0hHo+poTNmMtIsPMmB3w2RZPvwr7pMN
+ZsVIfur6zE2jCnzw1NO/tp758my0k4xBe8sc5e6Kb73NXJSJ4IPOfFONyKtBLvKe+aIyJKtf
+PTA92aDnwytGmvXrnY5avSxi5RlIt052hbvPTNAV1sYY1qyrVlubBWmt89Qw1jUxEFcRbeYx
+tVINGqy/Q/WWvT7sBmBiBBmj/rOirxnYXXUZ8RSjPK+WJ4OVr/yVvxXbMNkbexGZaQzvBe5b
+eURmVkb6Ge1yJ3KrAvJc+Iog9pnw/RTB8xt9S/k52b5OXvp206E6nfUNqkH7h7Cach9nYm++
+UFhdh/DIveJMl++7ieYa07oWextmtXhOmHF4FkOpr7yoawZaaz5t8Dq7l//r8xgjpnu70nRv
+2rymP8emX518D1uWXbNr+TafXdf3lp/LXun5PFNdrPlG/UuzVNSra0Qj6O7yLM+488m3A76d
+8N+B4o786874+XarBlq9lnoi8vdkX5zXK/FdxrNNnFtvO99lMkOR/Wqs52Pjf33EXxQ893mb
+lU4jQO8vUEsBAhcLFAAAAAgAUFc8U6EnhV8wAwAAXg4AAAcACQAAAAAAAAAAAACAAAAAAHN0
+ci5kYXRVVAUAB0D1UmFQSwUGAAAAAAEAAQA+AAAAZgMAAAAA</Image>
 				<AppliesTo>
 					<Apply type="Class">
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -143,6 +155,9 @@ ci5kYXRVVAUAByXqUWFQSwUGAAAAAAEAAQA+AAAAZgMAAAAA</Image>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="External Entity" metatype="External Entity " notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::External Entity"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAGh+O1NNmWePCAMAAIgNAAAHABEAc3RyLmRhdFVUDQAHiOhRYYjoUWGI6FFh
 rVfbattAEJ1XF/oPQnlxwAUnsd0beeiFtKVQQpLSxxJHtmPqS5GVFjfk33vOjNa6rWy5DSI7
 a2nm7Jmj1cxmJbdyLT9lJIHMMZvKQp7KE7nXsYVfS7lUnwiz3/A6xV8isdwh5jU8WqnnDD5r
@@ -165,6 +180,7 @@ AAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHiOhRYVBLBQYAAAAAAQABAD4AAAA+AwAAAAA=</Image>
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -174,6 +190,9 @@ AAAAAAAAAIAAAAAAc3RyLmRhdFVUBQAHiOhRYVBLBQYAAAAAAQABAD4AAAA+AwAAAAA=</Image>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Related Entity" metatype="Related Entity" notes="" cx="0" cy="0" bgcolor="16777215" fontcolor="0" bordercolor="0" borderwidth="2" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Related Entity"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAMaSO1OLx89KbwIAAIAKAAAHABEAc3RyLmRhdFVUDQAHywtSYcsLUmHLC1Jh
 xVZda9swFD2vGew/GPclhQ7Wpht0ow+jY2wMRmkDexxNnKRm+Ri2u5GV/vedI1m2bKtJ020U
 EUmWzj06utK9So5rXOEHJoiwYC/FEs/xDLem7vFrhUuDSdj7RdQpfwUy3NDmLRG9EjknZk3M
@@ -194,6 +213,7 @@ AgAAAAA=</Image>
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -203,6 +223,9 @@ AgAAAAA=</Image>
 				</TaggedValues>
 			</Stereotype>
 			<Stereotype name="Extened Related Entity" metatype="Extended Related Entity" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="0" bordercolor="0" borderwidth="2" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Extened Related Entity"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAJKRO1PhkeLrkAIAAFwLAAAHABEAc3RyLmRhdFVUDQAHiQlSYYkJUmGJCVJh
 xVZda9tAEJxXF/ofhPLiQApN7aRNSx5KSmkplJAY+hhiy3ZE/REkpcUN+e+ZudPpO7blBoLw
 7elud25ntbvnGDe4xi3G8DDnLMQCr/EK92bs8G2JS6MTcPaXWqf8JYhwR5tP1OikmjPqrKhz
@@ -223,6 +246,7 @@ c3RyLmRhdFVUBQAHiQlSYVBLBQYAAAAAAQABAD4AAADGAgAAAAA=</Image>
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
@@ -231,7 +255,10 @@ c3RyLmRhdFVUBQAHiQlSYVBLBQYAAAAAAQABAD4AAADGAgAAAAA=</Image>
 					<Tag name="User Key Attribute" type="" description="" unit="" values="" default=""/>
 				</TaggedValues>
 			</Stereotype>
-			<Stereotype name="Supertype/Subtype Entity" metatype="Super/Sub Type" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+			<Stereotype name="Supertype-Subtype Entity" metatype="Super-Sub Type" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="2" hideicon="0">
+				<stereotypedrelationships>
+					<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Supertype-Subtype Entity"/>
+				</stereotypedrelationships>
 				<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAHyEO1NTo53PBgMAAHQNAAAHABEAc3RyLmRhdFVUDQAHwvJRYcLyUWHC8lFh
 rVfbahsxEJ1XF/oPy+bFARecxHZv5KEX0pZCCYlLH4vvMfWlrDctbsi/95yZlfcm2+vWLNHI
 0szRzJE0o6zkTnryU0YSyBy9qSzkqTyRB21r+LWUW9UZovcbWpf4iyWSe9i8hkYt0ZxBZw2d
@@ -254,6 +281,7 @@ AAAAAACAAAAAAHN0ci5kYXRVVAUAB8LyUWFQSwUGAAAAAAEAAQA+AAAAPAMAAAAA</Image>
 						<Property name="_tagGroupings" value="User Key Attribute=Salesforce;Cloud Type=Salesforce;API Name=Salesforce;"/>
 						<Property name="_tagGroups" value="Salesforce"/>
 						<Property name="isActive" value=""/>
+						<Property name="_HideUmlLinks" value="True"/>
 					</Apply>
 				</AppliesTo>
 				<TaggedValues>
