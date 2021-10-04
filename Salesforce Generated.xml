@@ -72,6 +72,9 @@ SwUGAAAAAAEAAQA+AAAAPQUAAAAA</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::External Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Supertype-Subtype Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+z8j9AGJHmAB//AAAwAMAAIABAACAAQAAgAEAALaBAACAAQAAq4EAAIABAACAAQAArgEAAIAB
+AAC2AQAAgAEAAMADAAB//gAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIACBfRFMzfatLIAMAAHQOAAAHABEAc3RyLmRhdFVUDQAHHOxaYRzsWmEc7Fph
 rVfJbtswEJ2rC/QfBOXiAC7gxEs35NAFaYsCRZC46LFwLC9CvRSy0iIN8u99jyNaG2XJrSGE
 Q5OzvHnkkMxWFjKWnzIVT1bohbKWp/JEHkzbwq+N3BidAL3f0LrAXyyR3MHmNTRaieYSOvfQ
@@ -108,6 +111,9 @@ BQYAAAAAAQABAD4AAABWAwAAAAA=</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Supertype-Subtype Entity;Salesforce Architecture::External Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+3tTzAGNImQBVVgAAwAMAAIAAAAAAAQAAgAAAAAABAACAAAAAAAEAAIAAAAAAAQAArYAAAAAB
+AAC1QAAAAAEAAMADAABVVgAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAAReRFOtImM+JwMAADQOAAAHABEAc3RyLmRhdFVUDQAH8ulaYfLpWmHy6Vph
 rVfbTttAEJ3XVOo/WOYFJKoGSNKbeKBFLVWrCtFUfayAOMFqLigxrSji33vOjDe+bRK7jSx2
 Nuu5nDme2V0WciOXciuRBDLBLJapPJUn8qBjC79m8lV1Bpj9htYx/hKZyx1s3kCjlWqOoXMP
@@ -143,6 +149,9 @@ B/LpWmFQSwUGAAAAAAEAAQA+AAAAXQMAAAAA</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::External Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Supertype-Subtype Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+3tTzAGNImQBttgAAwAMAAIABAAAAAAAAgAEAALsBAAAAAAAArIEAAIABAAAAAAAAgAEAAK2B
+AAAAAAAAk4EAAMADAABttgAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAFBfRFNwH+USSwMAAFYPAAAHABEAc3RyLmRhdFVUDQAHUOxaYVDsWmFQ7Fph
 rVfbbtNAEJ3XIPEPlvOSSkHqLeGmPhSqAgKhKg3iEaW5izRBiQsqVf+dc2a8iS+b2C6RlZ31
 ei5nzu7OblYykZ78kqEEcoveVObyXJ7Jg7Y1vC3kWnUG6P2B1hl+kSzlDjZvoVGLNWfQuYfO
@@ -180,6 +189,9 @@ AAAAgQMAAAAA</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::External Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Supertype-Subtype Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+3tTzAGNImQAAAAAAAAAAAAAAAAAAAAAAAAAAADsAAAAAAAAALIAAAAAAAAAAAAAAAAAAAC2A
+AAAAAAAAM4AAAAAAAAAAAAAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAERfRFOmG8zOIQMAAIAOAAAHABEAc3RyLmRhdFVUDQAHeuxaYXrsWmF67Fph
 rVfbattAEJ1XF/oPQnlxwAUnvvRGHnohbSmUkLj0sTiWL6K+FFlpSUP+vefsaK3bypJbI7yz
 2p2ZPXM0O7veykLG8lOm4skKvVDW8lSeyINpW3jbyI3RCdD7Da0L/GKJ5A42r6HRSjSX0LmH
@@ -216,6 +228,9 @@ SwUGAAAAAAEAAQA+AAAAVwMAAAAA</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::External Entity;Salesforce Architecture::Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Supertype-Subtype Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+////AAAAAAB//gAAwAMAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAACAAQAArYEAAIAB
+AAC1AQAAgAEAAMADAAB//gAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAEhfRFPKPivwhQIAAHALAAAHABEAc3RyLmRhdFVUDQAHXOxaYVzsWmFc7Fph
 xVbbattAFJxXF/oPQnlxIIUmJoW05KGklJZCCYmhjyWxZFvUlyIpLW7Iv3dmVyutLrGS1CUI
 71lpz2XOnD27zjDHFX4iRoAlZwlWeIkXuDXjgG9rXBqdiLPf1DrlL0eKG9q8o8ag0FxQZ0Od
@@ -249,6 +264,9 @@ B1zsWmFQSwUGAAAAAAEAAQA+AAAAuwIAAAAA</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::External Entity;Salesforce Architecture::Supertype-Subtype Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+3tTzAGNImQAAAAAAAAAAAAAAAAAAAAAAAAAAADsAAAAAAAAALIAAAAAAAAAAAAAAAAAAAC2A
+AAAAAAAAM4AAAAAAAAAAAAAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIAERfRFOtXKGaygIAAAoOAAAHABEAc3RyLmRhdFVUDQAHauxaYWrsWmFq7Fph
 1VfbattAEJ1XF/oPQnlxoIUmjkMv5KFN6YVCCanzXBJLdkR9KZLS4ob8e8/Z1UgraW0lbqAY
 o93V7pnZOUezF2dyLZfyU2IJZI5WIgt5Kk/k1pQ9vC3lm8FEaP0G6gRPLqncwOYNEL0COQNm
@@ -283,6 +301,9 @@ AAAAAHN0ci5kYXRVVAUAB2rsWmFQSwUGAAAAAAEAAQA+AAAAAAMAAAAA</Image>
 						<stereotypedrelationships>
 							<stereotypedrelationship stereotype="Salesforce Architecture::Relationships" constraint="Salesforce Architecture::Conceptual Entity;Salesforce Architecture::External Entity;Salesforce Architecture::Entity;Salesforce Architecture::Extened Related Entity;Salesforce Architecture::Record Type Entity;Salesforce Architecture::Related Entity;Salesforce Architecture::Supertype-Subtype Entity"/>
 						</stereotypedrelationships>
+						<Icon type="bitmap" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">Qk1+AAAAAAAAAD4AAAAoAAAAEAAAABAAAAABAAEAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAA
+6eL3AGNImQB//gAAwAMAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABAACAAQAArYEAAIAB
+AAC1gQAAgAEAAMADAAB//gAA</Icon>
 						<Image type="EAShapeScript 1.0" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">UEsDBBQAAAAIACZfRFOeEV4rIAMAAGwOAAAHABEAc3RyLmRhdFVUDQAHP+xaYT/sWmE/7Fph
 rVfJbtswEJ2rC/QfBOXiAC7gxEs35NAFaYsCRZC46LFwLG+ol0JWWqRB/r3vcUSLkmhLbg0h
 HJqc5c0jh2Q2MpOh/JSxBLJEby4reSpP5MG0Dfxay43RidD7Da0L/CUSyx1sXkOjkWouoHMP
