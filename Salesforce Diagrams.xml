@@ -8,6 +8,7 @@
 					<Apply type="Diagram_Logical">
 						<Property name="alias" value="Salesforce Entities"/>
 						<Property name="diagramID" value="S-Entities"/>
+						<Property name="pdata" value="HideEStereo=1;"/>
 						<Property name="styleex" value="HideConnStereotype=1;TConnectorNotation=IDEFX1;"/>
 						<Property name="toolbox" value="Salesforce Architecture Entities"/>
 						<Property name="_DefaultDiagramType" value=""/>
@@ -30,6 +31,7 @@
 					<Apply type="Diagram_Activity">
 						<Property name="alias" value="Salesforce UPN"/>
 						<Property name="diagramID" value="S-UPN"/>
+						<Property name="pdata" value="HideEStereo=1;"/>
 						<Property name="styleex" value="HideConnStereotype=1;"/>
 						<Property name="toolbox" value="Salesforce Architecture UPN"/>
 						<Property name="_DefaultDiagramType" value=""/>

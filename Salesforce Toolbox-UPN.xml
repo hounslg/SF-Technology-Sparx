@@ -46,6 +46,7 @@ AAAYGAAAAAAAAAAAAAAAAAAA</Icon>
 					<Apply type="ToolboxPage"/>
 				</AppliesTo>
 				<TaggedValues>
+					<Tag name="Salesforce Architecture::Constraint(UML::Generalization)" type="" description="" unit="" values="" default="Constraint"/>
 					<Tag name="Salesforce Architecture::When and Why(UML::Association)" type="" description="" unit="" values="" default="When/Why"/>
 				</TaggedValues>
 			</Stereotype>
