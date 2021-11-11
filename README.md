@@ -17,8 +17,8 @@ This MDG file supports the three diagram styles that Salesforce have released.
 These template covers the four levels as covered in the documentation and implementation templates page.  The last level can overlap with the data model notation, the example is of a data model.
 
 All elements have one or more of the following custom properties.
-<img src="/md-images/BlueprintObjectProperties.png" >
 
+![Custom Properties](/md-images/BlueprintObjectProperties.png)
 
 ### Elements
  ![Toolbox Items](/md-images/toolbox.png)
