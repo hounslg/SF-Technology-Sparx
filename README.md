@@ -1,18 +1,32 @@
 # Salesforce Diagram Technology Package (Sparx EA)
 This is a Sparx Enterprise Architecture custom technology package that provides a diagram and components that align with the Salesforce Architecture diagram style.
 
-No Salesforce assets are actually included in this package, you can download icons and other resources from the various Salesforce links below.  
+No Salesforce assets are actually included in this package, you can download icons and other resources from the various Salesforce links at the bottom of the page.  
 
-I will be including a BIMP file (GIMP batch automation) that allows you to take the icons you download from Salesforce and generate ones that look like the ones in https://www.lightningdesignsystem.com/icons/ The downloaded icons are white with a transparent background by default.
+I will be including a BIMP file (GIMP batch automation) that allows you to take the icons you download from Salesforce and generate images that look like the ones in https://www.lightningdesignsystem.com/icons/.
 
-## Elements
+## Diagram Types
+This MDG file supports the three diagram styles that Salesforce have released.  
+
++ Blueprint
++ Process Mapping
++ Data Model Notation
+
+
+## Blueprint Diagrams
+These template covers the four levels as covered in the documentation and implementation templates page.  The last level can overlap with the data model notation, the example is of a data model.
+
+All elements have one or more of the following custom properties.
+![Custom Properties](/md-images/BlueprintObjectProperties.png)
+
+### Elements
  ![Toolbox Items](/md-images/toolbox.png)
 
 The collapsed cards are fairly simple items and are used for the collapsed and the container elements.
 
-All items support both the handdrawn style and the custom style in Sparx, though the custom style removes the shapescript style.
+All items support both the handdrawn style and the custom style in Sparx, though the custom style removes the shapescript from the elements.
 
-The default font on Windows is Calibri and should be set to 10pt to replicate the style.  Salesforce San font is available though I'm not sure of the licencing. On Windows, again, Microsoft Sans Serif is a close match.
+The default font on Windows is Calibri and should be set to 10pt to replicate the style.  Salesforce San font is available on the net though I'm not sure of the licencing. On Windows, again, Microsoft Sans Serif is a close match.
 
 ### Collapsed Cards (Icons)
 <img src="/md-images/CollapsedCardSF.png" >
@@ -71,6 +85,7 @@ To create circle style, whilst using the standard images, the MDG file contains 
 * https://architect.salesforce.com/design/diagram-templates/how-to-diagram/
 * https://architect.salesforce.com/design/diagram-templates/doc-implementation-templates/
 * https://architect.salesforce.com/design/diagram-templates/kit-of-parts/
+* https://medium.com/salesforce-architects/new-data-models-on-the-architect-digital-home-56d0791ac671
 
 
  
