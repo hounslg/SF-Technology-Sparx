@@ -837,6 +837,17 @@ wSIMTU56mSoAAAAASUVORK5CYII=</Column></DataRow></DataSet></RefData></Images><Dia
 			<Documentation id="AEC7F448-5" name="Salesforce Architecture Diagram" version="2" notes="Salesforce Architecture Diagram"/>
 			<Content>
 				<Stereotypes>
+					<Stereotype name="Salesforce Blueprint" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+						<AppliesTo>
+							<Apply type="Diagram_Logical">
+								<Property name="pdata" value="HideEStereo=1;"/>
+								<Property name="styleex" value="TConnectorNotation=Information Engineering;HideConnStereotype=1;"/>
+								<Property name="alias" value="Blueprint"/>
+								<Property name="diagramID" value="SFBP"/>
+								<Property name="toolbox" value="Salesforce Toolbox"/>
+							</Apply>
+						</AppliesTo>
+					</Stereotype>
 					<Stereotype name="Salesforce Entities" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
 						<AppliesTo>
 							<Apply type="Diagram_Logical">
@@ -846,17 +857,6 @@ wSIMTU56mSoAAAAASUVORK5CYII=</Column></DataRow></DataSet></RefData></Images><Dia
 								<Property name="styleex" value="HideConnStereotype=1;TConnectorNotation=IDEFX1;"/>
 								<Property name="toolbox" value="Salesforce Architecture Entities"/>
 								<Property name="_DefaultDiagramType" value=""/>
-							</Apply>
-						</AppliesTo>
-					</Stereotype>
-					<Stereotype name="Salesforce Landscape" notes="" cx="0" cy="0" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
-						<AppliesTo>
-							<Apply type="Diagram_Logical">
-								<Property name="pdata" value="HideEStereo=1;"/>
-								<Property name="styleex" value="TConnectorNotation=Information Engineering;HideConnStereotype=1;"/>
-								<Property name="alias" value="Salesforce Diagram"/>
-								<Property name="diagramID" value="SFD"/>
-								<Property name="toolbox" value="Salesforce Toolbox"/>
 							</Apply>
 						</AppliesTo>
 					</Stereotype>
